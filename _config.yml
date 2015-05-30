@@ -3,8 +3,8 @@ title: ROOOF
 header-img: img/home-bg.jpg
 email: hellorooof@gmail.com
 description: "ROOOF Memoria proyecto final"
-baseurl: ""
-url: "http://rooof-project.github.io/memoria"
+baseurl: "/memoria"
+url: "http://rooof-project.github.io"
 twitter_username: ROOOF
 github_username:  rooof-project
 facebook_username:  ROOOF
