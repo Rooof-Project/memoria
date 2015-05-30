@@ -1,13 +1,13 @@
 # Site settings
-title: Clean Blog
+title: Rooof memoria
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+email: hellorooof@gmail.com
+description: "Memoria del proyecto final ROOOF para el master en diseño web en BAU Barcelona"
+baseurl: "/memoria"
+url: "http://rooof-project.github.io/memoria/"
+twitter_username: Rooof
+github_username:  Rooof-Project
+facebook_username:  Rooof
 
 # Build settings
 markdown: kramdown
