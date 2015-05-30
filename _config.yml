@@ -1,13 +1,13 @@
 # Site settings
-title: Rooof memoria
+title: Memoria de ROOOF
 header-img: img/home-bg.jpg
 email: hellorooof@gmail.com
-description: "Memoria del proyecto final ROOOF para el master en diseño web en BAU Barcelona"
+description: "memoria de ROOOF"
 baseurl: "/memoria"
 url: "http://rooof-project.github.io"
-twitter_username: Rooof
-github_username:  Rooof-Project
-facebook_username:  Rooof
+twitter_username: SBootstrap
+github_username:  davidtmiller
+facebook_username:  IronSummitMedia
 
 # Build settings
 markdown: kramdown
