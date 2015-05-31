@@ -10,9 +10,12 @@ published: true
 
 <p>Solo para probar si se puede editar online en prose.io</p>
 
-<p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
+<p>Y si que se puede. :)
+Antes de nada, aceptad la invitación al repositorio "memoria" de github que os envié desde la cuenta de rooof-project.
 
-<p>What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.</p>
+Id a prose.io. Os saldrá que teneis que autorizar a github. Le decís que si. Una vez dentro vereis vuestros repositorios, entre ellos la memoria, y desde aquí podeis editar el contenido como si fuera un word.</p>
+
+<p>Los archivos que hay que editar son los que están dentro de la carpeta _post. Los demás no se tocan. Cuidado con el orden de los post, van por orden de fecha, el más reciente saldrá el primero.</p>
 
 <p>A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.</p>
 
