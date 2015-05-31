@@ -79,7 +79,7 @@ Aquí se nos planteaba el problema de que algunas de las fotos serían subidas p
 <p>No teníamos nombre y eso era un problema. Habíamos hecho un montón de investigación y entrevistas intentando conocer a los usuarios, pero no le habíamos dedicado tiempo al nombre. </p>
 <p>Hicimos un sesión de brainstorming justo después de terminar el mapa de insights: los Panda, PandaLong, PlanB, Cobra-Láser...
 Salieron un motón de nombres pero no nos acabó de encajar ninguno, finalmente nos decantamos por ROOF, por estar ligado semánticamente a lo que ofrece la plataforma.</p>
-<p>Hicimos  pruebas y al final nos decantamos por un logotipo simple: con la conexión semántica y la tipografía corporativa tendríamos una versión mínima de logo, ya que sobre todo nos centrábamos en el diseño de la plataforma en sí, y no solamente en la imagen corporativa de una marca, por lo que siempre tuvimos pendiente hacer una revisión y mejora del logotipo que nunca llegó.</p>
+<p>Para el logotipo hicimos varias pruebas y al final nos decidimos por un logotipo simple: con la conexión semántica y la tipografía corporativa tendríamos una versión mínima de logo, ya que sobre todo nos centrábamos en el diseño de la plataforma en sí, y no solamente en la imagen corporativa de una marca, por lo que siempre tuvimos pendiente hacer una revisión y mejora del logotipo que nunca llegó.</p>
 
 <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
 <span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
