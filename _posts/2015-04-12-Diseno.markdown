@@ -78,6 +78,16 @@ Salieron un motón de nombres pero no nos acabó de encajar ninguno, finalmente 
 <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
 <span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
 
+<h2 class="section-heading">Style guide</h2>
+<p>Con todos los elementos corporativos comenzamos a hacer una guía de estilo. La primera sería un simple PDF. Más adelante, según fueron avanzando las clases nos dimos cuenta que debíamos crear una guía de estilo viva, usando el mismo css de la web.</p>
+
+<p>Intentamos seguir el enfoque de Brad Frost y el<a href="http://patternlab.io/about.html"> atomic design</a>, con un planteamiento de diseño orientado a objetos que nos permitiría tener un control de los elementos de la web y hacerlos reusables, empezando siempre por elementos más simples y globales como estilos tipográficos o colores, hasta llegar a elementos más complejos como formularios, botones o módulos reusables.</p>
+<p>La guía de estilo nos ha ayudado a documentar los elementos básicos de la web, y a reutilizar nuestro propio código, eliminando duplicidades. Así como a eliminar dudas respecto a estilos, que siempre van surgiendo a lo largo del proceso de diseño.</p>
+<p>También nos ha ayudado a darnos cuenta de que en realidad estamos diseñando un sistema, y no una serie de páginas estáticas. Cada página de la web comparte elementos con otra y la guía nos ha ayudado a establecer un código visual, y a agilizar el código.</p>
+
+<p>Puedes ver la guía <a href="http://rooof-project.github.io/style-guide">aquí</a>.</p>
+
+
 
 
 
