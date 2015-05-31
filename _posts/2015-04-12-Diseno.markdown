@@ -35,7 +35,7 @@ Al trabajar por releases, y tener un tiempo limitado para abarcar todos los aspe
 <p>- Gratuítas: El dinero es un factor importante. Por lo que optamos por el momento en no gastar dinero en tipografía. Google fonts nos ofrecía un catálogo numeroso de tipografías completamente gratuítas.
 <p>- Diferentes pesos tipográficos: Escogimos tipografías con varios pesos,  para que nos diese juego a la hora de crear la identidad.</p>
 
-<h3>Tipografía</h3>
+<h3>Familias tipográficas</h3>
 
 <p><strong>Familia Dosis:</strong> Aunque es la tipografía con más carácter y la que más personalidad aporta no es de fácil lectura por lo que fuimos delimitando su uso para titulares principales y secundarios, equilibrando identidad y legibilidad.
 Nos aporta los valores de desfenfado, diversión y juventud  que fuimos detectando en el target.</p>
@@ -66,6 +66,14 @@ Aquí se nos planteaba el problema de que algunas de las fotos serían subidas p
 <p>De esta manera planteamos un estilo fotográfico fresco y desenfadado, una fotografía amateur pero atrayente, un estilo de foto que recordara a Instagram. </p>
 
 <p>Usamos este estilo fotográfico para las fotos dinámicas y también para las secciones estáticas de la web. De esta manera fuimos habilitando secciones de la web donde la fotografía iría cobrando mas peso, volviéndose protagonista y ayudando a llamar la atención sobre aquellas acciones de la web que consideramos más importantes: cabeceras con imágenes grandes que te llevan directamente a la búsqueda de eventos o call to actions con imágenes full page que te animan a que crees tu propio evento.</p>
+
+<h2 class="section-heading">Logotipo y naming</h2>
+<p>No teníamos nombre y eso era un problema. Habíamos hecho un montón de investigación y entrevistas intentando conocer a los usuarios, pero no le habíamos dedicado tiempo al nombre. </p>
+<p>Hicimos un sesión de brainstorming justo después de terminar el mapa de insights: los Panda, PandaLong, PlanB, Cobra-Láser...
+Salieron un motón de nombres pero no nos acabó de encajar ninguno, finalmente nos decantamos por ROOF, por estar ligado semánticamente a lo que ofrece la plataforma.</p>
+<p>Hicimos  pruebas y al final nos decantamos por un logotipo simple: con la conexión semántica y la tipografía corporativa tendríamos una versión mínima de logo, ya que sobre todo nos centrábamos en el diseño de la plataforma en sí, y no solamente en la imagen corporativa de una marca, por lo que siempre tuvimos pendiente hacer una revisión y mejora del logotipo que nunca llegó.</p>
+
+<img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
 
 
 
