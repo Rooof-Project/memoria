@@ -2,7 +2,7 @@
 layout: post
 title: Cómo empezó todo
 subtitle: El brief que perdimos echando una moneda al aire
-date: {}
+date:      2015-04-20 12:00:00
 author: Iván
 "header-img": "img/background-party.jpg"
 ---

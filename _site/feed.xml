@@ -5,8 +5,8 @@
     <description>ROOOF Memoria proyecto final</description>
     <link>http://rooof-project.github.io/memoria/</link>
     <atom:link href="http://rooof-project.github.io/memoria/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 31 May 2015 15:12:13 +0200</pubDate>
-    <lastBuildDate>Sun, 31 May 2015 15:12:13 +0200</lastBuildDate>
+    <pubDate>Sun, 31 May 2015 18:29:10 +0200</pubDate>
+    <lastBuildDate>Sun, 31 May 2015 18:29:10 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -26,7 +26,7 @@ Id a prose.io. Os saldrá que teneis que autorizar a github. Le decís que si. U
 
 &lt;p&gt;Para ver el blog online podeis hacerlo desde el mismo repositorio de github, abajo del todo hay un link que pone &quot;View Live Demo →&quot; o &lt;a href=&quot;http://rooof-project.github.io/memoria&quot;&gt;desde aquí&lt;/a&gt;. Para ver los cambios que habéis hecho refrescad la página, tarda un poquito, quizá tengáis que refrescar 2 o 3 veces.&lt;/p&gt;
 
-&lt;p&gt;A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That&#39;s how I felt seeing the Earth for the first time. I could not help but love and cherish her.&lt;/p&gt;
+&lt;p&gt;dsbv fvdvA Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That&#39;s how I felt seeing the Earth for the first time. I could not help but love and cherish her.&lt;/p&gt;
 
 &lt;p&gt;For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.&lt;/p&gt;
 
@@ -382,18 +382,34 @@ Al trabajar por releases, y tener un tiempo limitado para abarcar todos los aspe
 &lt;h2 class=&quot;section-heading&quot;&gt;El target&lt;/h2&gt;
 
 &lt;p&gt;A medida que íbamos avanzando con el proyecto fuimos conociendo mejor al tipo de usuario que usaría la plataforma. Vimos que la mayor parte de nuestros usuarios son gente joven (20-45), personas abiertas, con ganas de conocer gente nueva y compartir sus aficiones y creaciones en eventos desenfadados. Por tanto la identidad planteada tenía que ser informal, divertida, juvenil y cercana.
-&lt;p&gt;For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.&lt;/p&gt;
 
 &lt;h2 class=&quot;section-heading&quot;&gt;Elementos de la identidad&lt;/h2&gt;
+&lt;a href=&quot;#&quot;&gt;
+    &lt;img src=&quot;/memoria/img/post-sample-image.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
+&lt;/a&gt;
 &lt;h3&gt;Tipografía&lt;/h3&gt;
 
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+&lt;p&gt;Rooof usa la combinación de tres familias tipográficas, con la intención de crear un ritmo visual mediante el contraste.&lt;/p&gt;
 
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+&lt;p&gt;Aparte de los requerimientos de identidad que la propia plataforma nos iba exigiendo, hemos tenido en cuenta aspectos técnicos y económicos para la elección tipográfica:
 
-&lt;blockquote&gt;The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.&lt;/blockquote&gt;
+- Web fonts: Usamos fuentes de google fonts,  por ser de fácil integración en el desarrollo de la plataforma.
+- Gratuítas: El dinero es un factor importante. Por lo que optamos por el momento en no gastar dinero en tipografía. Google fonts nos ofrecía un catálogo numeroso de tipografías completamente gratuítas.
+- Diferentes pesos tipográficos: Escogimos tipografías con varios pesos,  para que nos diese juego a la hora de crear la identidad.&lt;/p&gt;
 
-&lt;p&gt;Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.&lt;/p&gt;
+
+&lt;h3&gt;Código tipográfico&lt;/h3&gt;
+
+&lt;p&gt;**Familia Dosis:** Aunque es la tipografía con más carácter y la que más personalidad aporta no es de fácil lectura por lo que fuimos delimitando su uso para titulares principales y secundarios, equilibrando identidad y legibilidad.
+Nos aporta los valores de desfenfado, diversión y juventud  que fuimos detectando en el target.&lt;/p&gt;
+
+&lt;p&gt;**Familia PT serif:** más humanística, nos aporta los valores culturales.  Además como es de fácil lectura la usamos para cuerpos de texto y todo párrafo relaccionado con el contenido que los usuarios irán generando.&lt;/p&gt;
+
+&lt;p&gt;**Familia PT Sans:** Es una tipografía sin serifa, mucho más técnica y de fácil lectura. La usamos de apoyo con la tipografía principal Dosis, con la intención de crear contraste y ritmo.
+También la usamos para la comunicación de la plataforma con los usuarios: Formularios, alertas, mensajes de ayuda,  o datos puramente informativos como fechas, aforo, precios...&lt;/p&gt;
+
+&lt;blockquote&gt;Hubo un momento que teníamos demasiados pesos tipográficos, que fuimos depurando hasta usar solo tres para la Dosis, y uno para cada una de las PT, mas us versión bold.  Con esto conseguimos unidad en los estilos y eliminar peso inecesario en la web de ROOOF.&lt;/blockquote&gt;
+
 
 
 
