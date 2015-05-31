@@ -100,6 +100,14 @@ Salieron un motón de nombres pero no nos acabó de encajar ninguno, finalmente 
 
 <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
 
+<h2 class="section-heading">Y todavía seguimos...</h2>
+
+<p>Al final hemos conseguido que la web tenga un estilo visual sólido y hemos establecido una manera de implementarlo que vamos mejorando.
+
+Nos hubiera gustado desarrollar más a fondo la guía de estilo, hacerla más útil y completarla con más elementos, así como mejorar algunos aspectos como el uso del color o un diseño más impactante en las páginas interiores.</p>
+
+
+
 
 
 
