@@ -2,8 +2,6 @@
 layout:     post
 title:      "Explicación del proyecto"
 subtitle:   "Subtítulo."
-date:       2015-04-19 12:00:00
-author:     "Start Bootstrap"
 header-img: "img/post-bg-05.jpg"
 ---
 

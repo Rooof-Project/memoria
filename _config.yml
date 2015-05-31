@@ -27,20 +27,16 @@ prose:
     - /_includes
   metadata:
     _posts:
+      - name: "published"
+        field:
+          label: "published"
+          element: "checkbox"
+          value: "true"
       - name: "layout"
         field:
-          element: "hidden"
-          value: "blog"
-      - name: "tags"
-        field:
-          element: "multiselect"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
-          options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
+          label: "layout"
+          element: "text"
+          value: "post"
     _posts/static:
       - name: "layout"
         field:

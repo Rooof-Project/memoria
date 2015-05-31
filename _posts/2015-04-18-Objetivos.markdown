@@ -2,8 +2,6 @@
 layout:     post
 title:      "Objetivos"
 subtitle:   "We predict too much for the next year and yet far too little for the next ten."
-date:       2015-04-18 12:00:00
-author:     "Start Bootstrap"
 header-img: "img/post-bg-04.jpg"
 ---
 
