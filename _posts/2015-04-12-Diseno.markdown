@@ -12,7 +12,6 @@ published: true
 
 
 <h2 class="section-heading">Proceso de creación</h2>
-<h2 class="section-heading">dsjhagksdjhfkjsdhfklsjdghlkwfjdgshflkwjt</h2>
 
 <p>La identidad de la plataforma también la hemos planteado de manera incremental.
 Al trabajar por releases, y tener un tiempo limitado para abarcar todos los aspectos del proyecto (investigación con usuarios, modelo de negocio, arquitectura, soluciones tecnológicas...) nos dimos cuenta que no podíamos invertir desde el principio todo el tiempo que requiere crear una identidad sólida ya que lo primero era crear la plataforma, hacer un prototipo funcional y probarlo para saber qué caminos escoger. Por lo que en un primer momento decidimos hacer lo básico, una identidad mínima, que iría evolucionando a medida que avanzábamos con el proyecto.
@@ -31,22 +30,42 @@ Al trabajar por releases, y tener un tiempo limitado para abarcar todos los aspe
 
 <p>Rooof usa la combinación de tres familias tipográficas, con la intención de crear un ritmo visual mediante el contraste.</p>
 
-<p>Aparte de los requerimientos de identidad que la propia plataforma nos iba exigiendo, hemos tenido en cuenta aspectos técnicos y económicos para la elección tipográfica:
-- Web fonts: Usamos fuentes de google fonts,  por ser de fácil integración en el desarrollo de la plataforma.
-- Gratuítas: El dinero es un factor importante. Por lo que optamos por el momento en no gastar dinero en tipografía. Google fonts nos ofrecía un catálogo numeroso de tipografías completamente gratuítas.
-- Diferentes pesos tipográficos: Escogimos tipografías con varios pesos,  para que nos diese juego a la hora de crear la identidad.</p>
+<p>Aparte de los requerimientos de identidad que la propia plataforma nos iba exigiendo, hemos tenido en cuenta aspectos técnicos y económicos para la elección tipográfica:</p>
+<p>Web fonts: Usamos fuentes de google fonts,  por ser de fácil integración en el desarrollo de la plataforma.</p>
+<p>Gratuítas: El dinero es un factor importante. Por lo que optamos por el momento en no gastar dinero en tipografía. Google fonts nos ofrecía un catálogo numeroso de tipografías completamente gratuítas.
+<p>Diferentes pesos tipográficos: Escogimos tipografías con varios pesos,  para que nos diese juego a la hora de crear la identidad.</p>
 
-<h3>Código tipográfico</h3>
+<h3>Tipografía</h3>
 
 <p><strong>Familia Dosis:</strong> Aunque es la tipografía con más carácter y la que más personalidad aporta no es de fácil lectura por lo que fuimos delimitando su uso para titulares principales y secundarios, equilibrando identidad y legibilidad.
 Nos aporta los valores de desfenfado, diversión y juventud  que fuimos detectando en el target.</p>
 
 <p><strong>Familia PT serif:</strong>más humanística, nos aporta los valores culturales.  Además como es de fácil lectura la usamos para cuerpos de texto y todo párrafo relaccionado con el contenido que los usuarios irán generando.</p>
 
-<p>**Familia PT Sans:** Es una tipografía sin serifa, mucho más técnica y de fácil lectura. La usamos de apoyo con la tipografía principal Dosis, con la intención de crear contraste y ritmo.
+<p><strong>Familia PT Sans:</strong> Es una tipografía sin serifa, mucho más técnica y de fácil lectura. La usamos de apoyo con la tipografía principal Dosis, con la intención de crear contraste y ritmo.
 También la usamos para la comunicación de la plataforma con los usuarios: Formularios, alertas, mensajes de ayuda,  o datos puramente informativos como fechas, aforo, precios...</p>
 
 <blockquote>Hubo un momento que teníamos demasiados pesos tipográficos, que fuimos depurando hasta usar solo tres para la Dosis, y uno para cada una de las PT, mas us versión bold.  Con esto conseguimos unidad en los estilos y eliminar peso inecesario en la web de ROOOF.</blockquote>
+
+<h3>Color</h3>
+<p>Como color corporativo usamos el rosa, en combinación con otros colores secundarios: blanco, gris y negro.</p>
+
+<img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
+
+<p>En un principio planteamos la identidad con 3 colores principales: amarillo, verde y rosa. Esto nos ofrecía el aire desenfadado e informal que queríamos dar pero nos planteaba otros problemas. No fuimos capaces a establecer un código de color eficaz y siempre nos surgía la duda de que color usar para cada contenido. De esta manera el color no tenía un fin claro y se volvía únicamente decorativo. También con el uso de varios colores nos acercábamos a un aire más infantil que juvenil.</p>
+<p>Descartamos el uso del amarillo por el claro problema de legibilidad, y escogimos el rosa por ser un color más enérgico y con más fuerza que el verde.
+Con la combinación del rosa y los grises conseguimos separar contenidos e ir guiando al usuario a través de las distintas secciones, estableciendo también que información es más prioritaria. De esta manera, el color no solo tiene un componente de identidad, si no que también tiene peso en la arquitectura de la información.</p>
+
+<h3>Fotografía</h3>
+
+<img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
+
+<p>Desde el principio tuvimos claro que la fotografía iba a tener mucho peso en la plataforma. Debía ser el recurso principal para que los usuarios se sintieran atraídos por los eventos.
+Aquí se nos planteaba el problema de que algunas de las fotos serían subidas por los usuarios, y eso trae el peligro de no tener un control en el estilo fotográfico. Pero si que podíamos dar una guía visual, algo que los usuarios vieran y pudieran imitar de alguna forma. </p>
+
+<p>De esta manera planteamos un estilo fotográfico fresco y desenfadado, una fotografía amateur pero atrayente, un estilo de foto que recordara a Instagram. </p>
+
+<p>Usamos este estilo fotográfico para las fotos dinámicas y también para las secciones estáticas de la web. De esta manera fuimos habilitando secciones de la web donde la fotografía iría cobrando mas peso, volviéndose protagonista y ayudando a llamar la atención sobre aquellas acciones de la web que consideramos más importantes: cabeceras con imágenes grandes que te llevan directamente a la búsqueda de eventos o call to actions con imágenes full page que te animan a que crees tu propio evento.</p>
 
 
 
