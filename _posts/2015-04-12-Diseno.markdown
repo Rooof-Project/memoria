@@ -2,7 +2,6 @@
 layout: post
 title: La identidad de ROOOF
 subtitle: because they lacked opposable thumbs and the brainpower to build a space program.
-
 "header-img": "img/post-bg-01.jpg"
 published: true
 ---
@@ -11,7 +10,9 @@ published: true
 
 
 
+
 <h2 class="section-heading">Proceso de creación</h2>
+<h2 class="section-heading">dsjhagksdjhfkjsdhfklsjdghlkwfjdgshflkwjt</h2>
 
 <p>La identidad de la plataforma también la hemos planteado de manera incremental.
 Al trabajar por releases, y tener un tiempo limitado para abarcar todos los aspectos del proyecto (investigación con usuarios, modelo de negocio, arquitectura, soluciones tecnológicas...) nos dimos cuenta que no podíamos invertir desde el principio todo el tiempo que requiere crear una identidad sólida ya que lo primero era crear la plataforma, hacer un prototipo funcional y probarlo para saber qué caminos escoger. Por lo que en un primer momento decidimos hacer lo básico, una identidad mínima, que iría evolucionando a medida que avanzábamos con el proyecto.
