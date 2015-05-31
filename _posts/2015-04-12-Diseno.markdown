@@ -44,10 +44,10 @@ Nos aporta los valores de desfenfado, diversión y juventud  que fuimos detectan
 
 <p>**Familia PT serif:** más humanística, nos aporta los valores culturales.  Además como es de fácil lectura la usamos para cuerpos de texto y todo párrafo relaccionado con el contenido que los usuarios irán generando.</p>
 
-<p>**Familia PT Sans:** Es una tipografía sin serifa, mucho más técnica y de fácil lectura. La usamos de apoyo con la tipografía principal Dosis, con la intención de crear contraste y ritmo. 
+<p>**Familia PT Sans:** Es una tipografía sin serifa, mucho más técnica y de fácil lectura. La usamos de apoyo con la tipografía principal Dosis, con la intención de crear contraste y ritmo.
 También la usamos para la comunicación de la plataforma con los usuarios: Formularios, alertas, mensajes de ayuda,  o datos puramente informativos como fechas, aforo, precios...</p>
 
-<blockquote>Hubo un momento que teníamos demasiados pesos tipográficos, que fuimos depurando hasta usar solo tres para la dosis, y uno para cada una de las PT, mas us versión bold.  Con esto conseguimos unidad en los estilos y eliminar peso inecesario en la web de ROOOF.</blockquote>
+<blockquote>Hubo un momento que teníamos demasiados pesos tipográficos, que fuimos depurando hasta usar solo tres para la Dosis, y uno para cada una de las PT, mas us versión bold.  Con esto conseguimos unidad en los estilos y eliminar peso inecesario en la web de ROOOF.</blockquote>
 
 
 
