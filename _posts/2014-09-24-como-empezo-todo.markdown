@@ -22,7 +22,7 @@ Id a prose.io. Os saldrá que teneis que autorizar a github. Le decís que si. U
 <p> Y después, una vez escogido el repositorio memoria en el siguiente paso, teneis que aseguraos de que el branch es gh-pages </p>
 ![branch.png]({{site.baseurl}}/img/branch.png)
 
-<p>Para ver el blog online podeis hacerlo desde el mismo repositorio de github, abajo del todo hay un link que pone "View Live Demo →" o desde http://rooof-project.github.io/memoria. Para ver los cambios que habéis hecho refrescad la página, tarda un poquito, quizá tengáis que refrescar 2 o 3 veces.</p>
+<p>Para ver el blog online podeis hacerlo desde el mismo repositorio de github, abajo del todo hay un link que pone "View Live Demo →" o <a href="http://rooof-project.github.io/memoria">desde aquí</a>. Para ver los cambios que habéis hecho refrescad la página, tarda un poquito, quizá tengáis que refrescar 2 o 3 veces.</p>
 
 <p>A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.</p>
 
