@@ -2,10 +2,12 @@
 layout: post
 title: La identidad de ROOOF
 subtitle: because they lacked opposable thumbs and the brainpower to build a space program.
-date:     2015-04-12 12:00:00
+date: {}
 author: Start Bootstrap
 "header-img": "img/post-bg-01.jpg"
+published: true
 ---
+
 
 
 
@@ -30,18 +32,16 @@ Al trabajar por releases, y tener un tiempo limitado para abarcar todos los aspe
 <p>Rooof usa la combinación de tres familias tipográficas, con la intención de crear un ritmo visual mediante el contraste.</p>
 
 <p>Aparte de los requerimientos de identidad que la propia plataforma nos iba exigiendo, hemos tenido en cuenta aspectos técnicos y económicos para la elección tipográfica:
-
 - Web fonts: Usamos fuentes de google fonts,  por ser de fácil integración en el desarrollo de la plataforma.
 - Gratuítas: El dinero es un factor importante. Por lo que optamos por el momento en no gastar dinero en tipografía. Google fonts nos ofrecía un catálogo numeroso de tipografías completamente gratuítas.
 - Diferentes pesos tipográficos: Escogimos tipografías con varios pesos,  para que nos diese juego a la hora de crear la identidad.</p>
 
-
 <h3>Código tipográfico</h3>
 
-<p>**Familia Dosis:** Aunque es la tipografía con más carácter y la que más personalidad aporta no es de fácil lectura por lo que fuimos delimitando su uso para titulares principales y secundarios, equilibrando identidad y legibilidad.
+<p><strong>Familia Dosis:</strong> Aunque es la tipografía con más carácter y la que más personalidad aporta no es de fácil lectura por lo que fuimos delimitando su uso para titulares principales y secundarios, equilibrando identidad y legibilidad.
 Nos aporta los valores de desfenfado, diversión y juventud  que fuimos detectando en el target.</p>
 
-<p>**Familia PT serif:** más humanística, nos aporta los valores culturales.  Además como es de fácil lectura la usamos para cuerpos de texto y todo párrafo relaccionado con el contenido que los usuarios irán generando.</p>
+<p><strong>Familia PT serif:</strong>más humanística, nos aporta los valores culturales.  Además como es de fácil lectura la usamos para cuerpos de texto y todo párrafo relaccionado con el contenido que los usuarios irán generando.</p>
 
 <p>**Familia PT Sans:** Es una tipografía sin serifa, mucho más técnica y de fácil lectura. La usamos de apoyo con la tipografía principal Dosis, con la intención de crear contraste y ritmo.
 También la usamos para la comunicación de la plataforma con los usuarios: Formularios, alertas, mensajes de ayuda,  o datos puramente informativos como fechas, aforo, precios...</p>
