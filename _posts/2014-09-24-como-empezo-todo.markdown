@@ -8,7 +8,7 @@ published: true
 ---
 
 
-<p>Solo para probar</p>
+<p>Solo para probar si se puede editar online en prose.io</p>
 
 <p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
 
