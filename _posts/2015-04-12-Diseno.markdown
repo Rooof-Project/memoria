@@ -10,6 +10,7 @@ published: true
 
 
 
+
 <h2 class="section-heading">Proceso de creación</h2>
 
 <p>La identidad de la plataforma también la hemos planteado de manera incremental.
@@ -22,6 +23,9 @@ Al trabajar por releases, y tener un tiempo limitado para abarcar todos los aspe
 <p>A medida que íbamos avanzando con el proyecto fuimos conociendo mejor al tipo de usuario que usaría la plataforma. Vimos que la mayor parte de nuestros usuarios son gente joven (20-45), personas abiertas, con ganas de conocer gente nueva y compartir sus aficiones y creaciones en eventos desenfadados. Por tanto la identidad planteada tenía que ser informal, divertida, juvenil y cercana.
 
 <h2 class="section-heading">Elementos de la identidad</h2>
+<a href="#">
+    <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
+</a>
 <h3>Tipografía</h3>
 
 <p>Rooof usa la combinación de tres familias tipográficas, con la intención de crear un ritmo visual mediante el contraste.</p>
