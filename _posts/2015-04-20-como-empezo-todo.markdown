@@ -5,12 +5,7 @@ subtitle: El brief que perdimos echando una moneda al aire
 date: {}
 author: Iván
 "header-img": "img/background-party.jpg"
-published: true
 ---
-
-
-
-
 
 <p>Solo para probar si el contenido del blog se puede editar online en prose.io</p>
 
