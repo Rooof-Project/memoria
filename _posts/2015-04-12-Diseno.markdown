@@ -29,9 +29,10 @@ Al trabajar por releases, y tener un tiempo limitado para abarcar todos los aspe
     <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
 </a>
 
-<quote> Rooof es un amigo que te recomienda nuevas formas de disfrutar de tu tiempo libre.</quote>
+<blockquote> Rooof es un amigo que te recomienda nuevas formas de disfrutar de tu tiempo libre.</blockquote>
 <p>Así es como fuimos definiendo el proyecto y la identidad debía reflejarlo.
 Con la combinación de tipografía, fotografía y color fuimos dando forma a la web.</p>
+
 <h3>Tipografía</h3>
 
 <p>Rooof usa la combinación de tres familias tipográficas, con la intención de crear un ritmo visual mediante el contraste.</p>
@@ -86,17 +87,22 @@ Salieron un motón de nombres pero no nos acabó de encajar ninguno, finalmente 
 <h2 class="section-heading">Style guide</h2>
 <p>Con todos los elementos corporativos comenzamos a hacer una guía de estilo. La primera sería un simple PDF. Más adelante, según fueron avanzando las clases nos dimos cuenta que debíamos crear una guía de estilo viva, usando el mismo css de la web.</p>
 
-<p>Intentamos seguir el enfoque de Brad Frost y el<a href="http://patternlab.io/about.html"> atomic design</a>, con un planteamiento de diseño orientado a objetos que nos permitiría tener un control de los elementos de la web y hacerlos reusables, empezando siempre por elementos más simples y globales como estilos tipográficos o colores, hasta llegar a elementos más complejos como formularios, botones o módulos reusables.</p>
+<p>Intentamos seguir el enfoque de Brad Frost y el<a href="http://patternlab.io/about.html">atomic design</a>, con un planteamiento de <strong>diseño orientado a objetos</strong> que nos permitiría tener un control de los elementos de la web y hacerlos reusables, empezando siempre por elementos más simples y globales como estilos tipográficos o colores, hasta llegar a elementos más complejos como formularios, botones o módulos reusables.</p>
 <p>La guía de estilo nos ha ayudado a documentar los elementos básicos de la web, y a reutilizar nuestro propio código, eliminando duplicidades. Así como a eliminar dudas respecto a estilos, que siempre van surgiendo a lo largo del proceso de diseño.</p>
-<p>También nos ha ayudado a darnos cuenta de que en realidad estamos diseñando un sistema, y no una serie de páginas estáticas. Cada página de la web comparte elementos con otra y la guía nos ha ayudado a establecer un código visual, y a agilizar el código.</p>
+<p>También nos ha ayudado a darnos cuenta de que en realidad estamos diseñando un sistema, y no una serie de páginas estáticas. Cada página de la web comparte elementos con otra y la guía nos ha ayudado a establecer un código visual, y a agilizar el desarrollo.</p>
 
 <p>Puedes ver la guía <a href="http://rooof-project.github.io/style-guide">aquí</a>.</p>
 
 <h2 class="section-heading">Layout Responsive!</h2>
 <p>Para la construcción de las distintas páginas planteamos el uso de un grid a 12 columnas, por ser un grid muy versátil en cuanto al ancho de los módulos. De esta manera podemos variar y jugar con diferentes espacios.</p>
 
+<p><strong>El responsive fue todo un reto.</strong> Cometimos el error de dejar muy de lado la versión móvil hasta bien avanzado el proyecto. En lugar de empezar por móvil empezamos por la versión desktop, y no comenzamos con la parte responsive hasta la tercera release. Por eso hubo secciones de la web que se han rediseñado de nuevo pensando en multidispositivo, como el formulario de crear eventos o los perfiles de usuario. También tuvimos que hacer un refactoring del código para convertirlo en multidispositivo, lo que nos vino muy bien para incorporar nuevas herramientas que fuimos aprendiendo como <strong>sass</strong> o frameworks como <strong>Foundation</strong>.</p>
+
+<img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
 
 
 
 
-<p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
+
+
+
