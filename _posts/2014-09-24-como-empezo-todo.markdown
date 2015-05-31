@@ -8,12 +8,12 @@ published: true
 ---
 
 
-<p>Solo para probar si se puede editar online en prose.io</p>
+<p>Solo para probar si el contenido del blog se puede editar online en prose.io</p>
 
-<p>Y si que se puede. :)
-Antes de nada, aceptad la invitación al repositorio "memoria" de github que os envié desde la cuenta de rooof-project.
+<p>Y si que se puede. :)</p>
+<p> Antes de nada, aceptad la invitación al repositorio "memoria" de github que os envié desde la cuenta de rooof-project.
 
-Id a prose.io. Os saldrá que teneis que autorizar a github. Le decís que si. Una vez dentro vereis vuestros repositorios, entre ellos la memoria, y desde aquí podeis editar el contenido como si fuera un word. Los archivos que hay que editar son los que están dentro de la carpeta _post. Los demás no se tocan. Cuidado con el orden de los post, van por orden de fecha, el más reciente saldrá el primero. </p></p>
+Id a prose.io. Os saldrá que teneis que autorizar a github. Le decís que si. Una vez dentro vereis vuestros repositorios, entre ellos la memoria, y desde aquí podeis editar el contenido como si fuera un word. Los archivos que hay que editar son los que están dentro de la carpeta _post. Los demás no se tocan. Cuidado con el orden de los post, van por orden de fecha, el más reciente saldrá el primero. </p>
 
 <p>Para ver el blog online podeis hacerlo desde el mismo repositorio de github, abajo del todo hay un link que pone "View Live Demo →" o [desde aquí](http://rooof-project.github.io/memoria/)</p>
 
