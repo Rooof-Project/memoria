@@ -36,7 +36,7 @@ a {
 	color: @brand-primary;
 	&:hover,
 	&:focus {
-		color: @brand-primary;
+		color:fadeout(@brand-primary, 50%);
 	}
 }
 
@@ -68,15 +68,20 @@ hr.small {
 	left: 0;
 	width: 100%;
 	z-index: 3;
-	font-family: 'Dosis', sans-serif;
+	font-family: 'Dosis', sans-serif !important;
 	.navbar-brand {
 		font-weight: 800;
+			a{
+				background-color: white;
+				padding: 10px;
+				border-radius: 2px;
+			}
 	}
 	.nav {
 		li {
 			a {
 				text-transform: uppercase;
-				font-size: 12px;
+				font-size: 13px;
 				font-weight: 800;
 				letter-spacing: 1px;
 			}
@@ -90,7 +95,13 @@ hr.small {
 			padding: 20px;
 			&:hover,
 			&:focus {
-				color: @white-faded;
+				color: @brand-primary;
+				a{
+				background-color: white;
+				padding: 10px;
+				border-radius: 2px;
+			}
+
 			}
 		}
 		.nav {
@@ -410,7 +421,7 @@ form .row:first-child .floating-label-form-group {
 			letter-spacing: 1px;
 			padding: 10px 5px;
 			background-color: white;
-			border-radius: 0;
+			border-radius: 2;
 			@media only screen and (min-width: 768px) {
 				font-size: 14px;
 				padding: 15px 25px;
@@ -463,4 +474,48 @@ img::-moz-selection {
 
 body {
 	webkit-tap-highlight-color: @brand-primary;
+}
+
+.scroll-top {
+    z-index: 1049;
+    position: fixed;
+    right: 2%;
+    bottom: 2%;
+    width: 50px;
+    height: 50px;
+
+}
+
+.scroll-top .btn {
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    font-size: 20px;
+    line-height: 28px;
+    background-color: fade(@gray, 30%);
+    border: transparent;
+}
+
+.scroll-top .btn:hover {
+
+    background-color: @brand-primary;
+    border: transparent;
+
+}
+
+.scroll-top .btn:focus {
+    outline: 0;
+}
+
+i.fa-chevron-up {
+  display: inline-block;
+  position: relative;
+  right: 10px;
+  bottom: 5px;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }

@@ -25,12 +25,15 @@ h6 {
   font-family: 'Dosis', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
+h2.section-heading {
+  color: #ff3766;
+}
 a {
-  color: #404040;
+  color: #ff3766;
 }
 a:hover,
 a:focus {
-  color: #ff3766;
+  color: rgba(255, 55, 102, 0.5);
 }
 a img:hover,
 a img:focus {
@@ -53,14 +56,19 @@ hr.small {
   left: 0;
   width: 100%;
   z-index: 3;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Dosis', sans-serif !important;
 }
 .navbar-custom .navbar-brand {
   font-weight: 800;
 }
+.navbar-custom .navbar-brand a {
+  background-color: white;
+  padding: 10px;
+  border-radius: 2px;
+}
 .navbar-custom .nav li a {
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 13px;
   font-weight: 800;
   letter-spacing: 1px;
 }
@@ -75,7 +83,13 @@ hr.small {
   }
   .navbar-custom .navbar-brand:hover,
   .navbar-custom .navbar-brand:focus {
-    color: rgba(255, 255, 255, 0.8);
+    color: #ff3766;
+  }
+  .navbar-custom .navbar-brand:hover a,
+  .navbar-custom .navbar-brand:focus a {
+    background-color: white;
+    padding: 10px;
+    border-radius: 2px;
   }
   .navbar-custom .nav li a {
     color: white;
@@ -170,7 +184,7 @@ hr.small {
   font-size: 24px;
   line-height: 1.1,
 			display: block;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Dosis', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
   margin: 10px 0 0;
 }
@@ -189,7 +203,7 @@ hr.small {
   display: block;
 }
 .intro-header .post-heading .subheading {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Dosis', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 24px;
   margin: 10px 0 30px;
   font-weight: 600;
@@ -327,7 +341,7 @@ form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eeeeee;
 }
 .btn {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Dosis', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 800;
@@ -350,14 +364,14 @@ form .row:first-child .floating-label-form-group {
 }
 .pager li > a,
 .pager li > span {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Dosis', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 800;
   letter-spacing: 1px;
   padding: 10px 5px;
   background-color: white;
-  border-radius: 0;
+  border-radius: 2;
 }
 @media only screen and (min-width: 768px) {
   .pager li > a,
@@ -400,4 +414,40 @@ img::-moz-selection {
 }
 body {
   webkit-tap-highlight-color: #ff3766;
+}
+.scroll-top {
+  z-index: 1049;
+  position: fixed;
+  right: 2%;
+  bottom: 2%;
+  width: 50px;
+  height: 50px;
+}
+.scroll-top .btn {
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+  font-size: 20px;
+  line-height: 28px;
+  background-color: rgba(128, 128, 128, 0.3);
+  border: transparent;
+}
+.scroll-top .btn:hover {
+  background-color: #ff3766;
+  border: transparent;
+}
+.scroll-top .btn:focus {
+  outline: 0;
+}
+i.fa-chevron-up {
+  display: inline-block;
+  position: relative;
+  right: 10px;
+  bottom: 5px;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }

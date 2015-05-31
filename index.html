@@ -14,7 +14,7 @@ description: "Memoria del proyecto"
         </h3>
         {% endif %}
     </a>
-    <p class="post-meta">Escrito por {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} </p>
+    <p class="post-meta"></p>
 </div>
 <hr>
 {% endfor %}
@@ -24,12 +24,12 @@ description: "Memoria del proyecto"
 <ul class="pager">
     {% if paginator.previous_page %}
     <li class="previous">
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr;  Posts Nuevos</a>
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr;  Atrás</a>
     </li>
     {% endif %}
     {% if paginator.next_page %}
     <li class="next">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"> Posts anteriores &rarr;</a>
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"> Siguiente &rarr;</a>
     </li>
     {% endif %}
 </ul>
