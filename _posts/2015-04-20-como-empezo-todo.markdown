@@ -1,12 +1,13 @@
 ---
-layout:       post
-title:        "Cómo empezó todo"
-subtitle:     "El brief que perdimos echando una moneda al aire"
-date:         2015-04-20 12:00:00
-author:       "Iván"
+layout: post
+title: Cómo empezó todo
+subtitle: El brief que perdimos echando una moneda al aire
+date: {}
+author: Iván
 "header-img": "img/background-party.jpg"
 published: true
 ---
+
 
 
 
@@ -26,7 +27,7 @@ Id a prose.io. Os saldrá que teneis que autorizar a github. Le decís que si. U
 
 <p>Para ver el blog online podeis hacerlo desde el mismo repositorio de github, abajo del todo hay un link que pone "View Live Demo →" o <a href="http://rooof-project.github.io/memoria">desde aquí</a>. Para ver los cambios que habéis hecho refrescad la página, tarda un poquito, quizá tengáis que refrescar 2 o 3 veces.</p>
 
-<p>A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.</p>
+<p>dsbv fvdvA Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.</p>
 
 <p>For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.</p>
 
