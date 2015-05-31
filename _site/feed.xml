@@ -5,8 +5,8 @@
     <description>ROOOF Memoria proyecto final</description>
     <link>http://rooof-project.github.io/memoria/</link>
     <atom:link href="http://rooof-project.github.io/memoria/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 31 May 2015 14:56:15 +0200</pubDate>
-    <lastBuildDate>Sun, 31 May 2015 14:56:15 +0200</lastBuildDate>
+    <pubDate>Sun, 31 May 2015 15:04:34 +0200</pubDate>
+    <lastBuildDate>Sun, 31 May 2015 15:04:34 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -371,18 +371,8 @@ Id a prose.io. Os saldrá que teneis que autorizar a github. Le decís que si. U
       </item>
     
       <item>
-        <title>Diseno</title>
-        <description>
-&lt;p&gt;layout: post
-title: La identidad de ROOOF
-subtitle: because they lacked opposable thumbs and the brainpower to build a space program.
-date: {}
-author: Start Bootstrap
-“header-img”: “img/post-bg-01.jpg”
-published: true
-—&lt;/p&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;Proceso de creación&lt;/h2&gt;
+        <title>La identidad de ROOOF</title>
+        <description>&lt;h2 class=&quot;section-heading&quot;&gt;Proceso de creación&lt;/h2&gt;
 
 &lt;p&gt;La identidad de la plataforma también la hemos planteado de manera incremental.
 Al trabajar por releases, y tener un tiempo limitado para abarcar todos los aspectos del proyecto (investigación con usuarios, modelo de negocio, arquitectura, soluciones tecnológicas...) nos dimos cuenta que no podíamos invertir desde el principio todo el tiempo que requiere crear una identidad sólida ya que lo primero era crear la plataforma, hacer un prototipo funcional y probarlo para saber qué caminos escoger. Por lo que en un primer momento decidimos hacer lo básico, una identidad mínima, que iría evolucionando a medida que avanzábamos con el proyecto.
@@ -410,7 +400,7 @@ Al trabajar por releases, y tener un tiempo limitado para abarcar todos los aspe
 &lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://www.flickr.com/photos/nasacommons/&quot;&gt;NASA on The Commons&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 12 Apr 2015 00:00:00 +0200</pubDate>
+        <pubDate>Sun, 12 Apr 2015 14:00:00 +0200</pubDate>
         <link>http://rooof-project.github.io/memoria/2015/04/12/Diseno/</link>
         <guid isPermaLink="true">http://rooof-project.github.io/memoria/2015/04/12/Diseno/</guid>
         
