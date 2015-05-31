@@ -19,6 +19,8 @@ Id a prose.io. Os saldrá que teneis que autorizar a github. Le decís que si. U
 <p> Hay una cosa a tener en cuenta: cuando entreis a prose.io, en la primera pantalla arriba a la derecha os saldrá un menú para escoger el ususuario, teneis que escoger Rooofproject. </p>
 ![group.png]({{site.baseurl}}/img/group.png)
 
+<p> Y después, una vez escogido el repositorio memoria en el siguiente paso, teneis que aseguraos de que el branch es gh-pages </p>
+![branch.png]({{site.baseurl}}/img/branch.png)
 
 <p>Para ver el blog online podeis hacerlo desde el mismo repositorio de github, abajo del todo hay un link que pone "View Live Demo →" o desde [http://rooof-project.github.io/memoria/]. Para ver los cambios que habéis hecho refrescad la página, tarda un poquito, quizá tengáis que refrescar 2 o 3 veces.</p>
 
