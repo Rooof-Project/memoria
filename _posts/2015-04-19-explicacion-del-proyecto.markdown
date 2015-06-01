@@ -1,41 +1,25 @@
 ---
-layout:     post
-title:      "Explicación del proyecto"
-subtitle:   "Subtítulo."
-header-img: "img/post-bg-05.jpg"
+layout: post
+title: 1 Introducción y contexto
+subtitle: Subtítulo.
+"header-img": "img/post-bg-05.jpg"
+published: true
 ---
 
-<p>dfasdfsd fdgNever in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
+<p> Durante el transcurso del máster hemos aprendido conceptos que nos adentrado en el ámbito del diseño web. Hemos adquirido conocimientos de UX, programación, diseño web, prototipado... En definitiva, somos capaces de entender de forma holística un proyecto digital desde el negocio hasta la arquitectura técnica.
 
-<p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
+Además hemos sabido implementar, con mayor o menor acierto, nuestro bagaje académico y profesional en este nuevo reto que ha sido este proyecto que presentamos.
 
-<p>What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.</p>
+Ahora somos capaces de entender el proceso de trabajo iterativo incremental y estamos familiarizado con los valores de las metodologías Agile y Lean. Y es más, incluso lo defendemos y lo intentamos aplicar en nuestras actuales profesiones y seguro que en el futuro próximo.
 
-<p>A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.</p>
+Nuestro proyecto responde a nuestra necesidad de fomentar la cultura en cualquier ámbito. Cuando supimos que teníamos la oportunidad de realizar un proyecto cultural no dudamos en ello. Gracias a éste interés surgió la idea de crear ROOOF.
 
-<p>For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.</p>
+Desde un principio siempre rondaba una idea en nuestras cabezas: asistir a actos culturales de una forma más fácil, barata y comunitaria. Pensamos que teníamos que enlazarlo con los espacios privados de los usuarios: sus casas.
 
-<h2 class="section-heading">The Final Frontier</h2>
+Nos impusimos esta máxima: sin espacio privado no hay proyecto. Temíamos que Rooof se convirtiese en una mera agenda cultural, de las que ya existen tantas como "le cool", "time out" etc... Agendas que enlazan negocios culturales con usuarios.
+No queríamos estar relacionados con este circuito clásico del negocio, queríamos crear el nuestro, uno diferente creado por personas sin necesidad de infraestructura especial para su desarrollo.
 
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
+Por ejemplo, nos alejamos de las salas donde se desarrollan espectáculos ya que son un negocio y como tal tienen que generar dinero: debíamos saltarnos este intermediario y crear algo espontáneo y comunitario.
 
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
-
-<blockquote>The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.</blockquote>
-
-<p>Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.</p>
-
-<h2 class="section-heading">Reaching for the Stars</h2>
-
-<p>As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.</p>
-
-<a href="#">
-    <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
-</a>
-<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
-
-<p>Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.</p>
-
-<p>As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.</p>
-
-<p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
+Consideramos que la web puede ofrecer y crear nuevos tipos de negocio en el ámbito de las artes. Con este proyecto queremos demostrarlo.
+</p>
