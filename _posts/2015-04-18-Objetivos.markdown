@@ -9,24 +9,24 @@ published: true
 
 
 
-<p>Poner a la disposición de los usuarios una plataforma de creación y difusión de sus propuestas culturales y facilitar el acceso de todas las personas a un tipo de experiencias culturales basadas en la autogestión y el espacio privado (“**Cultura Home-Made**”)
+<p>Poner a la disposición de los usuarios una plataforma de creación y difusión de sus propuestas culturales y facilitar el acceso de todas las personas a un tipo de experiencias culturales basadas en la autogestión y el espacio privado (“**Cultura Home-Made**”)</p>
 
-Crear una plataforma web con la que el usuario pueda obtener éstos puntos:
+<p>Crear una plataforma web con la que el usuario pueda obtener éstos puntos:</p>
 
-1) Oferta diversificada de experiencias culturales en casas particulares
+<p>1) Oferta diversificada de experiencias culturales en casas particulares</p>
 
-2) Experiencias innovadoras y sorprendentes, que salen del circuito clásico y mainstream.
+<p>2) Experiencias innovadoras y sorprendentes, que salen del circuito clásico y mainstream.</p>
 
-3) Altavoz para los artistas: es una forma fácil para conseguir público distinto.
+<p>3) Altavoz para los artistas: es una forma fácil para conseguir público distinto.</p>
 
-4) Experiencias íntimas y personalizadas: contacto directo entre artista y público.
+<p>4) Experiencias íntimas y personalizadas: contacto directo entre artista y público.</p>
 
-5) Experiencias que fidelizan y generan boca-oreja: el público que asiste a un evento, si ha tenido una buena experiencia, probablemente repetirá o recomendará la experiencia a otros amigos.
+<p>5) Experiencias que fidelizan y generan boca-oreja: el público que asiste a un evento, si ha tenido una buena experiencia, probablemente repetirá o recomendará la experiencia a otros amigos.</p>
 
-6)Experiencia económica: más barato
+<p>6)Experiencia económica: más barato</p>
 
-7)Experiencia accesible: cualquiera puede apuntarse a un evento, ir solo o acompañado.
+<p>7)Experiencia accesible: cualquiera puede apuntarse a un evento, ir solo o acompañado.</p>
 
-8)Experiencia social: al tener lugar en espacios privados la socialización es una parte muy importante.
+<p>8)Experiencia social: al tener lugar en espacios privados la socialización es una parte muy importante.</p>
 
-9)Confianza: el público confiará en nosotros ya que todos los creadores habrán pasado por nuestros filtros, antes de ofrecer un evento.</p>
+<p>9)Confianza: el público confiará en nosotros ya que todos los creadores habrán pasado por nuestros filtros, antes de ofrecer un evento.</p>
