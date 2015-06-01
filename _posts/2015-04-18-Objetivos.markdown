@@ -9,7 +9,7 @@ published: true
 
 
 
-<p>Poner a la disposición de los usuarios una plataforma de creación y difusión de sus propuestas culturales y facilitar el acceso de todas las personas a un tipo de experiencias culturales basadas en la autogestión y el espacio privado (“**Cultura Home-Made**”)</p>
+<p>Poner a la disposición de los usuarios una plataforma de creación y difusión de sus propuestas culturales y facilitar el acceso de todas las personas a un tipo de experiencias culturales basadas en la autogestión y el espacio privado <strong>Cultura Home-Made</strong></p>
 
 <p>Crear una plataforma web con la que el usuario pueda obtener éstos puntos:</p>
 
