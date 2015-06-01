@@ -8,6 +8,7 @@ published: true
 
 
 
+
 <p>Poner a la disposición de los usuarios una plataforma de creación y difusión de sus propuestas culturales y facilitar el acceso de todas las personas a un tipo de experiencias culturales basadas en la autogestión y el espacio privado (“**Cultura Home-Made**”)
 
 Crear una plataforma web con la que el usuario pueda obtener éstos puntos:
@@ -28,9 +29,4 @@ Crear una plataforma web con la que el usuario pueda obtener éstos puntos:
 
 8)Experiencia social: al tener lugar en espacios privados la socialización es una parte muy importante.
 
-9)Confianza: el público confiará en nosotros ya que todos los creadores habrán pasado por nuestros filtros, antes de ofrecer un evento.
-
-
-
-
-
+9)Confianza: el público confiará en nosotros ya que todos los creadores habrán pasado por nuestros filtros, antes de ofrecer un evento.</p>
