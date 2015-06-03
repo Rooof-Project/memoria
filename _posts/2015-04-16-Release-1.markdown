@@ -8,6 +8,7 @@ published: true
 
 
 
+
 <h2 class="section-heading">Design Thinking e Investigación</h2>
 
 <p>Una vez recibido el primer brief para la plataforma usamos varias herramientas de design thinking para generar ideas y buscar un camino para darle forma a nuestra propuesta.</p>
@@ -81,7 +82,7 @@ published: true
 <p>También creamos un Workflow que nos daría un esqueleto a nivel de flujo de navegación de que caminos podían seguir ambos usuarios en la plataforma.</p>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
+    <img src="{{ site.baseurl }}/img/workflow-r1.jpg" alt="Post Sample Image">
 </a>
 
 <h2 class="section-heading">Wireframes y primeros test</h2>
