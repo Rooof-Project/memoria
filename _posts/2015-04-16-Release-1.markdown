@@ -7,6 +7,7 @@ published: true
 
 
 
+
 <h2 class="section-heading">Design Thinking e Investigación</h2>
 
 <p>Una vez recibido el primer brief para la plataforma usamos varias herramientas de design thinking para generar ideas y buscar un camino para darle forma a nuestra propuesta.</p>
@@ -22,7 +23,7 @@ published: true
 <p>Gracias al mood board comprendimos, casi por casualidad, la necesidad de las personas por mostrar su talento, lo consideramos una especie de carácterística intrínseca, otra forma más que tiene el ser humano de sentirse querido. Además, también intuimos que esta acción se daba en grupo.</p>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
+    <img src="{{ site.baseurl }}/img/Mood-Board.jpg" alt="Post Sample Image">
 </a>
 
 <p>Al comienzo pensamos que el espacio dónde se realizaban los eventos no estaba relacionado con el artista. Ideamos unas relaciones entre usuarios que se encontraban en un lugar ajeno a ambos y donde unos asistirían a un espectáculo mientras que otros mostraban su talento.</p>
