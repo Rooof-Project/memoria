@@ -91,7 +91,8 @@ Salieron un motón de nombres pero no nos acabó de encajar ninguno, finalmente 
 
 <span class="caption text-muted"> Distintas opciones planteadas para el logotipo de ROOOF.</span>
 
-<img src="{{ site.baseurl }}/img/logo-final.png" alt="logo final de ROOOF">
+<img src="{{ site.baseurl }}/img/logo-final.png" alt="logo final de ROOOF">![logo-final.png]({{site.baseurl}}/img/logo-final.png)
+
 <span class="caption text-muted"> Versión actual del logotipo en la plataforma </span>
 
 <h2 class="section-heading">Style guide</h2>
