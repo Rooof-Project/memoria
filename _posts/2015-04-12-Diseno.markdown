@@ -45,7 +45,8 @@ Con la combinación de tipografía, fotografía y color fuimos dando forma a la 
 
 <h3>Familias tipográficas</h3>
 
-<img src="{{ site.baseurl }}/img/tipografia.png" alt="Familias tipográficas"> 
+<img src="{{ site.baseurl }}/img/tipografia.png" alt="Familias tipográficas"> ![tipografia.png]({{site.baseurl}}/img/tipografia.png)
+
 <span class="caption text-muted">La tipografía es el elemento principal de la plataforma. Para crear una identidad hemos combinado tres familias tipográficas: Dosis, PT Serif y PT Sans.</span>
 
 
@@ -62,9 +63,7 @@ También la usamos para la comunicación de la plataforma con los usuarios: Form
 <h3>Color</h3>
 <p>Como color corporativo usamos el rosa, en combinación con otros colores secundarios: blanco, gris y negro.</p>
 
-<img src="{{ site.baseurl }}/img/color.png" alt="Post Sample Image">![color.png]({{site.baseurl}}/img/color.png)
-
-<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
+<img src="{{ site.baseurl }}/img/color.png" alt="Post Sample Image">
 
 <p>En un principio planteamos la identidad con 3 colores principales: amarillo, verde y rosa. Esto nos ofrecía el aire desenfadado e informal que queríamos dar pero nos planteaba otros problemas. No fuimos capaces a establecer un código de color eficaz y siempre nos surgía la duda de que color usar para cada contenido. De esta manera el color no tenía un fin claro y se volvía únicamente decorativo. También con el uso de varios colores nos acercábamos a un aire más infantil que juvenil.</p>
 <p>Descartamos el uso del amarillo por el claro problema de legibilidad, y escogimos el rosa por ser un color más enérgico y con más fuerza que el verde.
