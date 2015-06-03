@@ -28,6 +28,11 @@ published: true
 
 <p>Al comienzo pensamos que el espacio dónde se realizaban los eventos no estaba relacionado con el artista. Ideamos unas relaciones entre usuarios que se encontraban en un lugar ajeno a ambos y donde unos asistirían a un espectáculo mientras que otros mostraban su talento.</p>
 
+<a href="#">
+    <img src="{{ site.baseurl }}/iimg/stakeholders-r1.png" alt="Post Sample Image">
+</a>
+
+
 <h2 class="section-heading">Entrevistas</h2>
 
 <p>Tras estas primeras aproximaciones comenzamos a realizar entrevistas a nuestros amigos y conocidos. En este momento eran entrevistas un tanto ingenuas donde preguntábamos aspectos relacionadas con la plataforma y con el uso en rasgos generales de internet y otros medios de comunicación.</p>
