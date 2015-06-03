@@ -1,41 +1,37 @@
 ---
-layout:     post
-title:      "Modelo de negocio"
-subtitle:   "because they lacked opposable thumbs and the brainpower to build a space program."
-header-img: "img/post-bg-01.jpg"
+layout: post
+title: Modelo de negocio
+subtitle: because they lacked opposable thumbs and the brainpower to build a space program.
+"header-img": "img/post-bg-01.jpg"
+published: true
 ---
 
-<p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
 
-<p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
 
-<p>What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.</p>
+<h2 class="section-heading">El modelo de negocio</h2>
 
-<p>A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.</p>
+<p>Sinceramente no hemos desarrollado mucho nuestro modelo de negocio. Hemos estado más pendientes del diseño web, Ux y de satisfacer las necesidades de los usuarios.</p>
 
-<p>For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.</p>
+<p>Sin embargo, si tuviésemos que enmarcar a la plataforma dentro de un modelo de negocio entonces Rooof es un <strong>“two sides market place”</strong>. Esta tipología trata de modelos de negocio donde, para que uno de los lados (o segmentos de clientes) reciba valor debe existir el otro, es decir, operan sobresegmentos e interdependientes y se benefician mutuamente.</p>
 
-<h2 class="section-heading">The Final Frontier</h2>
+<p>En nuestro caso las dos partes cuya dependencia es crucial para nuestra plataforma son: El asistente a los eventos y el creador de eventos.</p>
 
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
+<p>Este tipo de modelo de negocio nace del hecho que uno de los lados sólo se beneficia si el otro está presente, siendo por tanto el principal objetivo de Rooof facilitar la interacción entre ellos, actuando como intermediaria y potenciando el efecto de red al máximo.</p>
 
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
+<p>La premisa clave para que este planteamiento tenga éxito es que debe atraer y crear valor a los dos lados por igual. Si únicamente ofrece valor real a uno de los dos lados, el otro rápidamente decrece y deja de tener valor por si mismo.
+Para ello, habitualmente uno de los lados es subvencionado, es decir, el servicio que recibe tiene un importante descuento (o es gratis) a costa del lado no subvencionado. En nuestro caso hemos determinado que el creador de eventos podrá hacer uso de la plataforma gratis. De ésta manera podrá generar su evento en la web y cobrar por ello en la puerta lo que crea oportuno.</p>
 
-<blockquote>The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.</blockquote>
 
-<p>Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.</p>
+<h2 class="section-heading">Monetización</h2>
 
-<h2 class="section-heading">Reaching for the Stars</h2>
+<p>Como forma de monetización nos hemos planteado varias hipótesis sin llegar a profundizar demasiado.</p>
 
-<p>As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.</p>
+<p>Una de ellas sería el cobro de comisión por cada entrada vendida, lo que nos llevaría a desarrollar más profundamente una pasarela de pago integrada en la plataforma, y un sistema de registro de tickets mas sofisticado.</p>
 
-<a href="#">
-    <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
-</a>
-<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
+<p>Otra opción pasa por las cuentas premium, donde los usuarios pagarían una tasa mensual y tendrían acceso VIP a eventos especiales o trato prioritario en la entrada.</p>
 
-<p>Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.</p>
+<p>La publicidad la hemos tenido en cuenta como generador de beneficios. Los creadores podrían anunciarse y tener más relevancia en la plataforma.</p>
 
-<p>As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.</p>
+<p>Todas estas opciones son complementarias entre si, y dependerían del rumbo que tome la plataforma, del número de usuarios, del interés generado y del precio que los usuarios estarían dispuestos a pagar.</p>
 
-<p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
+
