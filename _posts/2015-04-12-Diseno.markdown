@@ -45,7 +45,7 @@ Con la combinación de tipografía, fotografía y color fuimos dando forma a la 
 
 <h3>Familias tipográficas</h3>
 
-<img src="{{ site.baseurl }}/img/tipografia.png" alt="Familias tipográficas"> ![tipografia.png]({{site.baseurl}}/img/tipografia.png)
+<img src="{{ site.baseurl }}/img/tipografia.png" alt="Familias tipográficas">
 
 <span class="caption text-muted">La tipografía es el elemento principal de la plataforma. Para crear una identidad hemos combinado tres familias tipográficas: Dosis, PT Serif y PT Sans.</span>
 
