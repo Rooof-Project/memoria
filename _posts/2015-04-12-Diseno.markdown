@@ -87,10 +87,11 @@ Aquí se nos planteaba el problema de que algunas de las fotos serían subidas p
 Salieron un motón de nombres pero no nos acabó de encajar ninguno, finalmente nos decantamos por ROOF, por estar ligado semánticamente a lo que ofrece la plataforma.</p>
 <p>Para el logotipo hicimos varias pruebas y al final nos decidimos por un logotipo simple: con la conexión semántica y la tipografía corporativa tendríamos una versión mínima de logo, ya que sobre todo nos centrábamos en el diseño de la plataforma en sí, y no solamente en la imagen corporativa de una marca, por lo que siempre tuvimos pendiente hacer una revisión y mejora del logotipo que nunca llegó.</p>
 
-<img src="{{ site.baseurl }}/img/logos.png" alt="opciones de logotipos">![logos.png]({{site.baseurl}}/img/logos.png)
+<img src="{{ site.baseurl }}/img/logos.png" alt="opciones de logotipos">
+<span class="caption text-muted"> Distintas opciones planteadas para el logotipo de ROOOF.</span>
 
-
-<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
+<img src="{{ site.baseurl }}/img/logo-final.png" alt="logo final de ROOOF">![logo-final.png]({{site.baseurl}}/img/logo-final.png)
+<span class="caption text-muted"> Versión actual del logotipo en la plataforma </span>
 
 <h2 class="section-heading">Style guide</h2>
 <p>Con todos los elementos corporativos comenzamos a hacer una guía de estilo. La primera sería un simple PDF. Más adelante, según fueron avanzando las clases nos dimos cuenta que debíamos crear una guía de estilo viva, usando el mismo css de la web.</p>
