@@ -13,6 +13,7 @@ published: true
 
 
 
+
 <h2 class="section-heading">El proceso de creación</h2>
 
 <p>La identidad de la plataforma también la hemos planteado de manera incremental.
@@ -43,6 +44,10 @@ Con la combinación de tipografía, fotografía y color fuimos dando forma a la 
 <p>- Diferentes pesos tipográficos: Escogimos tipografías con varios pesos,  para que nos diese juego a la hora de crear la identidad.</p>
 
 <h3>Familias tipográficas</h3>
+
+<img src="{{ site.baseurl }}/img/tipografia.png" alt="Familias tipográficas"> 
+<span class="caption text-muted">La tipografía es el elemento principal de la plataforma. Para crear una identidad hemos combinado tres familias tipográficas: Dosis, PT Serif y PT Sans.</span>
+
 
 <p><strong>Familia Dosis:</strong> Aunque es la tipografía con más carácter y la que más personalidad aporta no es de fácil lectura por lo que fuimos delimitando su uso para titulares principales y secundarios, equilibrando identidad y legibilidad.
 Nos aporta los valores de desfenfado, diversión y juventud  que fuimos detectando en el target.</p>
