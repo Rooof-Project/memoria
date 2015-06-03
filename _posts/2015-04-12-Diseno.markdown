@@ -71,11 +71,11 @@ Con la combinación del rosa y los grises conseguimos separar contenidos e ir gu
 
 <h3>Fotografía</h3>
 
-<img src="{{ site.baseurl }}/img/fotografia.png" alt="Estilo fotográfico">![fotografia.png]({{site.baseurl}}/img/fotografia.png)
-
-
 <p>Desde el principio tuvimos claro que la fotografía iba a tener mucho peso en la plataforma. Debía ser el recurso principal para que los usuarios se sintieran atraídos por los eventos.
 Aquí se nos planteaba el problema de que algunas de las fotos serían subidas por los usuarios, y eso trae el peligro de no tener un control en el estilo fotográfico. Pero si que podíamos dar una guía visual, algo que los usuarios vieran y pudieran imitar de alguna forma. </p>
+
+<img src="{{ site.baseurl }}/img/fotografia.png" alt="Estilo fotográfico">![fotografia.png]({{site.baseurl}}/img/fotografia.png)
+
 
 <p>De esta manera planteamos un estilo fotográfico fresco y desenfadado, una fotografía amateur pero atrayente, un estilo de foto que recordara a Instagram. </p>
 
