@@ -112,7 +112,15 @@ published: true
 <p>A su vez, en éste primer toque de contacto con la apariencia visual de la página, establecimos otra serie de estándares que luego cambiaron como el color, el uso de textos sobre imágenes, el logotipo y los botones.</p>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
+    <img src="{{ site.baseurl }}/img/mokup-r1.jpg" alt="Post Sample Image">
+</a>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/mokup-r2.jpg" alt="Post Sample Image">
+</a>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/mokup-r3.jpg" alt="Post Sample Image">
 </a>
 
 <p>Durante esta primera release cada uno diseñó una página completa, aún pensábamos en páginas totales y no en los elementos que la componen. Ahora en la distancia viendo todo este trabajo gráfico que realizamos consideramos que podríamos haber probado las prácticas que sugiere Brad Frost en su artículo "Atomic Design". Pero claro, debido a nuestra inexperiencia y nuestra condición de diseñadores gráficos estábamos deseando generar material visual atractivo y complejo sin pensar en el rendimiento y en el trabajo iterativo incremental.</p>
