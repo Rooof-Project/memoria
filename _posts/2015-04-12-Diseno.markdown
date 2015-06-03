@@ -89,6 +89,7 @@ Salieron un motón de nombres pero no nos acabó de encajar ninguno, finalmente 
 
 <img src="{{ site.baseurl }}/img/logos.png" alt="opciones de logotipos">![logos.png]({{site.baseurl}}/img/logos.png)
 
+
 <span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
 
 <h2 class="section-heading">Style guide</h2>
