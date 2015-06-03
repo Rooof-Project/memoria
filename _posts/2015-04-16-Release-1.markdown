@@ -6,6 +6,7 @@ published: true
 ---
 
 
+
 <h2 class="section-heading">Design Thinking e Investigación</h2>
 
 <p>Una vez recibido el primer brief para la plataforma usamos varias herramientas de design thinking para generar ideas y buscar un camino para darle forma a nuestra propuesta.</p>
@@ -130,9 +131,9 @@ published: true
 <p>En cuanto a arquitectura de la información planteamos los siguiente niveles con ésta jerarquía:</p>
 
 <ul>
-	<ol>Vamos a un evento: Consideramos que el porcentaje de usuarios que van a eventos es superior al de los creadores. Por ello dimos más importancia a ésta acción. El usuario nada más llegar a la página tendría la posibilidad de, mediante este call to action, elegir uno de los eventos que proponemos.</ol>
-    <ol>A la vez teníamos que comunicar qué es Rooof. Por ello usamos un copy bien visible nada más entrar en la landing donde te explicaba de qué trataba la plataforma. A su vez, en el header había un ancla que te llevaba a una explicación más amplia.</ol>
-    <ol>Publicar un evento: con este botón bien visible en el header el usuario que crea evento tiene la posibilidad de crear su acción, pero primero le conducíamos a una página dónde intentamos convencerle de las bondades que conlleva crear un evento con nuestra plataforma.</ol>
+	<li>Vamos a un evento: Consideramos que el porcentaje de usuarios que van a eventos es superior al de los creadores. Por ello dimos más importancia a ésta acción. El usuario nada más llegar a la página tendría la posibilidad de, mediante este call to action, elegir uno de los eventos que proponemos.</li>
+    <li>A la vez teníamos que comunicar qué es Rooof. Por ello usamos un copy bien visible nada más entrar en la landing donde te explicaba de qué trataba la plataforma. A su vez, en el header había un ancla que te llevaba a una explicación más amplia.</li>
+    <li>Publicar un evento: con este botón bien visible en el header el usuario que crea evento tiene la posibilidad de crear su acción, pero primero le conducíamos a una página dónde intentamos convencerle de las bondades que conlleva crear un evento con nuestra plataforma.</li>
 </ul>
 
 <p>También, mostramos testimonios de otras personas que ya han creado eventos con Rooof y relatan de forma positiva su experiencia. Esta página sufriría cambios de copas en en futuro a causa de la investigación y los datos obtenidos a través de las entrevistas.</p>
