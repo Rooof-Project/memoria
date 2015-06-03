@@ -73,7 +73,7 @@ published: true
 </ul>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
+    <img src="{{ site.baseurl }}/img/Feature-mapr1.jpg" alt="Post Sample Image">
 </a>
 
 <h2 class="section-heading">Workflow</h2>
