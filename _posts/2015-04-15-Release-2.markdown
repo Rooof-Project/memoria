@@ -9,7 +9,7 @@ published: true
 
 <p>Una vez concluída la primera release lo primero que hicimos fue testearla con usuarios. Esta vez teníamos un prototipo funcional y podríamos descubrir y aprender más cosas acerca de como mejorar la web.</p>
 
-<h2 class="section-heading">Test UXr</h2>
+<h2 class="section-heading">Test UX</h2>
 
 <p>Antes de probarla con usuarios estábamos tan inmersos en el proyecto que pensábamos que nuestra página era sencilla, perfecta y muy clara para cualquier persona. Pero decidimos seguir los consejos de Steve Blank y hacer un “get out the building”. Pues sí, estábamos confundidos: muchos usuarios que veían por primera vez la página no eran capaces de describir que ofrecíamos, en concreto tardaban en discernir que los eventos tenían lugar en casas particulares. Además de esta conclusión, que fue la más dura de aceptar para el equipo, también observamos:</p>
 
