@@ -57,7 +57,7 @@ published: true
 
 <a href="#">
     <img src="{{ site.baseurl }}/img/pepe-daniela.jpg" alt="Pepe y Daniela">
-</a>!
+</a>
 
 
 <h2 class="section-heading">Historias de Usuario release 1</h2>
