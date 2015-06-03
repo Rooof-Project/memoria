@@ -62,7 +62,8 @@ También la usamos para la comunicación de la plataforma con los usuarios: Form
 <h3>Color</h3>
 <p>Como color corporativo usamos el rosa, en combinación con otros colores secundarios: blanco, gris y negro.</p>
 
-<img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
+<img src="{{ site.baseurl }}/img/color.png" alt="Post Sample Image">![color.png]({{site.baseurl}}/img/color.png)
+
 <span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
 
 <p>En un principio planteamos la identidad con 3 colores principales: amarillo, verde y rosa. Esto nos ofrecía el aire desenfadado e informal que queríamos dar pero nos planteaba otros problemas. No fuimos capaces a establecer un código de color eficaz y siempre nos surgía la duda de que color usar para cada contenido. De esta manera el color no tenía un fin claro y se volvía únicamente decorativo. También con el uso de varios colores nos acercábamos a un aire más infantil que juvenil.</p>
