@@ -87,7 +87,8 @@ Aquí se nos planteaba el problema de que algunas de las fotos serían subidas p
 Salieron un motón de nombres pero no nos acabó de encajar ninguno, finalmente nos decantamos por ROOF, por estar ligado semánticamente a lo que ofrece la plataforma.</p>
 <p>Para el logotipo hicimos varias pruebas y al final nos decidimos por un logotipo simple: con la conexión semántica y la tipografía corporativa tendríamos una versión mínima de logo, ya que sobre todo nos centrábamos en el diseño de la plataforma en sí, y no solamente en la imagen corporativa de una marca, por lo que siempre tuvimos pendiente hacer una revisión y mejora del logotipo que nunca llegó.</p>
 
-<img src="{{ site.baseurl }}/img/logos.png" alt="opciones de logotipos">
+<img src="{{ site.baseurl }}/img/logos.png" alt="opciones de logotipos">![logos.png]({{site.baseurl}}/img/logos.png)
+
 <span class="caption text-muted"> Distintas opciones planteadas para el logotipo de ROOOF.</span>
 
 <img src="{{ site.baseurl }}/img/logo-final.png" alt="logo final de ROOOF">
