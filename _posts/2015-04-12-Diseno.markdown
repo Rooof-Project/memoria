@@ -110,9 +110,9 @@ Salieron un motón de nombres pero no nos acabó de encajar ninguno, finalmente 
 
 <p><strong>El responsive fue todo un reto.</strong> Cometimos el error de dejar muy de lado la versión móvil hasta bien avanzado el proyecto. En lugar de empezar por móvil empezamos por la versión desktop, y no comenzamos con la parte responsive hasta la tercera release. Por eso hubo secciones de la web que se han rediseñado de nuevo pensando en multidispositivo, como el formulario de crear eventos o los perfiles de usuario. También tuvimos que hacer un refactoring del código para convertirlo en multidispositivo, lo que nos vino muy bien para incorporar nuevas herramientas que fuimos aprendiendo como <strong>sass</strong> o frameworks como <strong>Foundation</strong>.</p>
 
-<img src="{{ site.baseurl }}/img/layout-desktop.jpg" alt="layout desktop">![layout-desktop.jpg]({{site.baseurl}}/img/layout-desktop.jpg)
+<img src="{{ site.baseurl }}/img/layout-desktop.jpg" alt="layout desktop">
 
-<img src="{{ site.baseurl }}/img/layout-mobile.jpg" alt="layout mobile"> ![layout-mobile.jpg]({{site.baseurl}}/img/layout-mobile.jpg)
+<img src="{{ site.baseurl }}/img/layout-mobile.jpg" alt="layout mobile">![]({{site.baseurl}}/img/layout-mobile.jpg)
 
 
 
