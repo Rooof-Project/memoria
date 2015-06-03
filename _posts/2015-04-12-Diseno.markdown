@@ -71,7 +71,7 @@ Con la combinación del rosa y los grises conseguimos separar contenidos e ir gu
 
 <h3>Fotografía</h3>
 
-<img src="{{ site.baseurl }}/img/fotografia.jpg" alt="Estilo fotográfico">![fotografia.png]({{site.baseurl}}/img/fotografia.png)
+<img src="{{ site.baseurl }}/img/fotografia.png" alt="Estilo fotográfico">![fotografia.png]({{site.baseurl}}/img/fotografia.png)
 
 
 <p>Desde el principio tuvimos claro que la fotografía iba a tener mucho peso en la plataforma. Debía ser el recurso principal para que los usuarios se sintieran atraídos por los eventos.
