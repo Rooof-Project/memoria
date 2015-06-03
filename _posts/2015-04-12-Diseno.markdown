@@ -12,6 +12,7 @@ published: true
 
 
 
+
 <h2 class="section-heading">El proceso de creación</h2>
 
 <p>La identidad de la plataforma también la hemos planteado de manera incremental.
@@ -26,10 +27,10 @@ Al trabajar por releases, y tener un tiempo limitado para abarcar todos los aspe
 <h2 class="section-heading">Elementos de la identidad</h2>
 
 
-<img src="{{ site.baseurl }}/img/layout-1.png" alt="Pagina de Rooof">
+<img src="{{ site.baseurl }}/img/layout-1.png" alt="Pagina de Rooof">!
 
-<span class="caption text-muted">Rooof es un amigo que te recomienda nuevas formas de disfrutar de tu tiempo libre.</span>
-<span class="caption text-muted">Así es como fuimos definiendo el proyecto y la identidad debía reflejarlo.
+
+<span class="caption text-muted">Rooof es un amigo que te recomienda nuevas formas de disfrutar de tu tiempo libre. Así es como fuimos definiendo el proyecto y la identidad debía reflejarlo.
 Con la combinación de tipografía, fotografía y color fuimos dando forma a la web.</span>
 
 <h3>Tipografía</h3>
@@ -104,12 +105,3 @@ Salieron un motón de nombres pero no nos acabó de encajar ninguno, finalmente 
 <p>Al final hemos conseguido que la web tenga un estilo visual sólido y hemos establecido una manera de implementarlo que vamos mejorando.
 
 Nos hubiera gustado desarrollar más a fondo la guía de estilo, hacerla más útil y completarla con más elementos, así como mejorar algunos aspectos como el uso del color o un diseño más impactante en las páginas interiores.</p>
-
-
-
-
-
-
-
-
-
