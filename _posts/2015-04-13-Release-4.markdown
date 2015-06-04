@@ -70,7 +70,7 @@ published: true
 <span class="caption text-muted">Workflow, creación de perfil de usuario
 .</span>
 
-<p>También era importante que la edición del perfil fuera sencilla, por lo que pusimos especial cuidado en el formulario y priorizamos el requisito de que fuese accesible y fácil desde todos los dispositivos. Hicimos pruebas con <a href="http://marvl.in/78d526">protopipos en baja fidelidad</a> y después de varios diseños encontramos una solución a lo que buscábamos.</p>
+<p>También era importante que la edición del perfil fuera sencilla, por lo que pusimos especial cuidado en el formulario y priorizamos el requisito de que fuese accesible y fácil desde todos los dispositivos. Hicimos pruebas con <a href="http://marvl.in/78d526" target="_blank">protopipos en baja fidelidad</a> y después de varios diseños encontramos una solución a lo que buscábamos.</p>
 
 <img src="{{ site.baseurl }}/img/aviso.jpg" alt="Post Sample Image">
 <img src="{{ site.baseurl }}/img/aviso.jpg" alt="Post Sample Image">
