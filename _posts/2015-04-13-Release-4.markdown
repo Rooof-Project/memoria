@@ -43,11 +43,15 @@ published: true
  <img src="{{ site.baseurl }}/img/aviso.jpg" alt="Post Sample Image">![aviso.jpg]({{site.baseurl}}/img/aviso.jpg)
 
 
+
 <h3>Ubicación del evento</h3>
 <p>Los usuarios consideraban importante saber una localización exacta o aproximada de donde tendría lugar el acto, según ellos, esto les podría condicionar a la hora de elegir uno u otro evento.</p>
 
 <p>Claro que, como siempre teníamos que tener en cuenta al otro usuario, el creador del evento. En las entrevistas realizadas éste se sentía un poco receloso acerca de que todos supiesen donde vivía por lo que decidimos enseñar un mapa con una dirección aproximada. Una vez confirmada la reserva se facilitaría la dirección exacta vía email.
 </p>
+<img src="{{ site.baseurl }}/img/mapa.jpg" alt="Post Sample Image">
+![mapa.jpg]({{site.baseurl}}/img/mapa.jpg)
+
 
 <p>Incluímos el mapa tras el contenido del evento. Es una información importante pero complementaría.</p>
 
