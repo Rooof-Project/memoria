@@ -58,7 +58,7 @@ published: true
 
 <p>Hasta ahora habíamos propuesto la creación de una cuenta para poder hacer la reserva o la creación de un evento. Pero nos habíamos quedado ahí. Los usuarios no podían mostrar sus datos personales, sus intereses y gustos... y era hora de cambiar eso, y aportar un poco más de valor. Si que habíamos hecho unos perfiles de usuario, pero no habíamos planteado cómo el usuariario crearía su perfil.</p>
 
-<h3 class="section-heading">Desarrollando los perfiles</h3>
+<h3>Desarrollando los perfiles</h3>
 
 <p>Nos planteamos un perfil básico, solo con la información más importante: nombre, foto, descripción e intereses. También daríamos importancia a la actividad: a qué eventos ha asisitido el usuario y cuales ha creado.</p>
 
