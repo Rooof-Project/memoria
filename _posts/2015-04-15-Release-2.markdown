@@ -169,7 +169,7 @@ published: true
 <p>Ya por último, también diseñamos un mail de confirmación para generar en el usuario sensación de seguridad en el acto de reservar. Por ello incluimos una simpática imagen de un ticket a modo “tienes tu entrada en el mail” .</p>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
+    <img src="{{ site.baseurl }}/img/enhora-r2.jpg" alt="Post Sample Image">
 </a>
 
 <h2 class="section-heading">Arquitectura de la información</h2>
