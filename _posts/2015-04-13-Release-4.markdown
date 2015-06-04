@@ -98,7 +98,7 @@ published: true
 </ul>
 </p>
 
-<img src="{{ site.baseurl }}/img/05-reserva-crear-movil.jpg" alt="reservar de un evento, móvil.">
+<img src="{{ site.baseurl }}/img/reserva-crear-movil.jpg" alt="reserva de un evento, móvil.">
 
 
 <h2 class="section-heading">Solución tecnológica</h2>
