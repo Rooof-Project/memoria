@@ -56,7 +56,7 @@ published: true
 
 <p>En Rooof pretendemos crear una comunidad, el trato entre personas es muy relevante ya que comparten experiencias juntos, un usuario no es nada sin el otro. Uno quiere mostrar su talento mientras el otro quiere pasar un buen rato y conocer gente nueva. Por ello, tanto para el creador del evento como para el asistente es importante poder tener un perfil en el que mostrar que es lo que hace o cuales son sus preferencias. O incluso a que eventos han ido.</p>
 
-<p>Hasta ahora habíamos propuesto la creación de una cuenta para poder hacer la reserva o la creación de un evento. Pero nos habíamos quedado ahí. Los usuarios no podían mostrar sus datos personales, sus intereses y gustos... y era hora de cambiar eso, y aportar un poco más de valor.</p>
+<p>Hasta ahora habíamos propuesto la creación de una cuenta para poder hacer la reserva o la creación de un evento. Pero nos habíamos quedado ahí. Los usuarios no podían mostrar sus datos personales, sus intereses y gustos... y era hora de cambiar eso, y aportar un poco más de valor. Si que habíamos hecho unos perfiles de usuario, pero no habíamos planteado cómo el usuariario crearía su perfil.</p>
 
 <h3 class="section-heading">Desarrollo de los perfiles</h3>
 
@@ -70,10 +70,9 @@ published: true
 <span class="caption text-muted">Workflow, creación de perfil de usuario
 .</span>
 
-<h2 class="section-heading">Desarrollo de los perfiles</h2>
+<p>También era importante que la edición del perfil fuera sencilla, por lo que pusimos especial cuidado en el formulario y priorizamos el requisito de que fuese accesible y fácil desde todos los dispositivos. Hicimos pruebas con <a href="http://marvl.in/78d526">protopipos en baja fidelidad</a> y después de varios diseños encontramos una solución a lo que buscábamos.</p>
 
-<p>También era importante que la edición del perfil fuera sencilla, por lo que pusimos especial cuidado en el formulario y priorizamos el requisito de que fuese accesible y fácil desde todos los dispositivos. Despues de varios diseños encontramos una solución a lo que buscábamos. </p>
-
+<img src="{{ site.baseurl }}/img/aviso.jpg" alt="Post Sample Image">
 <img src="{{ site.baseurl }}/img/aviso.jpg" alt="Post Sample Image">
 
 
