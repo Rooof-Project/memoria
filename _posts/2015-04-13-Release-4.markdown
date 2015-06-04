@@ -75,11 +75,18 @@ published: true
 <img src="{{ site.baseurl }}/img/perfil-tutu.jpg" alt="Perfil">
 
 <img src="{{ site.baseurl }}/img/perfil-editar.jpg" alt="Editar perfil">
+<span class="caption text-muted">Edición del perfil desde el móvil.</span>
 
 
-<h2 class="section-heading">Reaching for the Stars</h2>
+<h2 class="section-heading">Reservar y crear un evento desde el móvil</h2>
 
-<p>As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.</p>
+<p>Según nuestros usuarios, la tarea más importante a realizar en la plataforma a través del móvil es “reservar un evento”. Según sus apreciaciones podrían darse estos casos:
+<ul>
+<li>1 Que algún amigo comparta en whatsapp un enlace al evento para ir juntos. </li>
+<li>2 Un usuario que ha visto la versión desktop quiere enseñar con el móvil a qué evento va a ir a un amigo.</li>
+<li>3 Un usuario que ha visto la versión desktop un evento que le interesa y, fuera de casa, quiere reservarlo.</li>
+</ul>
+</p>
 
 <a href="#">
     <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
