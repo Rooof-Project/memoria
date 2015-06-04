@@ -74,7 +74,7 @@ published: true
 
 <img src="{{ site.baseurl }}/img/perfil-tutu.jpg" alt="Perfil">![perfil-tutu.jpg]({{site.baseurl}}/img/perfil-tutu.jpg)
 
-<img src="{{ site.baseurl }}/img/aviso.jpg" alt="Editar perfil">
+<img src="{{ site.baseurl }}/img/perfil-editar.jpg" alt="Editar perfil">
 
 
 
