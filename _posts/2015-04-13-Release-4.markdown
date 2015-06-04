@@ -66,9 +66,7 @@ published: true
 
 <p>Planteamos el diseño de varios estados y plantillas: debíamos tener un perfil vacio y otro completo, y debíamos dar la posibilidad de edición. A través de un workflow, diseñamos el viaje que el usuario ha de hacer para la creación su perfil.</p>
 
-<img src="{{ site.baseurl }}/img/05-workflow-perfiles.png" alt="workflow, perfil de usuario">![05-workflow-perfiles.png]({{site.baseurl}}/img/05-workflow-perfiles.png)
-
-
+<img src="{{ site.baseurl }}/img/05-workflow-perfiles.png" alt="workflow, perfil de usuario">
 <span class="caption text-muted">Workflow, creación de perfil de usuario
 .</span>
 
