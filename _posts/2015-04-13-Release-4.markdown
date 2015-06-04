@@ -31,19 +31,24 @@ published: true
 
 <p>Tras varias entrevistas y pruebas de usuario nos percatamos de que aún teníamos pendiente corregir algunos aspectos que no habían quedado del todo resueltos: 
 <ul>
-<li>el usuario no percibia bien que había reservado o creado un evento.</li>
-<li>los usuarios consideraban importante ver la localización del evento en un mapa.</li>
+<li>El usuario no percibia bien que había reservado o creado un evento.</li>
+<li>Los usuarios consideraban importante ver la localización del evento en un mapa.</li>
 </ul>
 
-
-<p>Habíamos probado anteriormente con un pequeño texto debajo del botón de reserva, pero pasada demasiado desapercibido. Pensamos en que una posible opción sería la creación de "Alertas" o avisos, en forma de banner flotante. Tras alguna prueba y corrección de problemas con el color, incluímos las alertas en la guía de estilo, creando un sistema según el tipo de mensaje: informativas, de finalización de tarea o de error.</p>
+<h3>Sistema de alertas</h3>
+<p>Para resolver el primer problema nos planteamos la creación de un sistema de alertas o avisos. Habíamos probado anteriormente con un pequeño texto debajo del botón de reserva, pero pasada demasiado desapercibido. Pensamos en incluir una alerta en forma de banner flotante, clara, directa y en un lugar con visibilidad. Tras alguna prueba y corrección de problemas con el color, incluímos las alertas en la guía de estilo, creando un sistema según el tipo de mensaje: de finalización de tarea, de error o informativas.</p>
 
  <img src="{{ site.baseurl }}/img/alertas.png" alt="Post Sample Image">
 
+<h3>Ubicación del evento</h3>
+<p>Los usuarios consideraban importante saber una localización exacta o aproximada de donde tendría lugar el acto, según ellos, esto les podría condicionar a la hora de elegir uno u otro evento.</p>
 
-<p>For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.</p>
+<p>Claro que, como siempre teníamos que tener en cuenta al otro usuario, el creador del evento. En las entrevistas realizadas éste se sentía un poco receloso acerca de que todos supiesen donde vivía por lo que decidimos enseñar un mapa con una dirección aproximada. Una vez confirmada la reserva se facilitaría la dirección exacta vía email.
+</p>
 
-<h2 class="section-heading">The Final Frontier</h2>
+<p>Incluímos el mapa tras el contenido del evento. Es una información importante pero complementaría.</p>
+
+<h2 class="section-heading">Perfiles de usuario</h2>
 
 <p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
 
