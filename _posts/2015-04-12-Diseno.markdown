@@ -110,6 +110,7 @@ Salieron un motón de nombres pero no nos acabó de encajar ninguno, finalmente 
 <img src="{{ site.baseurl }}/img/layout-mobile.jpg" alt="layout mobile">
 
 
+
 <h2 class="section-heading">Y todavía seguimos...</h2>
 
 <p>Al final hemos conseguido que la web tenga un estilo visual sólido y hemos establecido una manera de implementarlo que vamos mejorando.
