@@ -138,8 +138,9 @@ published: true
 <p>El resultado fue este:</p>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
+    <img src="{{ site.baseurl }}/img/Resultado-r2.png" alt="Post Sample Image">
 </a>
+
 
 <p> En esta release añadimos una categorización por etiquetas, de momento sin interacción, tan sólo las nombrábamos y las destacamos por registro de color. Este cambio respondía a las necesidades de algunos usuarios a los que les hicimos el text de ux.</p>
 
