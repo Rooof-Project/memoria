@@ -1,17 +1,23 @@
 ---
-layout:     post
-title:      "El proceso"
-subtitle:   "Many say exploration is part of our destiny, but it’s actually our duty to future generations."
-header-img: "img/post-bg-03.jpg"
+layout: post
+title: El proceso
+subtitle: "Many say exploration is part of our destiny, but it’s actually our duty to future generations."
+"header-img": "img/post-bg-03.jpg"
+published: true
 ---
 
-<p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
 
-<p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
+<h2 class="section-heading">Metodología de trabajo</h2>
 
-<p>What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.</p>
+<p>Para el desarrollo del proyecto hemos querido alejarnos de los tradicionales procesos en cascada e intentar involucrarnos con metodologías ágiles.</p>
 
-<p>A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.</p>
+<p>Pese a que el uso de métodos ágiles no era un requisito fundamental para el proyecto, despues de un par de clases nos vimos motivados y decicimos que era otra oportunidad para aprender, no solo diseño si no también diseño de trabajo.</p>
+
+<p>Así, establecimos que no íbamos a hacer entregas secuenciales, donde primero haríamos toda la arquitectura para mas tarde pasar al diseño, y luego a la programación. Haríamos entregas inclementales. Establecimos que íbamos siempre a entregar un prototipo que fuesemos capaces de testear con los usuarios, usando html y css, siempre que fuese posible.</p>
+
+<p>Diseñamos nuestro proceso de trabajo así:</p>
+
+<img src="{{ site.baseurl }}/img/metodo-agil-23.png" alt="Post Sample Image">
 
 <p>For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.</p>
 
