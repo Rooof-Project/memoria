@@ -8,7 +8,8 @@ published: true
 
 
 <blockquote> <h2>Objetivos de la release</h2>
-<p>Para la última release nos planteamos incorporar los perfiles de usuario como sistema para generar confianza entre usuarios y también como primer paso para permitir el intercambio de gustos culturales.</p>
+<p>Para la última release teníamos que corregir algunos errores de experiencia de usuario que arrastrábamos de otras realises anteriores.</p>
+<p>También nos planteamos incorporar los perfiles de usuario como sistema para generar confianza entre usuarios y también como primer paso para permitir el intercambio de gustos culturales.</p>
 <p>Además continuamos con la idea de que los dispositivos móviles tienen un gran peso en nuestra plataforma, por lo que debíamos optimizar la reserva de los eventos en desde ellos.</p>
 </blockquote>
 
