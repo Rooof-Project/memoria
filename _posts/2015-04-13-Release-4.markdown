@@ -72,9 +72,10 @@ published: true
 
 <p>También era importante que la edición del perfil fuera sencilla, por lo que pusimos especial cuidado en el formulario y priorizamos el requisito de que fuese accesible y fácil desde todos los dispositivos. Hicimos pruebas con <a href="http://marvl.in/78d526" target="_blank">protopipos en baja fidelidad</a> y después de varios diseños encontramos una solución a lo que buscábamos.</p>
 
-<img src="{{ site.baseurl }}/img/perfil-tutu.jpg" alt="Perfil">![perfil-tutu.jpg]({{site.baseurl}}/img/perfil-tutu.jpg)
+<img src="{{ site.baseurl }}/img/perfil-tutu.jpg" alt="Perfil">
 
-<img src="{{ site.baseurl }}/img/perfil-editar.jpg" alt="Editar perfil">
+<img src="{{ site.baseurl }}/img/perfil-editar.jpg" alt="Editar perfil">![perfil-editar.jpg]({{site.baseurl}}/img/perfil-editar.jpg)
+
 
 
 
