@@ -1,11 +1,23 @@
 ---
-layout:     post
-title:      "Release 4"
-subtitle:   "because they lacked opposable thumbs and the brainpower to build a space program."
-header-img: "img/post-bg-01.jpg"
+layout: post
+title: Release 4
+subtitle: because they lacked opposable thumbs and the brainpower to build a space program.
+"header-img": "img/post-bg-01.jpg"
+published: true
 ---
 
-<p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
+
+<h2 class="section-heading">Historias de usuario</h2>
+
+<p>Para esta release planteamos las siguientes historias de usuario:
+
+<p>- Crear alerta fin de tarea
+<p>- Ver mapa con ubicación del evento</p>
+<p>- Reservar evento en móvil</p>
+<p>- Crear evento en móvil</p>
+<p>- Crear perfil</p>
+<p>- Editar perfil</p>
+<p>- Estrategia de contenidos.</p>
 
 <p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
 
