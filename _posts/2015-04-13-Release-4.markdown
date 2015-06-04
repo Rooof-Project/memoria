@@ -29,8 +29,9 @@ published: true
 
 <p>Tras varias entrevistas y pruebas de usuario nos percatamos de que aún teníamos pendiente corregir algunos aspectos que no habían quedado del todo resueltos: 
 <ul>
-<li>el usuario no percibia bien que había reservado o creado un evento
-<li>los usuarios consideraban importante ver la localización del evento en un mapa.
+<li>el usuario no percibia bien que había reservado o creado un evento.</li>
+<li>los usuarios consideraban importante ver la localización del evento en un mapa.</li>
+</ul>
 
 
 <p>Habíamos probado anteriormente con un pequeño texto debajo del botón de reserva, pero pasada demasiado desapercibido. Pensamos en que una posible opción sería la creación de "Alertas" o avisos, en forma de banner flotante. Tras alguna prueba y corrección de problemas con el color, incluímos las alertas en la guía de estilo, creando un sistema según el tipo de mensaje: informativas, de finalización de tarea o de error.</p>
