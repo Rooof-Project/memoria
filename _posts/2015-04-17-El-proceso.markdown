@@ -28,11 +28,12 @@ published: true
 
 <p>Como equipo no tenemos un lugar de trabajo, cada uno trabaja en su casa y periódicamente nos reunimos para hablar. Al no tener una pizarra física donde apuntar las cosas que íbamos haciendo decidimos usar herramientas virtuales:
 </p>
-
-<p>- Dropbox: para almacenar todos los archivos y documentación.</p>
-<p>- Featured Map: para planear las historias de usuario.</p>
-<p>- Trello: para organizar las tareas y saber que está haciendo cada miembro del equipo.</p>
-<p>Estas herramientas nos han ayudado a gestionarnos y a estar coordinados.</p>
+<ul>
+<li>- Dropbox: para almacenar todos los archivos y documentación.</li>
+<li>- Featured Map: para planear las historias de usuario.</li>
+<li>- Trello: para organizar las tareas y saber que está haciendo cada miembro del equipo.</li>
+<li>Estas herramientas nos han ayudado a gestionarnos y a estar coordinados.</li>
+</ul>
 
 <h2 class="section-heading">Los Roles</h2>
 
