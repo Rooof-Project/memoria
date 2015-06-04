@@ -7,11 +7,10 @@ published: true
 ---
 
 
-<blockquote> <h2>Objetivos de la release</h2>
+<h2>Objetivos de la release</h2>
 <p>Para la última release teníamos que corregir algunos errores de experiencia de usuario que arrastrábamos de otras realises anteriores.</p>
 <p>También nos planteamos incorporar los perfiles de usuario como sistema para generar confianza entre usuarios y también como primer paso para permitir el intercambio de gustos culturales.</p>
 <p>Además continuamos con la idea de que los dispositivos móviles tienen un gran peso en nuestra plataforma, por lo que debíamos optimizar la reserva de los eventos en desde ellos.</p>
-</blockquote>
 
 <h2 class="section-heading">Historias de usuario</h2>
 
@@ -52,11 +51,15 @@ published: true
 
 <h2 class="section-heading">Perfiles de usuario</h2>
 
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
+<blockquote>“Como usuario quiero poder crear mi perfil con mis datos personales, gustos e intereses para darme a conocer a otros usuarios y compartir mis intereses con ellos. Quiero poder añadir más información si es necesario”</blockquote>
 
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
+<p>Desde el principio sabíamos que los perfiles de usuario eran una parte importante de la plataforma. Los usuarios tanto creadores como asistentes consideran importante esta funcionalidad. Si son creadores a través de su perfil pueden atraer a más público, si son asistentes pueden presumir de a qué eventos fueron y con quien (en un futuro).</p>
 
-<blockquote>The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.</blockquote>
+<p>También era un punto importante a la hora de crear confianza y seguridad entre usuarios. En Rooof pretendemos crear una comunidad, el trato entre personas es muy relevante ya que comparten experiencias juntos, un usuario no es nada sin el otro. Uno quiere mostrar su talento mientras el otro quiere pasar un buen rato y conocer gente nueva. Por ello, tanto para el creador del evento como para el asistente es importante poder tener un perfil en el que mostrar que es lo que hace o cuales son sus preferencias. O incluso a que eventos han ido.</p>
+
+<p>Hasta ahora habíamos propuesto la creación de una cuenta para poder hacer la reserva o la creación de un evento. Pero nos habíamos quedado ahí. Los usuarios no podían mostrar sus datos personales, sus intereses y gustos.</p>
+
+
 
 <p>Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.</p>
 
