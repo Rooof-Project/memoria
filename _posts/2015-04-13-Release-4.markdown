@@ -39,6 +39,9 @@ published: true
 <p>Para resolver el primer problema nos planteamos la creación de un sistema de alertas o avisos. Habíamos probado anteriormente con un pequeño texto debajo del botón de reserva, pero pasada demasiado desapercibido. Pensamos en incluir una alerta en forma de banner flotante, clara, directa y en un lugar con visibilidad. Tras alguna prueba y corrección de problemas con el color, incluímos las alertas en la guía de estilo, creando un sistema según el tipo de mensaje: de finalización de tarea, de error o informativas.</p>
 
  <img src="{{ site.baseurl }}/img/alertas.png" alt="Post Sample Image">
+ 
+ <img src="{{ site.baseurl }}/img/aviso.jpg" alt="Post Sample Image">![aviso.jpg]({{site.baseurl}}/img/aviso.jpg)
+
 
 <h3>Ubicación del evento</h3>
 <p>Los usuarios consideraban importante saber una localización exacta o aproximada de donde tendría lugar el acto, según ellos, esto les podría condicionar a la hora de elegir uno u otro evento.</p>
