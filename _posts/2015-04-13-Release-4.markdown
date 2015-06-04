@@ -23,6 +23,8 @@ published: true
 <li> Crear evento en móvil</li>
 <li> Crear / editar perfil personal</li>
 <li> Estrategia de contenidos.</li>
+</ul>
+</p>
 
 
 <h2 class="section-heading">Mejoras en experiencia de uso</h2>
