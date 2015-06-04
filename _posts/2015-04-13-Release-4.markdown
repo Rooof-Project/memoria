@@ -80,17 +80,27 @@ published: true
 
 <h2 class="section-heading">Reservar y crear un evento desde el móvil</h2>
 
-<p>Según nuestros usuarios, la tarea más importante a realizar en la plataforma a través del móvil es “reservar un evento”. Según sus apreciaciones podrían darse estos casos:
+<p>Al hacer la versión responsive en la tercera release, ya teníamos parte del trabajo hecho, pero debíamos optimizarlo para móvil. Había cosas que no encajaban del todo, y otras que estaban muy lejos de funcionar.</p>
+
+<p>Para nososotros era muy importante que independientemente de dónde se encontrase el usuario, pudiera hacer una reserva fácilmente y además con una buena experiencia de uso. Además, optimizar la plataforma para móvil nos abria un montón de posibilidades de proyección: los usuarios podrían compartir por redes sociales o por mail ( aplicaciones cada vez mas usadas desde el móvil).</p>
+
+<p>Para los usuarios la tarea más importante a realizar en la plataforma a través del móvil es “reservar un evento”. La tarea de creación de un evento, para el usuario, es una experiencia menos mobile. Es dedicar un tiempo en un lugar tranquilo desde su ordenador para poder subir fotos correctamente desde la tranquilidad de su hogar.</p>
+
+<p>Nos planteamos eliminar esta funcionalidad de la versión móvil pero también pensamos que si el usuario sabía que se podía hacer en desktop, debíamos ser fieles a la versión y dar en también en móvil esta funcionalidad para no crear posibles decepciones. Eso sí, a nivel de jerarquía de la información lo situamos al final del menú y al final del scroll en cada página.</p>
+
+<h3 class="section-heading">Optimización para móvil</h3>
+
+<p>Algunas cosas que corregimos o planteamos de nuevo teniendo como prioridad el uso en todos los dispositivos:
 <ul>
-<li>1 Que algún amigo comparta en whatsapp un enlace al evento para ir juntos. </li>
-<li>2 Un usuario que ha visto la versión desktop quiere enseñar con el móvil a qué evento va a ir a un amigo.</li>
-<li>3 Un usuario que ha visto la versión desktop un evento que le interesa y, fuera de casa, quiere reservarlo.</li>
+<li> Reorganización del contenido de la ficha del evento usando JavaScript: la posición natural de los elementos hacía que información y botón de reserva quedarán muy abajo.</li>
+<li> Optimización de tamaños tipográficos, y tamaños en la grilla de los eventos.</li>
+<li> Planteamiento de un nuevo formulario de creación, que fuese accesible en móvil. El que teníamos hasta ahora no lo era.</li>
 </ul>
 </p>
 
-<a href="#">
-    <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
-</a>
+<img src="{{ site.baseurl }}/img/05-reserva-crear-movil.jpg" alt="reservar de un evento, móvil.">
+
+    
 <span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
 
 
