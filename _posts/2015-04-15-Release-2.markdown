@@ -7,6 +7,7 @@ published: true
 ---
 
 
+
 <p>Una vez concluída la primera release lo primero que hicimos fue testearla con usuarios. Esta vez teníamos un prototipo funcional y podríamos descubrir y aprender más cosas acerca de como mejorar la web.</p>
 
 <h2 class="section-heading">Test UX</h2>
@@ -33,6 +34,10 @@ published: true
     <li>Ver perfil de usuario.</li>
 </ul>
 
+<a href="#">
+    <img src="{{ site.baseurl }}/img/Feature-mapr2.jpg" alt="Post Sample Image">
+</a>
+
 <p>Las nuevas historias de usuarios influían en las antiguas de la primera release. Intuímos que a medida que avanzásemos el proyecto se volvería más complejo y con más detalles a tener en cuenta. Si queríamos ser productivos debíamos organizarnos con alguna herramienta: probamos con basecamp, lo desechamos y empezamos a usar trello.</p>
 
 <h2 class="section-heading">Workflow</h2>
@@ -40,7 +45,7 @@ published: true
 <p>De nuevo necesitábamos un camino a seguir. El rediseño de la página, añadir las nuevas historias de usuarios y corregir las que ya teníamos suponía una gran tarea. Necesitábamos un esqueleto que nos mostrase qué podía hacer el usuario en cada lugar en el que se encontraba. Necesitábamos un mapa para no perdernos en el diseño, un mapa que se hizo mucho más complejo de lo que pensábamos al añadir la funcionalidad de registro/login de usuario.</p>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
+    <img src="{{ site.baseurl }}/img/workflow-r2.jpg" alt="Post Sample Image">
 </a>
 
 <h2 class="section-heading">Wireframes y propuestas de diseño</h2>
@@ -51,9 +56,10 @@ published: true
 <p>Probamos con ilustraciones en vez de fotografía. Pero los dibujos nos alejaban del universo humano, cálido y real que transmitían las imágenes fotográficas.
 </p>
 
-<a href="#">
-    <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
+<a href="https://marvelapp.com/2bhfid#2451222">
+    <img src="{{ site.baseurl }}/img/propuesta-r2.jpg" alt="Post Sample Image">
 </a>
+
 
 <p>Ya en el wireframe se percibe nuestra intención de que quede muy claro “que es Rooof”. Incluso sustituimos el principal call to action de la landing que había anteriormente (el que te mostraba la lista de eventos).</p>
 
@@ -180,4 +186,3 @@ published: true
 </a>
 
 <p>La jerarquía de este header cambiará en las siguientes releases. En esta estábamos tan ofuscados por que algunos usuarios no llegaban  a entender que ofrecíamos que priorizamos en muchos sentidos esta información cuando en realidad, teníamos que facilitar el acceso a los eventos. En esta release aprendimos a tener en cuenta la opinión de los usuarios y no obsesionarnos con su opinión sino usarla como es debido, con mesura.</p>
-
