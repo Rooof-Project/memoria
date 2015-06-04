@@ -100,7 +100,6 @@ published: true
 
 <img src="{{ site.baseurl }}/img/05-reserva-crear-movil.jpg" alt="reservar de un evento, móvil.">
 
-<h2 class="section-heading">Estrategia de contenidos</h2>
 
 <h2 class="section-heading">Solución tecnológica</h2>
 
