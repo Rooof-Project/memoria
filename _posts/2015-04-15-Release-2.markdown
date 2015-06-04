@@ -110,8 +110,8 @@ published: true
     <li>Añadimos antes del footer una sección que incitase a crear un evento.</li>
 </ul>
 
-<a href="#">
-    <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
+<a href="https://marvelapp.com/ajcb49#2451921">
+    <img src="{{ site.baseurl }}/img/rooof-v5-01.png" alt="Post Sample Image">
 </a>
 
 <h2 class="section-heading">UX</h2>
