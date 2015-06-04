@@ -25,7 +25,6 @@ published: true
 </ul>
 </p>
 
-
 <h2 class="section-heading">Mejoras en experiencia de uso</h2>
 
 <p>Tras varias entrevistas y pruebas de usuario nos percatamos de que aún teníamos pendiente corregir algunos aspectos que no habían quedado del todo resueltos: 
@@ -37,16 +36,16 @@ published: true
 <h3>Sistema de alertas</h3>
 <p>Para resolver el primer problema nos planteamos la creación de un sistema de alertas o avisos. Habíamos probado anteriormente con un pequeño texto debajo del botón de reserva, pero pasada demasiado desapercibido. Pensamos en incluir una alerta en forma de banner flotante, clara, directa y en un lugar con visibilidad. Tras alguna prueba y corrección de problemas con el color, incluímos las alertas en la guía de estilo, creando un sistema según el tipo de mensaje: de finalización de tarea, de error o informativas.</p>
 
- <img src="{{ site.baseurl }}/img/alertas.png" alt="Post Sample Image">
+ <img src="{{ site.baseurl }}/img/alertas.png" alt="Sistema de alertas">
  
- <img src="{{ site.baseurl }}/img/aviso.jpg" alt="Post Sample Image">
+ <img src="{{ site.baseurl }}/img/aviso.jpg" alt="Aviso finalización de reserva">
 
 <h3>Ubicación del evento</h3>
 <p>Los usuarios consideraban importante saber una localización exacta o aproximada de donde tendría lugar el acto, según ellos, esto les podría condicionar a la hora de elegir uno u otro evento.</p>
 
 <p>Claro que, como siempre teníamos que tener en cuenta al otro usuario, el creador del evento. En las entrevistas realizadas éste se sentía un poco receloso acerca de que todos supiesen donde vivía por lo que decidimos enseñar un mapa con una dirección aproximada. Una vez confirmada la reserva se facilitaría la dirección exacta vía email.
 </p>
-<img src="{{ site.baseurl }}/img/mapa.jpg" alt="Post Sample Image">
+<img src="{{ site.baseurl }}/img/mapa.jpg" alt="Mapa">
 <span class="caption text-muted">Incluímos el mapa tras el contenido del evento. Es una información importante pero complementaria.</span>
 
 <h2 class="section-heading">Perfiles de usuario</h2>
@@ -59,9 +58,25 @@ published: true
 
 <p>Hasta ahora habíamos propuesto la creación de una cuenta para poder hacer la reserva o la creación de un evento. Pero nos habíamos quedado ahí. Los usuarios no podían mostrar sus datos personales, sus intereses y gustos... y era hora de cambiar eso, y aportar un poco más de valor.</p>
 
+<h2 class="section-heading">Desarrollo de los perfiles</h2>
+
+<p>Nos planteamos un perfil básico, solo con la información más importante: nombre, foto, descripción e intereses. También daríamos importancia a la actividad: a qué eventos ha asisitido el usuario y cuales ha creado.</p>
+
+<p>Para empezar, consideramos esta información como prioritaria. Más adelante y después de hacer pruebas y ver como funcionan los usuarios podremos incluir otras funcionalidades como seguir a otros usuarios o ver tus tickets comprados.</p>
+
+<p>Planteamos el diseño de varios estados y plantillas: debíamos tener un perfil vacio y otro completo, y debíamos dar la posibilidad de edición. A través de un workflow, diseñamos el viaje que el usuario ha de hacer para la creación su perfil.</p>
+
+<img src="{{ site.baseurl }}/img/workflow-perfiles.png" alt="workflow, perfil de usuario">
+<span class="caption text-muted">Workflow, creación de perfil de usuario
+.</span>
+
+<h2 class="section-heading">Desarrollo de los perfiles</h2>
+
+<p>También era importante que la edición del perfil fuera sencilla, por lo que pusimos especial cuidado en el formulario y priorizamos el requisito de que fuese accesible y fácil desde todos los dispositivos. Despues de varios diseños encontramos una solución a lo que buscábamos. </p>
+
+<img src="{{ site.baseurl }}/img/aviso.jpg" alt="Post Sample Image">
 
 
-<p>Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.</p>
 
 <h2 class="section-heading">Reaching for the Stars</h2>
 
@@ -72,8 +87,5 @@ published: true
 </a>
 <span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
 
-<p>Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.</p>
-
-<p>As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.</p>
 
 <p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
