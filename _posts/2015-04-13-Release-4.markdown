@@ -68,6 +68,7 @@ published: true
 
 <img src="{{ site.baseurl }}/img/05-workflow-perfiles.png" alt="workflow, perfil de usuario">![05-workflow-perfiles.png]({{site.baseurl}}/img/05-workflow-perfiles.png)
 
+
 <span class="caption text-muted">Workflow, creación de perfil de usuario
 .</span>
 
