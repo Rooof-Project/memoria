@@ -88,7 +88,7 @@ published: true
 
 <p>Nos planteamos eliminar esta funcionalidad de la versión móvil pero también pensamos que si el usuario sabía que se podía hacer en desktop, debíamos ser fieles a la versión y dar en también en móvil esta funcionalidad para no crear posibles decepciones. Eso sí, a nivel de jerarquía de la información lo situamos al final del menú y al final del scroll en cada página.</p>
 
-<h3 class="section-heading">Optimización para móvil</h3>
+<h3>Optimización para móvil</h3>
 
 <p>Algunas cosas que corregimos o planteamos de nuevo teniendo como prioridad el uso en todos los dispositivos:
 <ul>
