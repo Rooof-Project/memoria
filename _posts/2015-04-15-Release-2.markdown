@@ -147,7 +147,7 @@ published: true
 
 <a href="#">
     <img src="{{ site.baseurl }}/img/Fichasev-r2.png" alt="Post Sample Image">
-</a>)
+</a>
 
 <p>En general las fichas de los eventos cambiaron bastante, añadimos más espacio, destacamos el contenido de las mismas y a la vez las hicimos más simples y con más espacio. Y siempre con acceso a información acerca del creador y del precio.</p>
 
