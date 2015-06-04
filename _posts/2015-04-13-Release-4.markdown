@@ -100,8 +100,6 @@ published: true
 
 <img src="{{ site.baseurl }}/img/05-reserva-crear-movil.jpg" alt="reservar de un evento, móvil.">
 
-    
-<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
 
 
 <p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
