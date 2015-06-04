@@ -123,7 +123,7 @@ published: true
 <p>Antes:</p>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
+    <img src="{{ site.baseurl }}/img/Antes-r2.png" alt="Post Sample Image">
 </a>
 
 <p>Después:</p>
