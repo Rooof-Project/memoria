@@ -154,7 +154,7 @@ published: true
 <p>Durante los test con el primer prototipo observamos que el usuario tenía problemas para saber si había conseguido reservar evento, o como se pagaba éste. Por ello, en la página donde está la ficha del evento, junto al botón de “reservar entrada” añadimos una información que solucionaba este problema:</p>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
+    <img src="{{ site.baseurl }}/img/durante-r2.png" alt="Post Sample Image">
 </a>
 
 <p>Respecto a esta acción de reservar entrada siempre nos han hecho una pregunta:</p>
