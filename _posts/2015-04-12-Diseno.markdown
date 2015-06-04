@@ -9,12 +9,6 @@ published: true
 
 
 
-
-
-
-
-
-
 <h2 class="section-heading">El proceso de creación</h2>
 
 <p>La identidad de la plataforma también la hemos planteado de manera incremental.
@@ -96,7 +90,8 @@ Salieron un motón de nombres pero no nos acabó de encajar ninguno, finalmente 
 <h2 class="section-heading">Style guide</h2>
 <p>Con todos los elementos corporativos comenzamos a hacer una guía de estilo. La primera sería un simple PDF. Más adelante, según fueron avanzando las clases nos dimos cuenta que debíamos crear una guía de estilo viva, usando el mismo css de la web.</p>
 
-<img src="{{ site.baseurl }}/img/styleguide.png" alt="guía de estilo">
+<img src="{{ site.baseurl }}/img/styleguide.jpg" alt="guía de estilo">![styleguide.jpg]({{site.baseurl}}/img/styleguide.jpg)
+
 <span class="caption text-muted"> Guía de estilo de la plataforma, siguiendo los principios de Atomic design. </span>
 
 <p>Intentamos seguir el enfoque de Brad Frost y el <a href="http://patternlab.io/about.html">atomic design</a>, con un planteamiento de <strong>diseño orientado a objetos</strong> que nos permitiría tener un control de los elementos de la web y hacerlos reusables, empezando siempre por elementos más simples y globales como estilos tipográficos o colores, hasta llegar a elementos más complejos como formularios, botones o módulos reusables.</p>
