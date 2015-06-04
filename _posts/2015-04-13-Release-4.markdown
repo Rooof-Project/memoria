@@ -15,19 +15,26 @@ published: true
 
 <h2 class="section-heading">Historias de usuario</h2>
 
-<p>Para esta release planteamos las siguientes historias de usuario:
+<p>Incluímos las siguientes historias de usuario a realizar:
 <ul>
-<li> Crear alerta fin de tarea</li>
+<li> Crear alertas fin de tarea</li>
 <li> Ver mapa con ubicación del evento</li>
 <li> Reservar evento en móvil</li>
 <li> Crear evento en móvil</li>
-<li> Crear perfil</li>
-<li> Editar perfil</li>
+<li> Crear / editar perfil personal</li>
 <li> Estrategia de contenidos.</li>
 
-<p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
 
-<p>What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.</p>
+<h2 class="section-heading">Mejoras en experiencia de uso</h2>
+
+<p>Tras varias entrevistas y pruebas de usuario nos percatamos de que aún teníamos pendiente corregir algunos aspectos que no habían quedado del todo resueltos: <strong>el usuario no percibia bien que había reservado o creado un evento.</strong></p>
+
+<p>Habíamos probado anteriormente con un pequeño texto debajo del botón de reserva, pero pasada demasiado desapercibido. Pensamos en que una posible opción sería la creación de "Alertas" o avisos, en forma de banner flotante. Tras alguna prueba y corrección de problemas con el color, incluímos las alertas en la guía de estilo, creando un sistema según el tipo de mensaje: informativas, de finalización de tarea o de error.</p>
+
+ <img src="{{ site.baseurl }}/img/alertas.png" alt="Post Sample Image">![alertas.png]({{site.baseurl}}/img/alertas.png)
+
+
+
 
 <p>A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.</p>
 
