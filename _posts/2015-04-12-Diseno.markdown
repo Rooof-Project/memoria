@@ -14,6 +14,7 @@ published: true
 
 
 
+
 <h2 class="section-heading">El proceso de creación</h2>
 
 <p>La identidad de la plataforma también la hemos planteado de manera incremental.
@@ -28,7 +29,8 @@ Al trabajar por releases, y tener un tiempo limitado para abarcar todos los aspe
 <h2 class="section-heading">Elementos de la identidad</h2>
 
 
-<img src="{{ site.baseurl }}/img/layout-1.png" alt="Pagina de Rooof">
+<img src="{{ site.baseurl }}/img/layout-1.jpg" alt="Pagina de Rooof">
+![layout-1.jpg]({{site.baseurl}}/img/layout-1.jpg)
 
 
 <span class="caption text-muted">Rooof es un amigo que te recomienda nuevas formas de disfrutar de tu tiempo libre. Así es como fuimos definiendo el proyecto y la identidad debía reflejarlo.
