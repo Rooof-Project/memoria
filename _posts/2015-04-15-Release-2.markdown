@@ -141,14 +141,13 @@ published: true
     <img src="{{ site.baseurl }}/img/Resultado-r2.png" alt="Post Sample Image">
 </a>
 
-
 <p> En esta release añadimos una categorización por etiquetas, de momento sin interacción, tan sólo las nombrábamos y las destacamos por registro de color. Este cambio respondía a las necesidades de algunos usuarios a los que les hicimos el text de ux.</p>
 
 <p>También habíamos previsto diferentes soluciones gráficas en caso de que el evento tuviese el aforo completo. En este caso consideramos oportuno ofrecerle al usuario la posibilidad de apuntarse a una lista en la que, si hubiese alguna vacante, podría acceder al evento.</p>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
-</a>
+    <img src="{{ site.baseurl }}/img/Fichasev-r2.png" alt="Post Sample Image">
+</a>)
 
 <p>En general las fichas de los eventos cambiaron bastante, añadimos más espacio, destacamos el contenido de las mismas y a la vez las hicimos más simples y con más espacio. Y siempre con acceso a información acerca del creador y del precio.</p>
 
