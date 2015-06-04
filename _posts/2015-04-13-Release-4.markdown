@@ -58,7 +58,7 @@ published: true
 
 <p>Hasta ahora habíamos propuesto la creación de una cuenta para poder hacer la reserva o la creación de un evento. Pero nos habíamos quedado ahí. Los usuarios no podían mostrar sus datos personales, sus intereses y gustos... y era hora de cambiar eso, y aportar un poco más de valor. Si que habíamos hecho unos perfiles de usuario, pero no habíamos planteado cómo el usuariario crearía su perfil.</p>
 
-<h3 class="section-heading">Desarrollo de los perfiles</h3>
+<h3 class="section-heading">Desarrollando los perfiles</h3>
 
 <p>Nos planteamos un perfil básico, solo con la información más importante: nombre, foto, descripción e intereses. También daríamos importancia a la actividad: a qué eventos ha asisitido el usuario y cuales ha creado.</p>
 
@@ -72,8 +72,9 @@ published: true
 
 <p>También era importante que la edición del perfil fuera sencilla, por lo que pusimos especial cuidado en el formulario y priorizamos el requisito de que fuese accesible y fácil desde todos los dispositivos. Hicimos pruebas con <a href="http://marvl.in/78d526" target="_blank">protopipos en baja fidelidad</a> y después de varios diseños encontramos una solución a lo que buscábamos.</p>
 
-<img src="{{ site.baseurl }}/img/aviso.jpg" alt="Post Sample Image">
-<img src="{{ site.baseurl }}/img/aviso.jpg" alt="Post Sample Image">
+<img src="{{ site.baseurl }}/img/perfil-tutu.jpg" alt="Perfil">![perfil-tutu.jpg]({{site.baseurl}}/img/perfil-tutu.jpg)
+
+<img src="{{ site.baseurl }}/img/aviso.jpg" alt="Editar perfil">
 
 
 
