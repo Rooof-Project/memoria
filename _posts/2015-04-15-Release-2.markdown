@@ -44,7 +44,7 @@ published: true
 
 <p>De nuevo necesitábamos un camino a seguir. El rediseño de la página, añadir las nuevas historias de usuarios y corregir las que ya teníamos suponía una gran tarea. Necesitábamos un esqueleto que nos mostrase qué podía hacer el usuario en cada lugar en el que se encontraba. Necesitábamos un mapa para no perdernos en el diseño, un mapa que se hizo mucho más complejo de lo que pensábamos al añadir la funcionalidad de registro/login de usuario.</p>
 
-<a href="img/workflow-r2.jpg">
+<a href="#">
     <img src="{{ site.baseurl }}/img/workflow-r2.jpg" alt="Post Sample Image">
 </a>
 
