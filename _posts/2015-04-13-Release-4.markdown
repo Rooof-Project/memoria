@@ -100,6 +100,11 @@ published: true
 
 <img src="{{ site.baseurl }}/img/05-reserva-crear-movil.jpg" alt="reservar de un evento, móvil.">
 
+<h2 class="section-heading">Estrategia de contenidos</h2>
 
+<h2 class="section-heading">Solución tecnológica</h2>
 
-<p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
+<p>Aparte del Sass, que ya lo venimos usando desde la tercera release, para esta cuarta release, hemos incorporado Jekyll y un Gulp.</p>
+<p>Jekyll nos ha permitido agilizar el desarrollo de plantillas con la incorporación de módulos html rehusables. Y pese a que le podíamos haber sacado mucho más probecho nos ha ayudado a agilizar el desarrollo del prototipo.</p>
+<p>Hemos incorporado también un task runner. Primero probamos con grunt, pero se nos hacía demasiado lento. Finalmente configuramos gulp. También nos ha permitido trabajar con más rapidez e incorporar automáticamente tareas como la escritura automática de los prefijos para los navegadores en css, o la optimización de imágenes.</p>
+
