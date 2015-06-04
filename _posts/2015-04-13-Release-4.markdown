@@ -7,17 +7,20 @@ published: true
 ---
 
 
+<blockquote>> We loved with a love that was more than love
+</blockquote>
+
 <h2 class="section-heading">Historias de usuario</h2>
 
 <p>Para esta release planteamos las siguientes historias de usuario:
-
-<p>- Crear alerta fin de tarea
-<p>- Ver mapa con ubicación del evento</p>
-<p>- Reservar evento en móvil</p>
-<p>- Crear evento en móvil</p>
-<p>- Crear perfil</p>
-<p>- Editar perfil</p>
-<p>- Estrategia de contenidos.</p>
+<ul>
+<li> Crear alerta fin de tarea</li>
+<li> Ver mapa con ubicación del evento</li>
+<li> Reservar evento en móvil</li>
+<li> Crear evento en móvil</li>
+<li> Crear perfil</li>
+<li> Editar perfil</li>
+<li> Estrategia de contenidos.</li>
 
 <p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
 
