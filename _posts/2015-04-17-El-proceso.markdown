@@ -8,6 +8,7 @@ published: true
 
 
 
+
 <h2 class="section-heading">Metodología de trabajo</h2>
 
 <p>Para el desarrollo del proyecto hemos querido alejarnos de los tradicionales procesos en cascada e intentar involucrarnos con metodologías ágiles.</p>
@@ -29,11 +30,12 @@ published: true
 <p>Como equipo no tenemos un lugar de trabajo, cada uno trabaja en su casa y periódicamente nos reunimos para hablar. Al no tener una pizarra física donde apuntar las cosas que íbamos haciendo decidimos usar herramientas virtuales:
 </p>
 <ul>
-<li>- Dropbox: para almacenar todos los archivos y documentación.</li>
-<li>- Featured Map: para planear las historias de usuario.</li>
-<li>- Trello: para organizar las tareas y saber que está haciendo cada miembro del equipo.</li>
-<li>Estas herramientas nos han ayudado a gestionarnos y a estar coordinados.</li>
+<li>Dropbox: para almacenar todos los archivos y documentación.</li>
+<li>Featured Map: para planear las historias de usuario.</li>
+<li>Trello: para organizar las tareas y saber que está haciendo cada miembro del equipo.</li>
 </ul>
+Estas herramientas nos han ayudado a gestionarnos y a estar coordinados.
+
 
 <h2 class="section-heading">Los Roles</h2>
 
