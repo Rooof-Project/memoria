@@ -97,6 +97,7 @@ published: true
 <li> Planteamiento de un nuevo formulario de creación, que fuese accesible en móvil. El que teníamos hasta ahora no lo era.</li>
 </ul>
 </p>
+<p>   </p>
 
 <img src="{{ site.baseurl }}/img/reserva-crear-movil.jpg" alt="reserva de un evento, móvil.">
 
