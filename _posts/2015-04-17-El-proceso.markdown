@@ -7,6 +7,7 @@ published: true
 ---
 
 
+
 <h2 class="section-heading">Metodología de trabajo</h2>
 
 <p>Para el desarrollo del proyecto hemos querido alejarnos de los tradicionales procesos en cascada e intentar involucrarnos con metodologías ágiles.</p>
@@ -28,12 +29,11 @@ published: true
 <p>Como equipo no tenemos un lugar de trabajo, cada uno trabaja en su casa y periódicamente nos reunimos para hablar. Al no tener una pizarra física donde apuntar las cosas que íbamos haciendo decidimos usar herramientas virtuales:
 </p>
 
-<p>- Dropbox: para almacenar todos los archivos y documentación.
-- Featured Map: para planear las historias de usuario.
-- Trello: para organizar las tareas y saber que está haciendo cada miembro del equipo.
-</p>
+<p>- Dropbox: para almacenar todos los archivos y documentación.</p>
+<p>- Featured Map: para planear las historias de usuario.</p>
+<p>- Trello: para organizar las tareas y saber que está haciendo cada miembro del equipo.</p>
+<p>Estas herramientas nos han ayudado a gestionarnos y a estar coordinados.</p>
 
 <h2 class="section-heading">Los Roles</h2>
 
 <p>Todos tenemos un background profesional muy parecido, por lo que los roles no tenían mucho sentido. No somos un equipo multidisciplinar, ya que todos somos diseñadores, por lo que no hubo roles establecidos. Además el objetivo del proyecto era aprender y poner en práctica todo lo que íbamos viendo en las clases por lo que todos intentamos participar en cada uno de los aspectos del proyecto (investigación, UX/IU, código...), y cada persona se involucraba más o menos según sus capacidades y sus intereses.</p>
-
