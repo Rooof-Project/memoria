@@ -48,9 +48,7 @@ published: true
 <p>Claro que, como siempre teníamos que tener en cuenta al otro usuario, el creador del evento. En las entrevistas realizadas éste se sentía un poco receloso acerca de que todos supiesen donde vivía por lo que decidimos enseñar un mapa con una dirección aproximada. Una vez confirmada la reserva se facilitaría la dirección exacta vía email.
 </p>
 <img src="{{ site.baseurl }}/img/mapa.jpg" alt="Post Sample Image">
-
-
-<p>Incluímos el mapa tras el contenido del evento. Es una información importante pero complementaría.</p>
+<span class="caption text-muted">Incluímos el mapa tras el contenido del evento. Es una información importante pero complementaria.</span>
 
 <h2 class="section-heading">Perfiles de usuario</h2>
 
