@@ -33,9 +33,11 @@ Con la combinación de tipografía, fotografía y color fuimos dando forma a la 
 <p>Rooof usa la combinación de tres familias tipográficas, con la intención de crear un ritmo visual mediante el contraste.</p>
 
 <p>Aparte de los requerimientos de identidad que la propia plataforma nos iba exigiendo, hemos tenido en cuenta aspectos técnicos y económicos para la elección tipográfica:</p>
-<p>- Web fonts: Usamos fuentes de google fonts,  por ser de fácil integración en el desarrollo de la plataforma.</p>
-<p>- Gratuítas: El dinero es un factor importante. Por lo que optamos por el momento en no gastar dinero en tipografía. Google fonts nos ofrecía un catálogo numeroso de tipografías completamente gratuítas.
-<p>- Diferentes pesos tipográficos: Escogimos tipografías con varios pesos,  para que nos diese juego a la hora de crear la identidad.</p>
+<ul>
+<li> Web fonts: Usamos fuentes de google fonts,  por ser de fácil integración en el desarrollo de la plataforma.</li>
+<li> Gratuítas: El dinero es un factor importante. Por lo que optamos por el momento en no gastar dinero en tipografía. Google fonts nos ofrecía un catálogo numeroso de tipografías completamente gratuítas.</li>
+<li> Diferentes pesos tipográficos: Escogimos tipografías con varios pesos,  para que nos diese juego a la hora de crear la identidad.</li>
+</ul>
 
 <h3>Familias tipográficas</h3>
 
