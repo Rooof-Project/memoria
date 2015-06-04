@@ -9,6 +9,9 @@ published: true
 
 <blockquote> <h2>We loved with a love that was more than love</h2>
 We loved with a love that was more than love
+<h3>We loved with a love that was more than love</h3>
+<h4>We loved with a love that was more than love</h4>
+<h5>We loved with a love that was more than love</h5>
 </blockquote>
 
 <h2 class="section-heading">Historias de usuario</h2>
