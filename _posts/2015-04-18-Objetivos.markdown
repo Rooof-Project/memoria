@@ -9,6 +9,19 @@ published: true
 
 
 
+<h2 class="section-heading">¿Qué es ROOOF?</h2>
+
+<p>Es un proyecto para usuarios interesados en la cultura que quieren crear eventos o asistir a espectáculos en Barcelona. ROOOF es una plataforma cultural que sirve como enlace entre artistas locales y su público. </p>
+
+
+<h2 class="section-heading">A quén va dirigido</h2>
+<p>Poner a la disposición de los creadores una plataforma de difusión de sus propuestas y creaciones culturales y facilitar el acceso de todas las personas a un tipo de experiencias culturales basadas en la autogestión y el espacio privado (“Cultura Home-Made”) </p>
+
+<h2 class="section-heading">Misión de ROOOF</h2>
+<p>Poner a la disposición de los creadores una plataforma de difusión de sus propuestas y creaciones culturales y facilitar el acceso de todas las personas a un tipo de experiencias culturales basadas en la autogestión y el espacio privado (“Cultura Home-Made”) </p>
+
+
+<h2 class="section-heading">Objetivos</h2>
 <p>Poner a la disposición de los usuarios una plataforma de creación y difusión de sus propuestas culturales y facilitar el acceso de todas las personas a un tipo de experiencias culturales basadas en la autogestión y el espacio privado <strong>Cultura Home-Made</strong></p>
 
 <p>Crear una plataforma web con la que el usuario pueda obtener éstos puntos:</p>
