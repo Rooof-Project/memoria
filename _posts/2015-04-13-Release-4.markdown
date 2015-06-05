@@ -101,6 +101,14 @@ published: true
 
 <img src="{{ site.baseurl }}/img/reserva-crear-movil.jpg" alt="reserva de un evento, móvil.">
 
+<h2 class="section-heading">Estrategia de contenidos</h2>
+
+<p>Después  de realizar varias releases estábamos tan centrados en el la web, sus funcionalidades y lo que los usuarios veían o dejaban de ver que habíamos perdido un poco el camino de cómo queríamos que fuese nuestro proyecto. Llegó el momento de retocar la plataforma con conceptos sólidos acerca de cómo nosotros queríamos que fuese.</p>
+
+<p>Para ello hicimos esta historia de usuario:
+<blockquote>“Como Rooof necesitamos articular una estrategia coherente y basada en unos valores sólidos de marca para generar contenidos en nuestra web y redes sociales”</blockquote></p>
+<p>Debíamos comunicar qué somos y como queremos que nos vean. Así que hicimos una estrategia de contenidos, echando la vista atrás, repasando y mejorando lo que habíamos empezado.</p>
+La estrategia podéis verla <a href="http://issuu.com/rooof-project/docs/04-estrategia_comunicaci__n_010415/1" target="_blank">aquí</a> y nos ha servido para centrar las ideas y solidificar la marca.</p>
 
 
 <h2 class="section-heading">Solución tecnológica</h2>
