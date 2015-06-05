@@ -66,9 +66,16 @@ published: true
 
 <h3>Amenazas</h3>
 <ul>
-<li>Falta de creadores: puede que no tengan un espacio para hacerlo.<li>
-<li>Falta de público por<strong> desconfianza</strong> a ir a espacios privados.<li>
+<li>Falta de creadores: puede que no tengan un espacio para hacerlo.</li>
+<li>Falta de público por <strong>desconfianza</strong> a ir a espacios privados.</li>
 </ul>
+
+<h3>Competencia</h3>
+<img src="{{ site.baseurl }}/img/competidores.jpg" alt="Evento con ROOOF">![competidores.jpg]({{site.baseurl}}/img/competidores.jpg)
+
+
+
+<p></p>
 
 
 
