@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="ROOOF Memoria proyecto final">
 
-    <title>Release 4 - ROOOF</title>
+    <title>Cuarta Release - ROOOF</title>
 
     <link rel="canonical" href="http://rooof-project.github.io/memoria/2015/04/13/Release-4/">
 
@@ -81,9 +81,9 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="post-heading">
-                    <h1>Release 4</h1>
+                    <h1>Cuarta Release</h1>
                     
-                    <h2 class="subheading">because they lacked opposable thumbs and the brainpower to build a space program.</h2>
+                    <h2 class="subheading">Optimización y mejora de las historias.</h2>
                     
 
                 </div>
@@ -98,40 +98,107 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 
-				<p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
+				<h2 class="section-heading">Objetivos de la release</h2>
+<p>Para la última release teníamos que corregir algunos errores de experiencia de usuario que arrastrábamos de otras realises anteriores.</p>
+<p>También nos planteamos incorporar los perfiles de usuario como sistema para generar confianza entre usuarios y también como primer paso para permitir el intercambio de gustos culturales.</p>
+<p>Además continuamos con la idea de que los dispositivos móviles tienen un gran peso en nuestra plataforma, por lo que debíamos optimizar la reserva de los eventos en desde ellos.</p>
 
-<p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
+<h2 class="section-heading">Historias de usuario</h2>
 
-<p>What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.</p>
+<p>Incluímos las siguientes historias de usuario a realizar:
+<ul>
+<li> Crear alertas fin de tarea</li>
+<li> Ver mapa con ubicación del evento</li>
+<li> Reservar / crear evento en móvil</li>
+<li> Crear / editar perfil personal</li>
+<li> Estrategia de contenidos.</li>
+</ul>
+</p>
 
-<p>A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.</p>
+<h2 class="section-heading">Mejoras en experiencia de uso</h2>
 
-<p>For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.</p>
+<p>Tras varias entrevistas y pruebas de usuario nos percatamos de que aún teníamos pendiente corregir algunos aspectos que no habían quedado del todo resueltos:
+<ul>
+<li>El usuario no percibia bien que había reservado o creado un evento.</li>
+<li>Los usuarios consideraban importante ver la localización del evento en un mapa.</li>
+</ul>
 
-<h2 class="section-heading">The Final Frontier</h2>
+<h3>Sistema de alertas</h3>
+<p>Para resolver el primer problema nos planteamos la creación de un sistema de alertas o avisos. Habíamos probado anteriormente con un pequeño texto debajo del botón de reserva, pero pasada demasiado desapercibido. Pensamos en incluir una alerta en forma de banner flotante, clara, directa y en un lugar con visibilidad. Tras alguna prueba y corrección de problemas con el color, incluímos las alertas en la guía de estilo, creando un sistema según el tipo de mensaje: de finalización de tarea, de error o informativas.</p>
 
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
+ <img src="/memoria/img/alertas.png" alt="Sistema de alertas" />
 
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
+ <img src="/memoria/img/aviso.jpg" alt="Aviso finalización de reserva" />
 
-<blockquote>The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.</blockquote>
+<h3>Ubicación del evento</h3>
+<p>Los usuarios consideraban importante saber una localización exacta o aproximada de donde tendría lugar el acto, según ellos, esto les podría condicionar a la hora de elegir uno u otro evento.</p>
 
-<p>Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.</p>
+<p>Claro que, como siempre teníamos que tener en cuenta al otro usuario, el creador del evento. En las entrevistas realizadas éste se sentía un poco receloso acerca de que todos supiesen donde vivía por lo que decidimos enseñar un mapa con una dirección aproximada. Una vez confirmada la reserva se facilitaría la dirección exacta vía email.
+</p>
+<img src="/memoria/img/mapa.jpg" alt="Mapa" />
+<span class="caption text-muted">Incluímos el mapa tras el contenido del evento. Es una información importante pero complementaria.</span>
 
-<h2 class="section-heading">Reaching for the Stars</h2>
+<h2 class="section-heading">Perfiles de usuario</h2>
 
-<p>As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.</p>
+<blockquote>“Como usuario quiero poder crear mi perfil con mis datos personales, gustos e intereses para darme a conocer a otros usuarios y compartir mis intereses con ellos. Quiero poder añadir más información si es necesario”</blockquote>
 
-<p><a href="#">
-    <img src="/memoria/img/post-sample-image.jpg" alt="Post Sample Image" />
-</a>
-<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span></p>
+<p>Desde el principio sabíamos que los perfiles de usuario eran una parte importante de la plataforma. Los usuarios, tanto creadores como asistentes, consideran importante esta funcionalidad. Si son creadores a través de su perfil pueden atraer a más público, si son asistentes pueden presumir de a qué eventos fueron y con quien (en un futuro). Además es una historia importante a la hora de <strong>crear confianza y seguridad entre usuarios</strong>, que es una de las debilidades de nuestra plataforma.</p>
 
-<p>Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.</p>
+<p>En Rooof pretendemos crear una comunidad, el trato entre personas es muy relevante ya que comparten experiencias juntos, un usuario no es nada sin el otro. Uno quiere mostrar su talento mientras el otro quiere pasar un buen rato y conocer gente nueva. Por ello, tanto para el creador del evento como para el asistente es importante poder tener un perfil en el que mostrar que es lo que hace o cuales son sus preferencias. O incluso a que eventos han ido.</p>
 
-<p>As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.</p>
+<p>Hasta ahora habíamos propuesto la creación de una cuenta para poder hacer la reserva o la creación de un evento. Pero nos habíamos quedado ahí. Los usuarios no podían mostrar sus datos personales, sus intereses y gustos... y era hora de cambiar eso, y aportar un poco más de valor. Si que habíamos hecho unos perfiles de usuario, pero no habíamos planteado la manera en la que el usuario crearía su perfil.</p>
 
-<p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
+<h3>Desarrollando los perfiles</h3>
+
+<p>Nos planteamos un perfil básico, solo con la información más importante: nombre, foto, descripción e intereses. También daríamos importancia a la actividad: a qué eventos ha asisitido el usuario y cuales ha creado.</p>
+
+<p>Para empezar, consideramos esta información como prioritaria. Más adelante y después de hacer pruebas y ver como funcionan los usuarios podremos incluir otras funcionalidades como seguir a otros usuarios o ver tus tickets comprados.</p>
+
+<p>Planteamos el diseño de varios estados y plantillas: debíamos tener un perfil vacio y otro completo, y debíamos dar la posibilidad de edición. A través de un workflow, diseñamos el viaje que el usuario ha de hacer para la creación su perfil.</p>
+
+<img src="/memoria/img/05-workflow-perfiles.png" alt="workflow, perfil de usuario" />
+<span class="caption text-muted">Workflow, creación de perfil de usuario
+.</span>
+
+<p>También era importante que la edición del perfil fuera sencilla, por lo que pusimos especial cuidado en el formulario y priorizamos el requisito de que fuese accesible y fácil desde todos los dispositivos. Hicimos pruebas con <a href="http://marvl.in/78d526" target="_blank">protopipos en baja fidelidad</a> y después de varios diseños encontramos una solución a lo que buscábamos.</p>
+
+<img src="/memoria/img/perfil-tutu.jpg" alt="Perfil" />
+
+<img src="/memoria/img/perfil-editar.jpg" alt="Editar perfil" />
+<span class="caption text-muted">Edición del perfil desde el móvil.</span>
+
+
+<h2 class="section-heading">Reservar y crear un evento desde el móvil</h2>
+
+<p>Al hacer la versión responsive en la tercera release, ya teníamos parte del trabajo hecho, pero debíamos optimizarlo para móvil. Había cosas que no encajaban del todo, y otras que estaban muy lejos de funcionar.</p>
+
+<p>Para nososotros era muy importante que independientemente de dónde se encontrase el usuario, pudiera hacer una reserva fácilmente y además con una buena experiencia de uso. Además, optimizar la plataforma para móvil nos abria un montón de posibilidades de proyección: los usuarios podrían compartir por redes sociales o acceder a la plataforma desde el mail (aplicaciones cada vez mas usadas desde el móvil).</p>
+
+<p>Para los usuarios la tarea más importante a realizar en la plataforma a través del móvil es “reservar un evento”. La tarea de creación de un evento, para el usuario, es una experiencia menos mobile. Es dedicar un tiempo en un lugar tranquilo desde su ordenador para poder subir fotos correctamente desde la tranquilidad de su hogar.</p>
+
+<p>Nos planteamos eliminar esta funcionalidad de la versión móvil pero también pensamos que si el usuario sabía que se podía hacer en desktop, debíamos ser fieles a la versión y dar también en móvil esta funcionalidad para no crear posibles decepciones. Eso sí, a nivel de jerarquía de la información lo situamos al final del menú y al final del scroll en cada página.</p>
+
+<h3>Optimización para móvil</h3>
+
+<p>Algunas cosas que corregimos o planteamos de nuevo teniendo como prioridad el uso en todos los dispositivos:
+<ul>
+<li> Reorganización del contenido de la ficha del evento usando JavaScript: la posición natural de los elementos hacía que información importante y botón de reserva quedarán muy abajo.</li>
+<li> Optimización de tamaños tipográficos, y tamaños en la grilla de los eventos.</li>
+<li> Planteamiento de un nuevo formulario de creación, que fuese accesible en móvil. El que teníamos hasta ahora no lo era.</li>
+</ul>
+</p>
+
+
+<img src="/memoria/img/reserva-crear-movil.jpg" alt="reserva de un evento, móvil." />
+
+
+
+<h2 class="section-heading">Solución tecnológica</h2>
+
+<p>Aparte del Sass, que ya lo venimos usando desde la tercera release, para esta cuarta release, hemos incorporado <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> y <a href="http://gulpjs.com/" target="_blank">Gulp</a>.</p>
+<p>Jekyll nos ha permitido agilizar el desarrollo de plantillas con la incorporación de módulos html reusables. Y pese a que le podíamos haber sacado mucho más probecho nos ha ayudado a agilizar el desarrollo del prototipo, además de acercarnos más a una plataforma con contenido dinámico.</p>
+<p>Hemos incorporado también un task runner. Primero probamos con grunt, pero se nos hacía demasiado lento. Finalmente configuramos gulp. También nos ha permitido trabajar con más rapidez e incorporar automáticamente tareas como la escritura automática de los prefijos para los navegadores en css, o la optimización de imágenes.</p>
+</p>
 
 
                 <hr>
@@ -144,7 +211,7 @@
                     
                     
                     <li class="previous">
-                        <a href="/memoria/2015/04/14/Release-3/" data-toggle="tooltip" data-placement="top" title="Release 3">&larr; Anterior</a>
+                        <a href="/memoria/2015/04/14/Release-3/" data-toggle="tooltip" data-placement="top" title="Tercera Release">&larr; Anterior</a>
                     </li>
                     
                 </ul>

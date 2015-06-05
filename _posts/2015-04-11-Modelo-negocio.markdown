@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Modelo de negocio
-subtitle: because they lacked opposable thumbs and the brainpower to build a space program.
+subtitle: Two-sided Marketplace
 "header-img": "img/post-bg-01.jpg"
 published: true
 ---
@@ -12,7 +12,7 @@ published: true
 
 <p>Sinceramente no hemos desarrollado mucho nuestro modelo de negocio. Hemos estado más pendientes del diseño web, Ux y de satisfacer las necesidades de los usuarios.</p>
 
-<p>Sin embargo, si tuviésemos que enmarcar a la plataforma dentro de un modelo de negocio entonces Rooof es un <strong>“two sides market place”</strong>. Esta tipología trata de modelos de negocio donde, para que uno de los lados (o segmentos de clientes) reciba valor debe existir el otro, es decir, operan sobresegmentos e interdependientes y se benefician mutuamente.</p>
+<p>Sin embargo, si tuviésemos que enmarcar a la plataforma dentro de un modelo de negocio entonces Rooof es un <strong>“two-sided market place”</strong>. Esta tipología trata de modelos de negocio donde, para que uno de los lados (o segmentos de clientes) reciba valor debe existir el otro, es decir, operan sobresegmentos e interdependientes y se benefician mutuamente.</p>
 
 <p>En nuestro caso las dos partes cuya dependencia es crucial para nuestra plataforma son: El asistente a los eventos y el creador de eventos.</p>
 

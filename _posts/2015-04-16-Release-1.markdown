@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Release 1
+title: Primera Release
+subtitle: "Cómo empezamos a definir el proyecto, investigación, design thinking, y primer producto viable."
 "header-img": "img/post-bg-02.jpg"
 published: true
 ---
-
-
 
 
 

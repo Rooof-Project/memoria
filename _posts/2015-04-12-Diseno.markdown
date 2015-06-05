@@ -1,7 +1,7 @@
 ---
 layout: post
 title: La identidad de ROOOF
-subtitle: because they lacked opposable thumbs and the brainpower to build a space program.
+subtitle: ROOOF es un amigo cuya opinión pones en valor.
 "header-img": "img/post-bg-01.jpg"
 published: true
 ---

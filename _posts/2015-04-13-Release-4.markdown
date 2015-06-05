@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Release 4
-subtitle: because they lacked opposable thumbs and the brainpower to build a space program.
+title: Cuarta Release
+subtitle: Optimización y mejora de las historias.
 "header-img": "img/post-bg-01.jpg"
 published: true
 ---
@@ -27,7 +27,7 @@ published: true
 
 <h2 class="section-heading">Mejoras en experiencia de uso</h2>
 
-<p>Tras varias entrevistas y pruebas de usuario nos percatamos de que aún teníamos pendiente corregir algunos aspectos que no habían quedado del todo resueltos: 
+<p>Tras varias entrevistas y pruebas de usuario nos percatamos de que aún teníamos pendiente corregir algunos aspectos que no habían quedado del todo resueltos:
 <ul>
 <li>El usuario no percibia bien que había reservado o creado un evento.</li>
 <li>Los usuarios consideraban importante ver la localización del evento en un mapa.</li>
@@ -37,7 +37,7 @@ published: true
 <p>Para resolver el primer problema nos planteamos la creación de un sistema de alertas o avisos. Habíamos probado anteriormente con un pequeño texto debajo del botón de reserva, pero pasada demasiado desapercibido. Pensamos en incluir una alerta en forma de banner flotante, clara, directa y en un lugar con visibilidad. Tras alguna prueba y corrección de problemas con el color, incluímos las alertas en la guía de estilo, creando un sistema según el tipo de mensaje: de finalización de tarea, de error o informativas.</p>
 
  <img src="{{ site.baseurl }}/img/alertas.png" alt="Sistema de alertas">
- 
+
  <img src="{{ site.baseurl }}/img/aviso.jpg" alt="Aviso finalización de reserva">
 
 <h3>Ubicación del evento</h3>

@@ -5,55 +5,41 @@
     <description>ROOOF Memoria proyecto final</description>
     <link>http://rooof-project.github.io/memoria/</link>
     <atom:link href="http://rooof-project.github.io/memoria/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 31 May 2015 18:45:31 +0200</pubDate>
-    <lastBuildDate>Sun, 31 May 2015 18:45:31 +0200</lastBuildDate>
+    <pubDate>Fri, 05 Jun 2015 14:07:25 +0200</pubDate>
+    <lastBuildDate>Fri, 05 Jun 2015 14:07:25 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Cómo empezó todo</title>
-        <description>&lt;p&gt;Solo para probar si el contenido del blog se puede editar online en prose.io&lt;/p&gt;
+        <description>&lt;h2 class=&quot;section-heading&quot;&gt;Empezando bien&lt;/h2&gt;
+&lt;p&gt;Habíamos estado trabajando en cuatro briefs diferentes y con distintos equipos durante dos semanas. Mientras nos íbamos conociendo y familiarizándonos con técnicas de design thinking, cada uno iba teniendo un brief favorito.&lt;/p&gt;
 
-&lt;p&gt;Y si que se puede. :)&lt;/p&gt;
-&lt;p&gt; Antes de nada, aceptad la invitación al repositorio &quot;memoria&quot; de github que os envié desde la cuenta de rooof-project.
+&lt;p&gt;Llegó el día de montar los equipos y repartir los briefs en los que trabajaríamos durante el resto del curso.&lt;/p&gt;
 
-Id a prose.io. Os saldrá que teneis que autorizar a github. Le decís que si. Una vez dentro vereis vuestros repositorios, entre ellos la memoria, y desde aquí podeis editar el contenido como si fuera un word. Los archivos que hay que editar son los que están dentro de la carpeta _post. Los demás no se tocan. Cuidado con el orden de los post, van por orden de fecha, el más reciente saldrá el primero. &lt;/p&gt;
+&lt;p&gt;Nuestro equipo estaba montado y respondía a las exigencias del máster: debía ser mixto sexualmente, con miembros con experiencia laboral previa, y al menos uno debía ser de fuera. Además todo el equipo tenía un brief favorito: experiencias guiadas. Y uno menos favorito: Plataforma Cultural, que ocupaba el tercer puesto de cuatro.&lt;/p&gt;
 
-&lt;p&gt; Hay una cosa a tener en cuenta: cuando entreis a prose.io, en la primera pantalla arriba a la derecha os saldrá un menú para escoger el ususuario, teneis que escoger Rooofproject. &lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/memoria/img/group.png&quot; alt=&quot;group.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Solo había un problema. Otro equipo había elegido ya el brief de experiencias guiadas. Se planteó un duelo de ideas, ganaría la idea mas original. Creo que todos pensamos que tendríamos mas posibilidades de ganar lanzando una moneda al aire. La lanzamos y perdimos.Tendríamos que haber escogido al rey.&lt;/p&gt;
 
-&lt;p&gt; Y después, una vez escogido el repositorio memoria en el siguiente paso, teneis que aseguraos de que el branch es gh-pages &lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/memoria/img/branch.png&quot; alt=&quot;branch.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Así que nuestro brief era este:&lt;/p&gt;
+&lt;blockquote&gt;Diseñar una plataforma para personas u organizaciones interesadas por la cultura donde puedan compartir de manera restringida o pública sus gustos y experiencias, y obtener recomendaciones a partir de los de otras personas afines. &lt;/blockquote&gt;
 
-&lt;p&gt;Para ver el blog online podeis hacerlo desde el mismo repositorio de github, abajo del todo hay un link que pone &quot;View Live Demo →&quot; o &lt;a href=&quot;http://rooof-project.github.io/memoria&quot;&gt;desde aquí&lt;/a&gt;. Para ver los cambios que habéis hecho refrescad la página, tarda un poquito, quizá tengáis que refrescar 2 o 3 veces.&lt;/p&gt;
+&lt;p&gt;El brief que no queríamos, pero no pasaba nada, porque todavía no lo sabíamos pero teníamos un equipo de puta madre.&lt;/p&gt;
 
-&lt;p&gt;dsbv fvdvA Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That&#39;s how I felt seeing the Earth for the first time. I could not help but love and cherish her.&lt;/p&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;Cuestionando el brief&lt;/h2&gt;
 
-&lt;p&gt;For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.&lt;/p&gt;
+&lt;p&gt;Ahora tocaba volver a empezar con el nuevo brief y el nuevo equipo. Teníamos algunos materiales que nuestros compañeros (y nosotros mismos) habían hecho previamente para este brief, y nos vinieron de lujo como partida para seguir con la investigación.&lt;/p&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;The Final Frontier&lt;/h2&gt;
+&lt;p&gt;Desde un principio siempre rondaba una idea en nuestras cabezas: asistir a actos culturales de una forma más fácil, barata y comunitaria. Pensamos que teníamos que enlazarlo con los espacios privados de los usuarios: sus casas.&lt;/p&gt;
 
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+&lt;p&gt;Nos impusimos esta máxima: sin espacio privado no hay proyecto. Temíamos que Rooof se convirtiese en una mera agenda cultural, de las que ya existen tantas como &quot;le cool&quot;, &quot;time out&quot; etc... Agendas que enlazan negocios culturales con usuarios.&lt;/p&gt;
 
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+&lt;p&gt;No queríamos estar relacionados con este circuito clásico del negocio, queríamos crear el nuestro, uno diferente creado por personas sin necesidad de infraestructura especial para su desarrollo.&lt;/p&gt;
 
-&lt;blockquote&gt;The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.&lt;/blockquote&gt;
+&lt;p&gt;Por ejemplo, nos alejamos de las salas donde se desarrollan espectáculos ya que son un negocio y como tal tienen que generar dinero: debíamos saltarnos este intermediario y crear algo espontáneo y comunitario.&lt;/p&gt;
 
-&lt;p&gt;Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.&lt;/p&gt;
+&lt;p&gt;Consideramos que la web puede ofrecer y crear nuevos tipos de negocio en el ámbito de las artes. Con este proyecto queremos demostrarlo.
+&lt;/p&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;Reaching for the Stars&lt;/h2&gt;
-
-&lt;p&gt;As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/memoria/img/post-sample-image.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
-&lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;To go places and do things that have never been done before – that’s what living is all about.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.&lt;/p&gt;
-
-&lt;p&gt;As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.&lt;/p&gt;
-
-&lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://www.flickr.com/photos/nasacommons/&quot;&gt;NASA on The Commons&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 20 Apr 2015 00:00:00 +0200</pubDate>
         <link>http://rooof-project.github.io/memoria/2015/04/20/como-empezo-todo/</link>
@@ -63,85 +49,72 @@ Id a prose.io. Os saldrá que teneis que autorizar a github. Le decís que si. U
       </item>
     
       <item>
-        <title>Explicación del proyecto</title>
-        <description>&lt;p&gt;dfasdfsd fdgNever in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman&#39;s earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/p&gt;
+        <title>¿Qué es ROOOF?</title>
+        <description>&lt;h2 class=&quot;section-heading&quot;&gt;¿Qué es ROOOF?&lt;/h2&gt;
 
-&lt;p&gt;Science cuts two ways, of course; its products can be used for both good and evil. But there&#39;s no turning back from science. The early warnings about technological dangers also come from science.&lt;/p&gt;
+&lt;p&gt;Imaginaos un domingo de resaca. De repente el maldito vecino del 2ºB empieza tocar su piano. Joder que putada, lo odias y lo quieres matar.&lt;/p&gt;
 
-&lt;p&gt;What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.&lt;/p&gt;
+&lt;p&gt;Error, en Rooof queremos que la gente vaya a casa de su vecino y que descubra su talento musical. Y además el vecino prepara unas croquetas buenísimas y tiene un grupo de amigos que son la bomba. ¿Acaso hay algo mejor que unas croquetas cuando estás de resaca? &lt;/p&gt;
 
-&lt;p&gt;A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That&#39;s how I felt seeing the Earth for the first time. I could not help but love and cherish her.&lt;/p&gt;
+&lt;p&gt;En ROOOF queremos dar la posibilidad de tener un tiempo de ocio diferente, distinto a lo que está marcado como un &quot;must do&quot;.&lt;/p&gt;
 
-&lt;p&gt;For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.&lt;/p&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;¿Qué puedes hacer en ROOOF?&lt;/h2&gt;
+&lt;p&gt; ROOOF es una plataforma cultural que sirve como enlace entre artistas locales y su público. A través de la plataforma los usuarios pueden asistir a eventos creados por otros usuarios, o pueden crear los suyos propios, en su propia casa o espacio privado.&lt;/p&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;The Final Frontier&lt;/h2&gt;
+&lt;h3&gt; ¿Qué motivaciones tienen los usuarios?&lt;/h3&gt;
 
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+&lt;p&gt; Los creadores (grupos de música o de teatro, ilustradores, fotógrafos, humoristas, chefs...) sacarán algo de dinero y ganarán público.&lt;/p&gt;
+&lt;p&gt; Los asistentes (personas consumidoras de cultura) verán una actuación en directo, sin aglomeraciones, ni colas.&lt;/p&gt;
 
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/memoria/img/que-es.jpg&quot; alt=&quot;Evento con ROOOF&quot; /&gt;&lt;/p&gt;
 
-&lt;blockquote&gt;The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.&lt;/blockquote&gt;
+&lt;p&gt; Ambos disfrutarán de una experiencia diferente y única. Conocerán gente nueva con quien compartir e intercambiar intereses culturales comunes.&lt;/p&gt;
 
-&lt;p&gt;Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.&lt;/p&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;Objetivos de la plataforma&lt;/h2&gt;
+&lt;p&gt;El primer objetivo es poner a la disposición de los usuarios una plataforma de difusión de sus propuestas culturales y facilitar el acceso de todas las personas a un tipo de experiencias culturales basadas en la autogestión y el espacio privado: &lt;strong&gt;Cultura Home-Made&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;Reaching for the Stars&lt;/h2&gt;
+&lt;p&gt;El usuario, a través de ROOOF puede obtener:&lt;/p&gt;
 
-&lt;p&gt;As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.&lt;/p&gt;
+&lt;p&gt;1) Oferta diversificada de experiencias culturales en casas particulares.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/memoria/img/post-sample-image.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
-&lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;To go places and do things that have never been done before – that’s what living is all about.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;2) Experiencias innovadoras y sorprendentes, que salen del circuito clásico y mainstream.&lt;/p&gt;
 
-&lt;p&gt;Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.&lt;/p&gt;
+&lt;p&gt;3) Altavoz para los artistas: es una forma fácil para conseguir público distinto.&lt;/p&gt;
 
-&lt;p&gt;As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.&lt;/p&gt;
+&lt;p&gt;4) Experiencias íntimas y personalizadas: contacto directo entre artista y público.&lt;/p&gt;
 
-&lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://www.flickr.com/photos/nasacommons/&quot;&gt;NASA on The Commons&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 19 Apr 2015 00:00:00 +0200</pubDate>
-        <link>http://rooof-project.github.io/memoria/2015/04/19/explicacion-del-proyecto/</link>
-        <guid isPermaLink="true">http://rooof-project.github.io/memoria/2015/04/19/explicacion-del-proyecto/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Objetivos</title>
-        <description>&lt;p&gt;Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman&#39;s earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/p&gt;
+&lt;p&gt;5) Experiencias que fidelizan y generan boca-oreja: el público que asiste a un evento, si ha tenido una buena experiencia, probablemente repetirá o recomendará la experiencia a otros amigos.&lt;/p&gt;
 
-&lt;p&gt;Science cuts two ways, of course; its products can be used for both good and evil. But there&#39;s no turning back from science. The early warnings about technological dangers also come from science.&lt;/p&gt;
+&lt;p&gt;6) Experiencia económica: más barato.&lt;/p&gt;
 
-&lt;p&gt;What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.&lt;/p&gt;
+&lt;p&gt;7) Experiencia accesible: cualquiera puede apuntarse a un evento, ir solo o acompañado.&lt;/p&gt;
 
-&lt;p&gt;A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That&#39;s how I felt seeing the Earth for the first time. I could not help but love and cherish her.&lt;/p&gt;
+&lt;p&gt;8) Experiencia social: al tener lugar en espacios privados la socialización es una parte muy importante.&lt;/p&gt;
 
-&lt;p&gt;For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.&lt;/p&gt;
+&lt;p&gt;9) Confianza: el público confiará en nosotros ya que todos los creadores habrán pasado por nuestros filtros, antes de ofrecer un evento.&lt;/p&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;The Final Frontier&lt;/h2&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;Competidores, fortalezas y debilidades&lt;/h2&gt;
 
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+&lt;h3&gt;Competencia&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/memoria/img/competidores.jpg&quot; alt=&quot;Evento con ROOOF&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+&lt;h3&gt;Fortalezas&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Para los asistentes:&lt;/strong&gt; tenemos más variedad que otras webs culturales y por tanto público de todas las características. Sofar solo hace música y tiene muy poca oferta, eatwith hace comida. La experiencia es más barata y menos masificada que la experiencia clásica de ir a un bar o discoteca. Puedes ir a un evento entre semana o en fin de semana.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Para los creadores:&lt;/strong&gt; es una forma fácil de darte a conocer y conseguir público, o de relacionarte con otros artistas.&lt;/p&gt;
 
-&lt;blockquote&gt;The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.&lt;/blockquote&gt;
+&lt;h3&gt;Oportunidades&lt;/h3&gt;
+&lt;p&gt;Es la primera plataforma que ofrece este servicio. Cada vez son más los usuarios que optan por experiencias alternativas al circuito cultural mainstream. Cada vez son más los artistas que buscan otras formas no clásicas de vincularse con sus públicos y con otros artistas del circuito. Rooof ofrece a público y creadores todo esto en una sola plataforma.&lt;/p&gt;
 
-&lt;p&gt;Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.&lt;/p&gt;
+&lt;h3&gt;Debilidades&lt;/h3&gt;
+&lt;p&gt; El riesgo de la autogestión y el espacio privado: no es profesional, todo se monta de forma amateur por tanto la calidad dependerá de cada artista, pese a que Rooof pone unos filtros previos al registro.&lt;/p&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;Reaching for the Stars&lt;/h2&gt;
+&lt;h3&gt;Amenazas&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Falta de creadores: puede que no tengan un espacio para hacerlo.&lt;/li&gt;
+&lt;li&gt;Falta de público por &lt;strong&gt;desconfianza&lt;/strong&gt; a ir a espacios privados.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/memoria/img/post-sample-image.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
-&lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;To go places and do things that have never been done before – that’s what living is all about.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.&lt;/p&gt;
-
-&lt;p&gt;As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.&lt;/p&gt;
-
-&lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://www.flickr.com/photos/nasacommons/&quot;&gt;NASA on The Commons&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 18 Apr 2015 00:00:00 +0200</pubDate>
         <link>http://rooof-project.github.io/memoria/2015/04/18/Objetivos/</link>
@@ -151,41 +124,37 @@ Id a prose.io. Os saldrá que teneis que autorizar a github. Le decís que si. U
       </item>
     
       <item>
-        <title>El proceso</title>
-        <description>&lt;p&gt;Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman&#39;s earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/p&gt;
+        <title>El proceso de trabajo</title>
+        <description>&lt;h2 class=&quot;section-heading&quot;&gt;Metodología de trabajo&lt;/h2&gt;
 
-&lt;p&gt;Science cuts two ways, of course; its products can be used for both good and evil. But there&#39;s no turning back from science. The early warnings about technological dangers also come from science.&lt;/p&gt;
+&lt;p&gt;Para el desarrollo del proyecto hemos querido alejarnos de los tradicionales procesos en cascada e intentar involucrarnos con metodologías ágiles.&lt;/p&gt;
 
-&lt;p&gt;What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.&lt;/p&gt;
+&lt;p&gt;Pese a que el uso de métodos ágiles no era un requisito fundamental para el proyecto, despues de un par de clases nos vimos motivados y decicimos que era otra oportunidad para aprender, no solo diseño si no también diseño de trabajo.&lt;/p&gt;
 
-&lt;p&gt;A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That&#39;s how I felt seeing the Earth for the first time. I could not help but love and cherish her.&lt;/p&gt;
+&lt;p&gt;Así, establecimos que no íbamos a hacer entregas secuenciales, donde primero haríamos toda la arquitectura para mas tarde pasar al diseño, y luego a la programación. Haríamos entregas inclementales. Establecimos que íbamos siempre a entregar un prototipo que fuesemos capaces de testear con los usuarios, usando html y css, siempre que fuese posible.&lt;/p&gt;
 
-&lt;p&gt;For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.&lt;/p&gt;
+&lt;p&gt;Diseñamos nuestro proceso de trabajo así:&lt;/p&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;The Final Frontier&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/memoria/img/metodo-agil-23.png&quot; alt=&quot;Post Sample Image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+&lt;p&gt;Primero planteamos las historias de usuario y los objetivos del proyecto. Desarrollamos las historias incluyendo todas aquellas facetas que consideramos necesarias: workflow, entrevistas, wireframes, diseño visual, y desarrollo del prototipo. Al final probamos el prototipo y con las conclusiones sacadas volvemos a plantear nuevas historias de usuario&lt;/p&gt;
 
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+&lt;p&gt;Lo cierto es que no fué un círculo cerrado ni perfecto, y el proceso real se aleja del esquema. Hubo veces que no tuvimos tiempo a acabar las historias, por lo que empezábamos la siguiente release con el prototipo sin testear. O a veces nos costaba mucho esfuerzo hacer el planteamiento y teníamos un backlog lleno de tareas por hacer.&lt;/p&gt;
 
-&lt;blockquote&gt;The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.&lt;/blockquote&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;Herramientas&lt;/h2&gt;
 
-&lt;p&gt;Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.&lt;/p&gt;
+&lt;p&gt;Como equipo no tenemos un lugar de trabajo, cada uno trabaja en su casa y periódicamente nos reunimos para hablar. Al no tener una pizarra física donde apuntar las cosas que íbamos haciendo decidimos usar herramientas virtuales:
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dropbox: para almacenar todos los archivos y documentación.&lt;/li&gt;
+&lt;li&gt;Featured Map: para planear las historias de usuario.&lt;/li&gt;
+&lt;li&gt;Trello: para organizar las tareas y saber que está haciendo cada miembro del equipo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Estas herramientas nos han ayudado a gestionarnos y a estar coordinados.&lt;/p&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;Reaching for the Stars&lt;/h2&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;Los Roles&lt;/h2&gt;
 
-&lt;p&gt;As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/memoria/img/post-sample-image.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
-&lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;To go places and do things that have never been done before – that’s what living is all about.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.&lt;/p&gt;
-
-&lt;p&gt;As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.&lt;/p&gt;
-
-&lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://www.flickr.com/photos/nasacommons/&quot;&gt;NASA on The Commons&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Todos tenemos un background profesional muy parecido, por lo que los roles no tenían mucho sentido. No somos un equipo multidisciplinar, ya que todos somos diseñadores, por lo que no hubo roles establecidos. Además el objetivo del proyecto era aprender y poner en práctica todo lo que íbamos viendo en las clases por lo que todos intentamos participar en cada uno de los aspectos del proyecto (investigación, UX/IU, código...), y cada persona se involucraba más o menos según sus capacidades y sus intereses.&lt;/p&gt;
 </description>
         <pubDate>Fri, 17 Apr 2015 00:00:00 +0200</pubDate>
         <link>http://rooof-project.github.io/memoria/2015/04/17/El-proceso/</link>
@@ -195,41 +164,147 @@ Id a prose.io. Os saldrá que teneis que autorizar a github. Le decís que si. U
       </item>
     
       <item>
-        <title>The dreams of yesterday are the hopes of today and the reality of tomorrow.</title>
-        <description>&lt;p&gt;Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman&#39;s earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/p&gt;
+        <title>Primera Release</title>
+        <description>&lt;h2 class=&quot;section-heading&quot;&gt;Design Thinking e Investigación&lt;/h2&gt;
 
-&lt;p&gt;Science cuts two ways, of course; its products can be used for both good and evil. But there&#39;s no turning back from science. The early warnings about technological dangers also come from science.&lt;/p&gt;
+&lt;p&gt;Una vez recibido el primer brief para la plataforma usamos varias herramientas de design thinking para generar ideas y buscar un camino para darle forma a nuestra propuesta.&lt;/p&gt;
 
-&lt;p&gt;What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.&lt;/p&gt;
+&lt;p&gt;En este momento no teníamos claro como íbamos a abordar el proyecto. Empezamos a trabajar realizando mapas mentales, moodboards, mapas stakeholders, escenarios y definiendo a las personas que serían los protagonistas de nuestra plataforma y como serían los user journeys de los usuarios.&lt;/p&gt;
 
-&lt;p&gt;A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That&#39;s how I felt seeing the Earth for the first time. I could not help but love and cherish her.&lt;/p&gt;
+&lt;p&gt;Hemos aplicado Design Thinking centrándonos en tres aspectos: Los usuarios, la creatividad y la iteración. Cuando hablamos de usuarios nos referimos a que estamos siempre centrados en ellos e, incluso a veces, co-creando juntos. Cuando hablamos de Creatividad nos referimos a las diferentes herramientas y procesos que generan nuevas soluciones, como por ejemplo, la clasificación de insights a través de las entrevistas. Por último, con iteración nos referimos a descubrir y aprender haciendo; desarrollar para entender dónde vas.&lt;/p&gt;
 
-&lt;p&gt;For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.&lt;/p&gt;
+&lt;p&gt;A través del primer mapa mental nos percatamos de que el ámbito &quot;cultura&quot; es bastante extenso: va desde representaciones artísticas hasta sentimientos genuinos de un área geográfica, desde un concierto de música a una lengua o la gastronomía pasando por la literatura y el teatro.&lt;/p&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;The Final Frontier&lt;/h2&gt;
+&lt;p&gt;Nuestra idea era abarcar todos los ámbitos posibles, para nosotros hay tantos tipos de eventos como tipo de creadores. La cultura es una singularidad humana cuyas tipologías, en su totalidad, tienen cabida en ROOOF..&lt;/p&gt;
 
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
-
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
-
-&lt;blockquote&gt;The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.&lt;/blockquote&gt;
-
-&lt;p&gt;Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.&lt;/p&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;Reaching for the Stars&lt;/h2&gt;
-
-&lt;p&gt;As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.&lt;/p&gt;
+&lt;p&gt;Gracias al mood board comprendimos, casi por casualidad, la necesidad de las personas por mostrar su talento, lo consideramos una especie de carácterística intrínseca, otra forma más que tiene el ser humano de sentirse querido. Además, también intuimos que esta acción se daba en grupo.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/memoria/img/post-sample-image.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
-&lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;To go places and do things that have never been done before – that’s what living is all about.&lt;/span&gt;&lt;/p&gt;
+    &lt;img src=&quot;/memoria/img/Mood-Board.jpg&quot; alt=&quot;Mood Board&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.&lt;/p&gt;
+&lt;p&gt;Al comienzo pensamos que el espacio dónde se realizaban los eventos no estaba relacionado con el artista. Ideamos unas relaciones entre usuarios que se encontraban en un lugar ajeno a ambos y donde unos asistirían a un espectáculo mientras que otros mostraban su talento.&lt;/p&gt;
 
-&lt;p&gt;As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
+    &lt;img src=&quot;/memoria/img/stakeholders-r1.png&quot; alt=&quot;Stakeholdes&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://www.flickr.com/photos/nasacommons/&quot;&gt;NASA on The Commons&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;Entrevistas&lt;/h2&gt;
+
+&lt;p&gt;Tras estas primeras aproximaciones comenzamos a realizar entrevistas a nuestros amigos y conocidos. En este momento eran entrevistas un tanto ingenuas donde preguntábamos aspectos relacionadas con la plataforma y con el uso en rasgos generales de internet y otros medios de comunicación.&lt;/p&gt;
+
+&lt;p&gt;Uno de los insights que más nos sorprendió es que la mayoría daba mucha importancia al contenido de los eventos, poniéndolo incluso por encima del precio o de la proximidad del mismo. También surgió como elemento importante la preferencia por eventos íntimos por encima de los masificados.&lt;/p&gt;
+
+&lt;p&gt;Uno de los problemas que detectamos es la notable negativa por parte de los entrevistados a ofrecer su casa como lugar del evento. Somos conscientes de que esto puede ser uno de los mayores problemas a la hora hacer nuestra plataforma un proyecto real. Por otra parte, pensamos que nuestra idea no es tan descabellada ya que existen otras webs, como airbnb, donde desconocidos duermen bajo el mismo techo.&lt;/p&gt;
+
+&lt;p&gt;En cuanto a los creadores del evento descubrimos que necesitaban ciertas funcionalidades que les hiciese sentir seguros y afines a la plataforma: deben poder decidir el lugar, la fecha, la hora el número de asistentes, el precio. Los creadores tenían que ser los usuarios &quot;mimados&quot;, ofrecen su casa e invierten tiempo y preparación para realizar el evento. Pero no podíamos olvidar a los asistentes los cuales son mayor en número. Nos empezamos a percatar de que teníamos una posible complicación: tenemos dos tipos de usuarios muy distintos con diferentes necesidades y motivaciones. Teníamos que resolver las necesidades de cada uno y generar experiencias para ambos al mismo tiempo y a veces por separado.&lt;/p&gt;
+
+&lt;p&gt;Estas primeras entrevistas también nos sirvieron para dejar de un lado nuestra ingeniudad y buscar una forma más eficaz de sacar información de valor al entrevistado mediante el uso de preguntas más elaboradas.&lt;/p&gt;
+
+&lt;p&gt;A continuación, tras las entrevistas, desarrollamos unas &quot;personas&quot; para tener siempre presentes a que tipo de usuario nos dirigíamos, sus necesidades, motivaciones, historia, comportamiento y funcionalidades que podrían necesitar.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Personas&lt;/h2&gt;
+
+&lt;p&gt;Lo vimos claro, en nuestra plataforma había dos tipos de usuarios: los creadores de eventos y los asistentes.&lt;/p&gt;
+
+&lt;p&gt;En un principio tan sólo observamos dos funcionalidades para cada uno. Pepe necesitaba un filtrador de eventos y un asistente de reserva. Por otro lado, Daniela, necesitaba crear un evento y categorizarlo.&lt;/p&gt;
+
+&lt;p&gt;Estas necesidades de ambos es lo que nos marcó el camino para desarrollar el primer &quot;Producto Mínimo Viable&quot;. Un primer prototipo un tanto tosco en diseño pero que respondía a 2 premisas básicas para el funcionamiento de la plataforma: crear y reservar un evento. Posteriormente, dentro de esta release, nos pareció oportuno añadir un apartado de “que es” con el fin de asegurarnos que quedaba claro de qué trataba la página.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
+    &lt;img src=&quot;/memoria/img/pepe-daniela.jpg&quot; alt=&quot;Pepe y Daniela&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Historias de Usuario release 1&lt;/h2&gt;
+
+&lt;p&gt;A partir de este punto generamos un featured map en el que ideamos qué historias de usuarios necesitábamos para este fin. Tras una reunión del equipo surgieron estas.
+&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Ver lista básica de eventos.&lt;/li&gt;
+    &lt;li&gt;Ver ficha de evento.&lt;/li&gt;
+    &lt;li&gt;Reservar evento.&lt;/li&gt;
+    &lt;li&gt;Crear evento (básico).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
+    &lt;img src=&quot;/memoria/img/Feature-mapr1.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Workflow&lt;/h2&gt;
+
+&lt;p&gt;También creamos un Workflow que nos daría un esqueleto a nivel de flujo de navegación de que caminos podían seguir ambos usuarios en la plataforma.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
+    &lt;img src=&quot;/memoria/img/workflow-r1.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Wireframes y primeros test&lt;/h2&gt;
+
+&lt;p&gt;Una vez asentados estas dos tareas (historia de usuarios y workflow) ya podíamos comenzar a realizar wireframes y testearlo con usuarios para asegurarnos de que no daban lugar a confusión. Es preferible detectar si todo funciona correctamente en este punto antes de comenzar a diseñar y a invertir el tiempo para no generar &quot;waste&quot;.&lt;/p&gt;
+
+&lt;p&gt;En esta ocasión probamos el wireframe en 10 usuarios. Hicimos un test de guerrilla con el ipad en la cafetería de la escuela y con nuestro amigos. Consideramos que aún la plataforma era muy sencilla y no eran necesarios test más exaustivos, los cuales los realizamos más adelante cuando la arquitectura y el diseño fuesen más completos.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
+    &lt;img src=&quot;/memoria/img/wireframes.png&quot; alt=&quot;Post Sample Image&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Propuesta gráfica&lt;/h2&gt;
+
+&lt;p&gt;Además, animados por nuestra condición de diseñadores gráficos, en esta primera release comenzamos a proponer la gráfica.
+&lt;/p&gt;
+
+&lt;p&gt;Elegimos tipografía para titulares y cuerpos de texto. Las seleccionadas fueron la Dosis y la Pt serif. La primera al ser redondeada y sin serifa nos generaba sensación de amabilidad, diversión casi infantil, tiempo de ocio. Además, al tener muchos pesos disponibles nos daba la oportunidad de sacarle mucho partido y darle diferentes usos. Sin duda consideramos que éste tipo de letra nos sería muy útil para los titulares.&lt;/p&gt;
+
+&lt;p&gt;Por otra parte, la Pt serif, sería la encarga de rellenar nuestros cuerpos de texto. Su condición es más adecuada para ser leía en largos párrafos y nos da un toque de distinción más elevado en los contenidos.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
+    &lt;img src=&quot;/memoria/img/typo.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A su vez, en éste primer toque de contacto con la apariencia visual de la página, establecimos otra serie de estándares que luego cambiaron como el color, el uso de textos sobre imágenes, el logotipo y los botones.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
+    &lt;img src=&quot;/memoria/img/mokup-r1.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
+    &lt;img src=&quot;/memoria/img/mokup-r2.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Durante esta primera release cada uno diseñó una página completa, aún pensábamos en páginas totales y no en los elementos que la componen. Ahora en la distancia viendo todo este trabajo gráfico que realizamos consideramos que podríamos haber probado las prácticas que sugiere Brad Frost en su artículo &quot;Atomic Design&quot;. Pero claro, debido a nuestra inexperiencia y nuestra condición de diseñadores gráficos estábamos deseando generar material visual atractivo y complejo sin pensar en el rendimiento y en el trabajo iterativo incremental.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;UX&lt;/h2&gt;
+
+&lt;p&gt;A nivel de experiencia de usuario y de normas de lenguaje visual y textual llevamos a cabo las siguientes prácticas:&lt;/p&gt;
+
+&lt;p&gt;Fotos de calidad y atractivas. Las consideramos parte importante del contenido de la web. Por medio de las entrevistas el usuario nos reveló que para él era muy importante el contenido del espectáculo. Debíamos mostrarle imágenes que connotasen calidad y que le incitasen a probar la experiencia que proponía el creador del evento. Pero en esta release aún teníamos en mente que fuese el usuario el que subiese estás imágenes, por lo cual decidimos dejar algunas de menor calidad para ir testeando.&lt;/p&gt;
+
+&lt;p&gt;Generamos un código en imágenes fotográficas. Las imágenes relacionadas con usuarios serían círculos, mientras que las relacionadas con los eventos serían rectangulares. Pretendíamos reducir la curva de aprendizaje de la web lo máximo posible.&lt;/p&gt;
+
+&lt;p&gt;Copys: frescos, cercanos y un poco por encima de lo establecido como formal. Definimos nuestro target como gente sin vergüenza a mostrar lo que hace y sin prejuicios por lo desconocido. Por eso nosotros nos mostramos sinceros y enseñamos nuestras debilidades con un guiño un tanto canalla.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
+    &lt;img src=&quot;/memoria/img/mokup-r3.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Arquitectura de la información&lt;/h2&gt;
+
+&lt;p&gt;En cuanto a arquitectura de la información planteamos los siguiente niveles con ésta jerarquía:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Vamos a un evento: Consideramos que el porcentaje de usuarios que van a 	eventos es superior al de los creadores. Por ello dimos más importancia a 		ésta acción. El usuario nada más llegar a la página tendría la posibilidad 		de, mediante este call to action, elegir uno de los eventos que proponemos.		&lt;/li&gt;
+    &lt;li&gt;A la vez teníamos que comunicar qué es Rooof. Por ello usamos un copy 		bien visible nada más entrar en la landing donde te explicaba de qué trataba 	la plataforma. A su vez, en el header había un ancla que te llevaba a una 		explicación más amplia.&lt;/li&gt;
+    &lt;li&gt;Publicar un evento: con este botón bien visible en el header el usuario 	que crea evento tiene la posibilidad de crear su acción, pero primero le 		conducíamos a una página dónde intentamos convencerle de las bondades que 		conlleva crear un evento con nuestra plataforma.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;También, mostramos testimonios de otras personas que ya han creado eventos con Rooof y relatan de forma positiva su experiencia. Esta página sufriría cambios de copas en en futuro a causa de la investigación y los datos obtenidos a través de las entrevistas.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Solución tecnológica&lt;/h2&gt;
+
+&lt;p&gt;El primer prototipo fue diseñado en illustrator y maquetado con HTML, CSS y un poco de Java Script en elementos como el header.&lt;/p&gt;
+
+&lt;p&gt;A la hora de crear el evento recurrimos a un typeform ya que consideramos que no era oportuno invertir tiempo en la creación de un formulario propio. Nos interesaba que lo que nos plateamos en las historias de usuario funcionase con el mínimo esfuerzo posible ya que sabíamos que todo podía cambiar.&lt;/p&gt;
 </description>
         <pubDate>Thu, 16 Apr 2015 00:00:00 +0200</pubDate>
         <link>http://rooof-project.github.io/memoria/2015/04/16/Release-1/</link>
@@ -240,40 +315,186 @@ Id a prose.io. Os saldrá que teneis que autorizar a github. Le decís que si. U
     
       <item>
         <title>Release 2</title>
-        <description>&lt;p&gt;Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman&#39;s earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/p&gt;
+        <description>&lt;p&gt;Una vez concluída la primera release lo primero que hicimos fue testearla con usuarios. Esta vez teníamos un prototipo funcional y podríamos descubrir y aprender más cosas acerca de como mejorar la web.&lt;/p&gt;
 
-&lt;p&gt;Science cuts two ways, of course; its products can be used for both good and evil. But there&#39;s no turning back from science. The early warnings about technological dangers also come from science.&lt;/p&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;Test UX&lt;/h2&gt;
 
-&lt;p&gt;What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.&lt;/p&gt;
+&lt;p&gt;Antes de probarla con usuarios estábamos tan inmersos en el proyecto que pensábamos que nuestra página era sencilla, perfecta y muy clara para cualquier persona. Pero decidimos seguir los consejos de Steve Blank y hacer un “get out the building”. Pues sí, estábamos confundidos: muchos usuarios que veían por primera vez la página no eran capaces de describir que ofrecíamos, en concreto tardaban en discernir que los eventos tenían lugar en casas particulares. Además de esta conclusión, que fue la más dura de aceptar para el equipo, también observamos:&lt;/p&gt;
 
-&lt;p&gt;A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That&#39;s how I felt seeing the Earth for the first time. I could not help but love and cherish her.&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Los usuarios reservan un evento sin ningún problema.&lt;/li&gt;
+    &lt;li&gt; Eran capaces de llegar al formulario de crear evento sin muchos 		problemas.&lt;/li&gt;
+    &lt;li&gt;Algún usuario más “early adopter” nos sugirió el uso de algún tipo de categorización de eventos para poder elegir más fácilmente.&lt;/li&gt;
+    &lt;li&gt;Apreciamos que no distinguían muy bien cuando estaban en la landing y cuando en la página de “crea tu evento”.&lt;/li&gt;
+       &lt;li&gt;Pese a hacer la reserva o creación del evento con facilidad, no eran conscientes de datos importantes como: cuando se paga, cómo saber la dirección, como funciona el proceso.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.&lt;/p&gt;
+&lt;p&gt;La segunda release se presentaba con bastantes aspectos a mejorar y además añadimos las siguientes historias de usuarios.&lt;/p&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;The Final Frontier&lt;/h2&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;Historias de usuarios&lt;/h2&gt;
 
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
-
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
-
-&lt;blockquote&gt;The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.&lt;/blockquote&gt;
-
-&lt;p&gt;Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.&lt;/p&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;Reaching for the Stars&lt;/h2&gt;
-
-&lt;p&gt;As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Compartir en redes sociales.&lt;/li&gt;
+    &lt;li&gt;Ver categorías de eventos.&lt;/li&gt;
+    &lt;li&gt;Registro/login.&lt;/li&gt;
+    &lt;li&gt;Ver perfil de usuario.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/memoria/img/post-sample-image.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
-&lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;To go places and do things that have never been done before – that’s what living is all about.&lt;/span&gt;&lt;/p&gt;
+    &lt;img src=&quot;/memoria/img/Feature-mapr2.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.&lt;/p&gt;
+&lt;p&gt;Las nuevas historias de usuarios influían en las antiguas de la primera release. Intuímos que a medida que avanzásemos el proyecto se volvería más complejo y con más detalles a tener en cuenta. Si queríamos ser productivos debíamos organizarnos con alguna herramienta: probamos con basecamp, lo desechamos y empezamos a usar trello.&lt;/p&gt;
 
-&lt;p&gt;As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.&lt;/p&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;Workflow&lt;/h2&gt;
 
-&lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://www.flickr.com/photos/nasacommons/&quot;&gt;NASA on The Commons&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;De nuevo necesitábamos un camino a seguir. El rediseño de la página, añadir las nuevas historias de usuarios y corregir las que ya teníamos suponía una gran tarea. Necesitábamos un esqueleto que nos mostrase qué podía hacer el usuario en cada lugar en el que se encontraba. Necesitábamos un mapa para no perdernos en el diseño, un mapa que se hizo mucho más complejo de lo que pensábamos al añadir la funcionalidad de registro/login de usuario.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
+    &lt;img src=&quot;/memoria/img/workflow-r2.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Wireframes y propuestas de diseño&lt;/h2&gt;
+
+&lt;p&gt;Empujados por el “jarro de agua fría” que supuso el que los usuarios no supiesen de que trataba nuestra web decidimos realizar diferentes bocetos de landing en busca de alguna que no proporcionase más claridad en el mensaje.
+&lt;/p&gt;
+
+&lt;p&gt;Probamos con ilustraciones en vez de fotografía. Pero los dibujos nos alejaban del universo humano, cálido y real que transmitían las imágenes fotográficas.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://marvelapp.com/2bhfid#2451222&quot;&gt;
+    &lt;img src=&quot;/memoria/img/propuesta-r2.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ya en el wireframe se percibe nuestra intención de que quede muy claro “que es Rooof”. Incluso sustituimos el principal call to action de la landing que había anteriormente (el que te mostraba la lista de eventos).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://marvelapp.com/12afhcg#2408996&quot;&gt;
+    &lt;img src=&quot;/memoria/img/01_home-r2.png&quot; alt=&quot;Post Sample Image&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;También empezamos a probar con otros “copys”. Antes era “Rooof es una nueva forma de disfrutar de la cultura en casa” y ahora es “quedadas culturales en casas de Barcelona”.&lt;/p&gt;
+
+&lt;p&gt;Preocupados por hacer saber que era Rooof diseñamos una nueva página en la que el usuario podía informarse a través de un slide que pretendíamos con la plataforma y que le ofrecíamos en ella.&lt;/p&gt;
+
+&lt;p&gt;En esta página también mostramos otras funcionalidad que siempre deberían estar presentes: lista de eventos y como asistir a un evento.&lt;/p&gt;
+
+&lt;p&gt;El porqué de este wireframe era: testear lo que sería la nueva distribución de la página, ver si ya comunicábamos “que es Rooof”, ver si el registro de usuario iba por buen camino.&lt;/p&gt;
+
+&lt;p&gt;Pero además sacamos estas conclusiones:&lt;/p&gt;
+
+&lt;p&gt;- Tenemos que añadir “botón qué es rooof” en el header, para que en todo momento se pueda acceder a esta información&lt;/p&gt;
+
+&lt;p&gt;- Ok a la nueva estructura de la landing: &lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Foto con copy y call to action.&lt;/li&gt;
+    &lt;li&gt;Sugerencia de eventos.&lt;/li&gt;
+    &lt;li&gt;Como asistir.&lt;/li&gt;
+    &lt;li&gt;Crear eventos.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;- Cambios al orden de información de la sección “que es”:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Slide informativo.&lt;/li&gt;
+    &lt;li&gt;Sugerencia de eventos: cambiarlo por texto “que es”&lt;/li&gt;
+    &lt;li&gt;Como asistir.&lt;/li&gt;
+    &lt;li&gt;Crear eventos.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Propuesta Gráfica&lt;/h2&gt;
+
+&lt;p&gt;En esta release cambiamos por completo el grafismo de la página por motivos anteriormente comentados. A partir del wireframe desarrollamos un nuevo layout, más simple con menos artificios y más claro. Estos fueron cambios más significativos que realizamos:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Color: simplificamos color, ahora solo usamos grises, blanco y rosa.&lt;/li&gt;
+    &lt;li&gt;Botones: simplificamos, todos los botones a partir de ahora son con fondo rosa. Así conseguimos que el usuario sepa com más facilidad que elementos llevan a una acción.&lt;/li&gt;
+    &lt;li&gt;Simplificamos logotipo&lt;/li&gt;
+    &lt;li&gt;La lista de sugerencias de eventos en la landing ahora tiene menos datos. Si el usuario se siente atraído por un evento al pulsarlo obtiene más información. Para saber que son son elementos clicables en la versión desktop, irán con un roll over.&lt;/li&gt;
+    &lt;li&gt;Mantenemos la tipografía pero la usamos de forma diferente para los títulos y los subtítulos.&lt;/li&gt;
+    &lt;li&gt;Añadimos antes del footer una sección que incitase a crear un evento.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://marvelapp.com/ajcb49#2451921&quot;&gt;
+    &lt;img src=&quot;/memoria/img/rooof-v5-01.png&quot; alt=&quot;Post Sample Image&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;UX&lt;/h2&gt;
+
+&lt;p&gt;Uno de los problemas a nivel Ux al que nos enfrentábamos era que las diferentes secciones de la plataforma se diferenciasen entre sí. Hicimos bastante hincapié en la sección “crea tu evento” antes llamada “publica tu evento”.&lt;/p&gt;
+
+&lt;p&gt;Cambiamos los copys, les bajamos el tono informal. Los usuarios que crean eventos ceden su casa a desconocidos por lo que no nos hacía ningún favor ser tan informales. Teníamos que mostrarles que es lo que podían hacer con la plataforma y animarles a ello mediante conceptos positivos: conectar con gente nueva, compartir tu pasión por la cultura y atraer a público.&lt;/p&gt;
+
+&lt;p&gt;Antes:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
+    &lt;img src=&quot;/memoria/img/Antes-r2.png&quot; alt=&quot;Post Sample Image&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Después:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
+    &lt;img src=&quot;/memoria/img/Despues-r2.png&quot; alt=&quot;Post Sample Image&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Además, creamos un formulario propio para crear un evento. Estamos de acuerdo con que el typeform ya cumplía con su función y también estamos de acuerdo con que no era muy lógico dedicar tanto tiempo a estas alturas del proyecto a realizar el formulario. Además, nuestros conocimientos de programación backend hacían imposible tener totalmente operativa esta funcionalidad. Resumiendo iba contra los principios agile y seguro que íbamos a malgastar mucho tiempo haciéndolo. Pero, por otra parte, consideramos que estamos en un contexto académico y queríamos aprender, queríamos enfrentarnos al diseño de un formulario distinto y con una gráfica propia, no la que nos daba el typeform.
+&lt;/p&gt;
+
+&lt;p&gt;El resultado fue este:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
+    &lt;img src=&quot;/memoria/img/Resultado-r2.png&quot; alt=&quot;Post Sample Image&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt; En esta release añadimos una categorización por etiquetas, de momento sin interacción, tan sólo las nombrábamos y las destacamos por registro de color. Este cambio respondía a las necesidades de algunos usuarios a los que les hicimos el text de ux.&lt;/p&gt;
+
+&lt;p&gt;También habíamos previsto diferentes soluciones gráficas en caso de que el evento tuviese el aforo completo. En este caso consideramos oportuno ofrecerle al usuario la posibilidad de apuntarse a una lista en la que, si hubiese alguna vacante, podría acceder al evento.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
+    &lt;img src=&quot;/memoria/img/Fichasev-r2.png&quot; alt=&quot;Post Sample Image&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;En general las fichas de los eventos cambiaron bastante, añadimos más espacio, destacamos el contenido de las mismas y a la vez las hicimos más simples y con más espacio. Y siempre con acceso a información acerca del creador y del precio.&lt;/p&gt;
+
+&lt;p&gt;Durante los test con el primer prototipo observamos que el usuario tenía problemas para saber si había conseguido reservar evento, o como se pagaba éste. Por ello, en la página donde está la ficha del evento, junto al botón de “reservar entrada” añadimos una información que solucionaba este problema:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
+    &lt;img src=&quot;/memoria/img/durante-r2.png&quot; alt=&quot;Post Sample Image&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Respecto a esta acción de reservar entrada siempre nos han hecho una pregunta:&lt;/p&gt;
+
+&lt;p&gt;¿Porque +2 voy con un amigo y no +20 ?. Para responder a esta pregunta tenemos que hacerlo desde dos puntos de vista:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Por el usuario creador: A través de las entrevistas con los usuarios entendemos que el creador del evento realiza un esfuerzo para preparar su espectáculo. Dedica tiempo a ensayar y deja de hacer otras cosas para que el día señalado su público vaya a su casa. Además, su casa no es un escenario donde haya un gran aforo. Por ello, si algún usuario pudiese reservar 20 plazas y , por cualquier motivo, no pudiese ir, el creador del evento se vería frustrado en su casa y sin público.&lt;/li&gt;
+    &lt;li&gt;2 Por la plataforma: Si el usuario que va a disfrutar del evento quiere ir con más amigos es necesario que estos se registren, tener más usuarios registrados es positivo para la plataforma.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ya por último, también diseñamos un mail de confirmación para generar en el usuario sensación de seguridad en el acto de reservar. Por ello incluimos una simpática imagen de un ticket a modo “tienes tu entrada en el mail” .&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
+    &lt;img src=&quot;/memoria/img/enhora-r2.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Arquitectura de la información&lt;/h2&gt;
+
+&lt;p&gt;Header: como elemento que permanece en todas las páginas, el header consta de los siguientes elementos:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Logotipo: que siempre te dirige a la home.&lt;/li&gt;
+    &lt;li&gt;¿Qué es rooof?: te conduce a la página que explica la plataforma. En esta página también comunicamos cómo asistir a un evento y la posibilidad de hacerte creador de en evento.&lt;/li&gt;
+    &lt;li&gt;Busca un evento: te lleva a la lista de eventos y te sugiere hacerte creador. Al pulsar en algún evento mostramos al usuario información detallada y necesaria acerca del contenido del evento, de los datos necesarios para acudir a él (fecha hora etc…)  y además añadimos información acerca del creador del evento.
+&lt;/li&gt;
+    &lt;li&gt;-Crea tu evento: muestra las bondades de crear un evento en rooof y testimonios de personas que para generar confianza.&lt;/li&gt;
+    &lt;li&gt;Inicia sesión/ Registro: para acceder a tu cuenta.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
+    &lt;img src=&quot;/memoria/img/Arqui-r2.png&quot; alt=&quot;Post Sample Image&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;La jerarquía de este header cambiará en las siguientes releases. En esta estábamos tan ofuscados por que algunos usuarios no llegaban  a entender que ofrecíamos que priorizamos en muchos sentidos esta información cuando en realidad, teníamos que facilitar el acceso a los eventos. En esta release aprendimos a tener en cuenta la opinión de los usuarios y no obsesionarnos con su opinión sino usarla como es debido, con mesura.&lt;/p&gt;
 </description>
         <pubDate>Wed, 15 Apr 2015 00:00:00 +0200</pubDate>
         <link>http://rooof-project.github.io/memoria/2015/04/15/Release-2/</link>
@@ -283,7 +504,7 @@ Id a prose.io. Os saldrá que teneis que autorizar a github. Le decís que si. U
       </item>
     
       <item>
-        <title>Release 3</title>
+        <title>Tercera Release</title>
         <description>&lt;p&gt;Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman&#39;s earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/p&gt;
 
 &lt;p&gt;Science cuts two ways, of course; its products can be used for both good and evil. But there&#39;s no turning back from science. The early warnings about technological dangers also come from science.&lt;/p&gt;
@@ -327,41 +548,108 @@ Id a prose.io. Os saldrá que teneis que autorizar a github. Le decís que si. U
       </item>
     
       <item>
-        <title>Release 4</title>
-        <description>&lt;p&gt;Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman&#39;s earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/p&gt;
+        <title>Cuarta Release</title>
+        <description>&lt;h2 class=&quot;section-heading&quot;&gt;Objetivos de la release&lt;/h2&gt;
+&lt;p&gt;Para la última release teníamos que corregir algunos errores de experiencia de usuario que arrastrábamos de otras realises anteriores.&lt;/p&gt;
+&lt;p&gt;También nos planteamos incorporar los perfiles de usuario como sistema para generar confianza entre usuarios y también como primer paso para permitir el intercambio de gustos culturales.&lt;/p&gt;
+&lt;p&gt;Además continuamos con la idea de que los dispositivos móviles tienen un gran peso en nuestra plataforma, por lo que debíamos optimizar la reserva de los eventos en desde ellos.&lt;/p&gt;
 
-&lt;p&gt;Science cuts two ways, of course; its products can be used for both good and evil. But there&#39;s no turning back from science. The early warnings about technological dangers also come from science.&lt;/p&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;Historias de usuario&lt;/h2&gt;
 
-&lt;p&gt;What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.&lt;/p&gt;
+&lt;p&gt;Incluímos las siguientes historias de usuario a realizar:
+&lt;ul&gt;
+&lt;li&gt; Crear alertas fin de tarea&lt;/li&gt;
+&lt;li&gt; Ver mapa con ubicación del evento&lt;/li&gt;
+&lt;li&gt; Reservar / crear evento en móvil&lt;/li&gt;
+&lt;li&gt; Crear / editar perfil personal&lt;/li&gt;
+&lt;li&gt; Estrategia de contenidos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
 
-&lt;p&gt;A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That&#39;s how I felt seeing the Earth for the first time. I could not help but love and cherish her.&lt;/p&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;Mejoras en experiencia de uso&lt;/h2&gt;
 
-&lt;p&gt;For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.&lt;/p&gt;
+&lt;p&gt;Tras varias entrevistas y pruebas de usuario nos percatamos de que aún teníamos pendiente corregir algunos aspectos que no habían quedado del todo resueltos:
+&lt;ul&gt;
+&lt;li&gt;El usuario no percibia bien que había reservado o creado un evento.&lt;/li&gt;
+&lt;li&gt;Los usuarios consideraban importante ver la localización del evento en un mapa.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;The Final Frontier&lt;/h2&gt;
+&lt;h3&gt;Sistema de alertas&lt;/h3&gt;
+&lt;p&gt;Para resolver el primer problema nos planteamos la creación de un sistema de alertas o avisos. Habíamos probado anteriormente con un pequeño texto debajo del botón de reserva, pero pasada demasiado desapercibido. Pensamos en incluir una alerta en forma de banner flotante, clara, directa y en un lugar con visibilidad. Tras alguna prueba y corrección de problemas con el color, incluímos las alertas en la guía de estilo, creando un sistema según el tipo de mensaje: de finalización de tarea, de error o informativas.&lt;/p&gt;
 
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+ &lt;img src=&quot;/memoria/img/alertas.png&quot; alt=&quot;Sistema de alertas&quot; /&gt;
 
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+ &lt;img src=&quot;/memoria/img/aviso.jpg&quot; alt=&quot;Aviso finalización de reserva&quot; /&gt;
 
-&lt;blockquote&gt;The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.&lt;/blockquote&gt;
+&lt;h3&gt;Ubicación del evento&lt;/h3&gt;
+&lt;p&gt;Los usuarios consideraban importante saber una localización exacta o aproximada de donde tendría lugar el acto, según ellos, esto les podría condicionar a la hora de elegir uno u otro evento.&lt;/p&gt;
 
-&lt;p&gt;Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.&lt;/p&gt;
+&lt;p&gt;Claro que, como siempre teníamos que tener en cuenta al otro usuario, el creador del evento. En las entrevistas realizadas éste se sentía un poco receloso acerca de que todos supiesen donde vivía por lo que decidimos enseñar un mapa con una dirección aproximada. Una vez confirmada la reserva se facilitaría la dirección exacta vía email.
+&lt;/p&gt;
+&lt;img src=&quot;/memoria/img/mapa.jpg&quot; alt=&quot;Mapa&quot; /&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Incluímos el mapa tras el contenido del evento. Es una información importante pero complementaria.&lt;/span&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;Reaching for the Stars&lt;/h2&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;Perfiles de usuario&lt;/h2&gt;
 
-&lt;p&gt;As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.&lt;/p&gt;
+&lt;blockquote&gt;“Como usuario quiero poder crear mi perfil con mis datos personales, gustos e intereses para darme a conocer a otros usuarios y compartir mis intereses con ellos. Quiero poder añadir más información si es necesario”&lt;/blockquote&gt;
 
-&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/memoria/img/post-sample-image.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
-&lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;To go places and do things that have never been done before – that’s what living is all about.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Desde el principio sabíamos que los perfiles de usuario eran una parte importante de la plataforma. Los usuarios, tanto creadores como asistentes, consideran importante esta funcionalidad. Si son creadores a través de su perfil pueden atraer a más público, si son asistentes pueden presumir de a qué eventos fueron y con quien (en un futuro). Además es una historia importante a la hora de &lt;strong&gt;crear confianza y seguridad entre usuarios&lt;/strong&gt;, que es una de las debilidades de nuestra plataforma.&lt;/p&gt;
 
-&lt;p&gt;Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.&lt;/p&gt;
+&lt;p&gt;En Rooof pretendemos crear una comunidad, el trato entre personas es muy relevante ya que comparten experiencias juntos, un usuario no es nada sin el otro. Uno quiere mostrar su talento mientras el otro quiere pasar un buen rato y conocer gente nueva. Por ello, tanto para el creador del evento como para el asistente es importante poder tener un perfil en el que mostrar que es lo que hace o cuales son sus preferencias. O incluso a que eventos han ido.&lt;/p&gt;
 
-&lt;p&gt;As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.&lt;/p&gt;
+&lt;p&gt;Hasta ahora habíamos propuesto la creación de una cuenta para poder hacer la reserva o la creación de un evento. Pero nos habíamos quedado ahí. Los usuarios no podían mostrar sus datos personales, sus intereses y gustos... y era hora de cambiar eso, y aportar un poco más de valor. Si que habíamos hecho unos perfiles de usuario, pero no habíamos planteado la manera en la que el usuario crearía su perfil.&lt;/p&gt;
 
-&lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://www.flickr.com/photos/nasacommons/&quot;&gt;NASA on The Commons&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Desarrollando los perfiles&lt;/h3&gt;
+
+&lt;p&gt;Nos planteamos un perfil básico, solo con la información más importante: nombre, foto, descripción e intereses. También daríamos importancia a la actividad: a qué eventos ha asisitido el usuario y cuales ha creado.&lt;/p&gt;
+
+&lt;p&gt;Para empezar, consideramos esta información como prioritaria. Más adelante y después de hacer pruebas y ver como funcionan los usuarios podremos incluir otras funcionalidades como seguir a otros usuarios o ver tus tickets comprados.&lt;/p&gt;
+
+&lt;p&gt;Planteamos el diseño de varios estados y plantillas: debíamos tener un perfil vacio y otro completo, y debíamos dar la posibilidad de edición. A través de un workflow, diseñamos el viaje que el usuario ha de hacer para la creación su perfil.&lt;/p&gt;
+
+&lt;img src=&quot;/memoria/img/05-workflow-perfiles.png&quot; alt=&quot;workflow, perfil de usuario&quot; /&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Workflow, creación de perfil de usuario
+.&lt;/span&gt;
+
+&lt;p&gt;También era importante que la edición del perfil fuera sencilla, por lo que pusimos especial cuidado en el formulario y priorizamos el requisito de que fuese accesible y fácil desde todos los dispositivos. Hicimos pruebas con &lt;a href=&quot;http://marvl.in/78d526&quot; target=&quot;_blank&quot;&gt;protopipos en baja fidelidad&lt;/a&gt; y después de varios diseños encontramos una solución a lo que buscábamos.&lt;/p&gt;
+
+&lt;img src=&quot;/memoria/img/perfil-tutu.jpg&quot; alt=&quot;Perfil&quot; /&gt;
+
+&lt;img src=&quot;/memoria/img/perfil-editar.jpg&quot; alt=&quot;Editar perfil&quot; /&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Edición del perfil desde el móvil.&lt;/span&gt;
+
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Reservar y crear un evento desde el móvil&lt;/h2&gt;
+
+&lt;p&gt;Al hacer la versión responsive en la tercera release, ya teníamos parte del trabajo hecho, pero debíamos optimizarlo para móvil. Había cosas que no encajaban del todo, y otras que estaban muy lejos de funcionar.&lt;/p&gt;
+
+&lt;p&gt;Para nososotros era muy importante que independientemente de dónde se encontrase el usuario, pudiera hacer una reserva fácilmente y además con una buena experiencia de uso. Además, optimizar la plataforma para móvil nos abria un montón de posibilidades de proyección: los usuarios podrían compartir por redes sociales o acceder a la plataforma desde el mail (aplicaciones cada vez mas usadas desde el móvil).&lt;/p&gt;
+
+&lt;p&gt;Para los usuarios la tarea más importante a realizar en la plataforma a través del móvil es “reservar un evento”. La tarea de creación de un evento, para el usuario, es una experiencia menos mobile. Es dedicar un tiempo en un lugar tranquilo desde su ordenador para poder subir fotos correctamente desde la tranquilidad de su hogar.&lt;/p&gt;
+
+&lt;p&gt;Nos planteamos eliminar esta funcionalidad de la versión móvil pero también pensamos que si el usuario sabía que se podía hacer en desktop, debíamos ser fieles a la versión y dar también en móvil esta funcionalidad para no crear posibles decepciones. Eso sí, a nivel de jerarquía de la información lo situamos al final del menú y al final del scroll en cada página.&lt;/p&gt;
+
+&lt;h3&gt;Optimización para móvil&lt;/h3&gt;
+
+&lt;p&gt;Algunas cosas que corregimos o planteamos de nuevo teniendo como prioridad el uso en todos los dispositivos:
+&lt;ul&gt;
+&lt;li&gt; Reorganización del contenido de la ficha del evento usando JavaScript: la posición natural de los elementos hacía que información importante y botón de reserva quedarán muy abajo.&lt;/li&gt;
+&lt;li&gt; Optimización de tamaños tipográficos, y tamaños en la grilla de los eventos.&lt;/li&gt;
+&lt;li&gt; Planteamiento de un nuevo formulario de creación, que fuese accesible en móvil. El que teníamos hasta ahora no lo era.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+
+&lt;img src=&quot;/memoria/img/reserva-crear-movil.jpg&quot; alt=&quot;reserva de un evento, móvil.&quot; /&gt;
+
+
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Solución tecnológica&lt;/h2&gt;
+
+&lt;p&gt;Aparte del Sass, que ya lo venimos usando desde la tercera release, para esta cuarta release, hemos incorporado &lt;a href=&quot;http://jekyllrb.com/&quot; target=&quot;_blank&quot;&gt;Jekyll&lt;/a&gt; y &lt;a href=&quot;http://gulpjs.com/&quot; target=&quot;_blank&quot;&gt;Gulp&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Jekyll nos ha permitido agilizar el desarrollo de plantillas con la incorporación de módulos html reusables. Y pese a que le podíamos haber sacado mucho más probecho nos ha ayudado a agilizar el desarrollo del prototipo, además de acercarnos más a una plataforma con contenido dinámico.&lt;/p&gt;
+&lt;p&gt;Hemos incorporado también un task runner. Primero probamos con grunt, pero se nos hacía demasiado lento. Finalmente configuramos gulp. También nos ha permitido trabajar con más rapidez e incorporar automáticamente tareas como la escritura automática de los prefijos para los navegadores en css, o la optimización de imágenes.&lt;/p&gt;
+&lt;/p&gt;
 </description>
         <pubDate>Mon, 13 Apr 2015 00:00:00 +0200</pubDate>
         <link>http://rooof-project.github.io/memoria/2015/04/13/Release-4/</link>
@@ -372,46 +660,116 @@ Id a prose.io. Os saldrá que teneis que autorizar a github. Le decís que si. U
     
       <item>
         <title>La identidad de ROOOF</title>
-        <description>&lt;h2 class=&quot;section-heading&quot;&gt;Proceso de creación&lt;/h2&gt;
+        <description>&lt;h2 class=&quot;section-heading&quot;&gt;El proceso de creación&lt;/h2&gt;
 
 &lt;p&gt;La identidad de la plataforma también la hemos planteado de manera incremental.
 Al trabajar por releases, y tener un tiempo limitado para abarcar todos los aspectos del proyecto (investigación con usuarios, modelo de negocio, arquitectura, soluciones tecnológicas...) nos dimos cuenta que no podíamos invertir desde el principio todo el tiempo que requiere crear una identidad sólida ya que lo primero era crear la plataforma, hacer un prototipo funcional y probarlo para saber qué caminos escoger. Por lo que en un primer momento decidimos hacer lo básico, una identidad mínima, que iría evolucionando a medida que avanzábamos con el proyecto.
 
 &lt;p&gt;En medio de entrevistas con usuarios, design thinking, y análisis de diferentes plataformas empezamos a sentar las bases de los elementos de la identidad: Tipografía, color, fotografía, Naming, logotipo y comunicación. &lt;/p&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;El target&lt;/h2&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;Teniendo en cuenta el target&lt;/h2&gt;
 
 &lt;p&gt;A medida que íbamos avanzando con el proyecto fuimos conociendo mejor al tipo de usuario que usaría la plataforma. Vimos que la mayor parte de nuestros usuarios son gente joven (20-45), personas abiertas, con ganas de conocer gente nueva y compartir sus aficiones y creaciones en eventos desenfadados. Por tanto la identidad planteada tenía que ser informal, divertida, juvenil y cercana.
 
 &lt;h2 class=&quot;section-heading&quot;&gt;Elementos de la identidad&lt;/h2&gt;
-&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/memoria/img/post-sample-image.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
-&lt;/a&gt;
+
+
+&lt;img src=&quot;/memoria/img/layout-1.jpg&quot; alt=&quot;Pagina de Rooof&quot; /&gt;
+
+&lt;span class=&quot;caption text-muted&quot;&gt;Rooof es un amigo que te recomienda nuevas formas de disfrutar de tu tiempo libre. Así es como fuimos definiendo el proyecto y la identidad debía reflejarlo.
+Con la combinación de tipografía, fotografía y color fuimos dando forma a la web.&lt;/span&gt;
+
 &lt;h3&gt;Tipografía&lt;/h3&gt;
 
 &lt;p&gt;Rooof usa la combinación de tres familias tipográficas, con la intención de crear un ritmo visual mediante el contraste.&lt;/p&gt;
 
-&lt;p&gt;Aparte de los requerimientos de identidad que la propia plataforma nos iba exigiendo, hemos tenido en cuenta aspectos técnicos y económicos para la elección tipográfica:
-- Web fonts: Usamos fuentes de google fonts,  por ser de fácil integración en el desarrollo de la plataforma.
-- Gratuítas: El dinero es un factor importante. Por lo que optamos por el momento en no gastar dinero en tipografía. Google fonts nos ofrecía un catálogo numeroso de tipografías completamente gratuítas.
-- Diferentes pesos tipográficos: Escogimos tipografías con varios pesos,  para que nos diese juego a la hora de crear la identidad.&lt;/p&gt;
+&lt;p&gt;Aparte de los requerimientos de identidad que la propia plataforma nos iba exigiendo, hemos tenido en cuenta aspectos técnicos y económicos para la elección tipográfica:&lt;/p&gt;
+&lt;p&gt;
+&lt;ul&gt;
+&lt;li&gt; Web fonts: Usamos fuentes de google fonts,  por ser de fácil integración en el desarrollo de la plataforma.&lt;/li&gt;
+&lt;li&gt; Gratuítas: El dinero es un factor importante. Por lo que optamos por el momento en no gastar dinero en tipografía. Google fonts nos ofrecía un catálogo numeroso de tipografías completamente gratuítas.&lt;/li&gt;
+&lt;li&gt; Diferentes pesos tipográficos: Escogimos tipografías con varios pesos,  para que nos diese juego a la hora de crear la identidad.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
 
-&lt;h3&gt;Código tipográfico&lt;/h3&gt;
+&lt;h3&gt;Familias tipográficas&lt;/h3&gt;
+
+&lt;img src=&quot;/memoria/img/tipografia.png&quot; alt=&quot;Familias tipográficas&quot; /&gt;
+
+&lt;span class=&quot;caption text-muted&quot;&gt;La tipografía es el elemento principal de la plataforma. Para crear una identidad hemos combinado tres familias tipográficas: Dosis, PT Serif y PT Sans.&lt;/span&gt;
+
 
 &lt;p&gt;&lt;strong&gt;Familia Dosis:&lt;/strong&gt; Aunque es la tipografía con más carácter y la que más personalidad aporta no es de fácil lectura por lo que fuimos delimitando su uso para titulares principales y secundarios, equilibrando identidad y legibilidad.
 Nos aporta los valores de desfenfado, diversión y juventud  que fuimos detectando en el target.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Familia PT serif:&lt;/strong&gt;más humanística, nos aporta los valores culturales.  Además como es de fácil lectura la usamos para cuerpos de texto y todo párrafo relaccionado con el contenido que los usuarios irán generando.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Familia PT serif:&lt;/strong&gt; más humanística, nos aporta los valores culturales.  Además como es de fácil lectura la usamos para cuerpos de texto y todo párrafo relaccionado con el contenido que los usuarios irán generando.&lt;/p&gt;
 
-&lt;p&gt;**Familia PT Sans:** Es una tipografía sin serifa, mucho más técnica y de fácil lectura. La usamos de apoyo con la tipografía principal Dosis, con la intención de crear contraste y ritmo.
+&lt;p&gt;&lt;strong&gt;Familia PT Sans:&lt;/strong&gt; Es una tipografía sin serifa, mucho más técnica y de fácil lectura. La usamos de apoyo con la tipografía principal Dosis, con la intención de crear contraste y ritmo.
 También la usamos para la comunicación de la plataforma con los usuarios: Formularios, alertas, mensajes de ayuda,  o datos puramente informativos como fechas, aforo, precios...&lt;/p&gt;
 
-&lt;blockquote&gt;Hubo un momento que teníamos demasiados pesos tipográficos, que fuimos depurando hasta usar solo tres para la Dosis, y uno para cada una de las PT, mas us versión bold.  Con esto conseguimos unidad en los estilos y eliminar peso inecesario en la web de ROOOF.&lt;/blockquote&gt;
+&lt;blockquote&gt;Hubo un momento que teníamos demasiados pesos tipográficos, que fuimos depurando hasta usar solo tres para la Dosis, y uno para cada una de las PT, mas su versión bold.  Con esto conseguimos unidad en los estilos y eliminar peso inecesario en la web de ROOOF.&lt;/blockquote&gt;
+
+&lt;h3&gt;Color&lt;/h3&gt;
+&lt;p&gt;Como color corporativo usamos el rosa, en combinación con otros colores secundarios: blanco, gris y negro.&lt;/p&gt;
+
+&lt;img src=&quot;/memoria/img/color.png&quot; alt=&quot;Post Sample Image&quot; /&gt;
+
+&lt;p&gt;En un principio planteamos la identidad con 3 colores principales: amarillo, verde y rosa. Esto nos ofrecía el aire desenfadado e informal que queríamos dar pero nos planteaba otros problemas. No fuimos capaces a establecer un código de color eficaz y siempre nos surgía la duda de que color usar para cada contenido. De esta manera el color no tenía un fin claro y se volvía únicamente decorativo. También con el uso de varios colores nos acercábamos a un aire más infantil que juvenil.&lt;/p&gt;
+&lt;p&gt;Descartamos el uso del amarillo por el claro problema de legibilidad, y escogimos el rosa por ser un color más enérgico y con más fuerza que el verde.
+Con la combinación del rosa y los grises conseguimos separar contenidos e ir guiando al usuario a través de las distintas secciones, estableciendo también que información es más prioritaria. De esta manera, el color no solo tiene un componente de identidad, si no que también tiene peso en la arquitectura de la información.&lt;/p&gt;
+
+&lt;h3&gt;Fotografía&lt;/h3&gt;
+
+&lt;p&gt;Desde el principio tuvimos claro que la fotografía iba a tener mucho peso en la plataforma. Debía ser el recurso principal para que los usuarios se sintieran atraídos por los eventos.
+Aquí se nos planteaba el problema de que algunas de las fotos serían subidas por los usuarios, y eso trae el peligro de no tener un control en el estilo fotográfico. Pero si que podíamos dar una guía visual, algo que los usuarios vieran y pudieran imitar de alguna forma. &lt;/p&gt;
+
+&lt;img src=&quot;/memoria/img/fotografia.png&quot; alt=&quot;Estilo fotográfico&quot; /&gt;
+
+
+&lt;p&gt;De esta manera planteamos un estilo fotográfico fresco y desenfadado, una fotografía amateur pero atrayente, un estilo de foto que recordara a Instagram. &lt;/p&gt;
+
+&lt;p&gt;Usamos este estilo fotográfico para las fotos dinámicas y también para las secciones estáticas de la web. De esta manera fuimos habilitando secciones de la web donde la fotografía iría cobrando mas peso, volviéndose protagonista y ayudando a llamar la atención sobre aquellas acciones de la web que consideramos más importantes: cabeceras con imágenes grandes que te llevan directamente a la búsqueda de eventos o call to actions con imágenes full page que te animan a que crees tu propio evento.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Logotipo y naming&lt;/h2&gt;
+&lt;p&gt;No teníamos nombre y eso era un problema. Habíamos hecho un montón de investigación y entrevistas intentando conocer a los usuarios, pero no le habíamos dedicado tiempo al nombre. &lt;/p&gt;
+&lt;p&gt;Hicimos un sesión de brainstorming justo después de terminar el mapa de insights: los Panda, PandaLong, PlanB, Cobra-Láser...
+Salieron un motón de nombres pero no nos acabó de encajar ninguno, finalmente nos decantamos por ROOF, por estar ligado semánticamente a lo que ofrece la plataforma.&lt;/p&gt;
+&lt;p&gt;Para el logotipo hicimos varias pruebas y al final nos decidimos por un logotipo simple: con la conexión semántica y la tipografía corporativa tendríamos una versión mínima de logo, ya que sobre todo nos centrábamos en el diseño de la plataforma en sí, y no solamente en la imagen corporativa de una marca, por lo que siempre tuvimos pendiente hacer una revisión y mejora del logotipo que nunca llegó.&lt;/p&gt;
+
+&lt;img src=&quot;/memoria/img/logos.png&quot; alt=&quot;opciones de logotipos&quot; /&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt; Distintas opciones planteadas para el logotipo de ROOOF.&lt;/span&gt;
+
+&lt;img src=&quot;/memoria/img/logo-final.png&quot; alt=&quot;logo final de ROOOF&quot; /&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt; Versión actual del logotipo en la plataforma &lt;/span&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Style guide&lt;/h2&gt;
+&lt;p&gt;Con todos los elementos corporativos comenzamos a hacer una guía de estilo. La primera sería un simple PDF. Más adelante, según fueron avanzando las clases nos dimos cuenta que debíamos crear una &lt;a href=&quot;http://rooof-project.github.io/rooof-sass/example.html&quot; target=&quot;_blank&quot;&gt;guía de estilo viva&lt;/a&gt;, usando el mismo css de la web.&lt;/p&gt;
+
+&lt;img src=&quot;/memoria/img/styleguide.jpg&quot; alt=&quot;guía de estilo&quot; /&gt;
+
+&lt;span class=&quot;caption text-muted&quot;&gt; Guía de estilo de la plataforma, siguiendo los principios de Atomic design. &lt;/span&gt;
+
+&lt;p&gt;Intentamos seguir el enfoque de Brad Frost y el &lt;a href=&quot;http://patternlab.io/about.html&quot; target=&quot;_blank&quot;&gt;atomic design&lt;/a&gt;, con un planteamiento de &lt;strong&gt;diseño orientado a objetos&lt;/strong&gt; que nos permitiría tener un control de los elementos de la web y hacerlos reusables, empezando siempre por elementos más simples y globales como estilos tipográficos o colores, hasta llegar a elementos más complejos como formularios, botones o módulos reusables.&lt;/p&gt;
+&lt;p&gt;La guía de estilo nos ha ayudado a documentar los elementos básicos de la web, y a reutilizar nuestro propio código, eliminando duplicidades. Así como a eliminar dudas respecto a estilos, que siempre van surgiendo a lo largo del proceso de diseño.&lt;/p&gt;
+&lt;p&gt;También nos ha ayudado a darnos cuenta de que en realidad estamos diseñando un sistema, y no una serie de páginas estáticas. Cada página de la web comparte elementos con otra y la guía nos ha ayudado a establecer un código visual, y a agilizar el desarrollo.&lt;/p&gt;
+
+&lt;p&gt;Puedes ver la guía &lt;a href=&quot;http://rooof-project.github.io/rooof-sass/example.html&quot; target=&quot;_blank&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Layout Responsive!&lt;/h2&gt;
+&lt;p&gt;Para la construcción de las distintas páginas planteamos el uso de un grid a 12 columnas, por ser un grid muy versátil en cuanto al ancho de los módulos. De esta manera podemos variar y jugar con diferentes espacios.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;El responsive fue todo un reto.&lt;/strong&gt; Cometimos el error de dejar muy de lado la versión móvil hasta bien avanzado el proyecto. En lugar de empezar por móvil empezamos por la versión desktop, y no comenzamos con la parte responsive hasta la tercera release. Por eso hubo secciones de la web que se han rediseñado de nuevo pensando en multidispositivo, como el formulario de crear eventos o los perfiles de usuario. También tuvimos que hacer un refactoring del código para convertirlo en multidispositivo, lo que nos vino muy bien para incorporar nuevas herramientas que fuimos aprendiendo como &lt;strong&gt;sass&lt;/strong&gt; o frameworks como &lt;strong&gt;Foundation&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;img src=&quot;/memoria/img/layout-desktop.jpg&quot; alt=&quot;layout desktop&quot; /&gt;
+&lt;img src=&quot;/memoria/img/layout-mobile.jpg&quot; alt=&quot;layout mobile&quot; /&gt;
 
 
 
+&lt;h2 class=&quot;section-heading&quot;&gt;Y todavía seguimos...&lt;/h2&gt;
 
-&lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://www.flickr.com/photos/nasacommons/&quot;&gt;NASA on The Commons&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Al final hemos conseguido que la web tenga un estilo visual sólido y hemos establecido una manera de implementarlo que vamos mejorando.
+
+Nos hubiera gustado desarrollar más a fondo la guía de estilo, hacerla más útil y completarla con más elementos, así como mejorar algunos aspectos como el uso del color o un diseño más impactante en las páginas interiores.&lt;/p&gt;
 &lt;/p&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 12 Apr 2015 00:00:00 +0200</pubDate>
@@ -423,40 +781,31 @@ También la usamos para la comunicación de la plataforma con los usuarios: Form
     
       <item>
         <title>Modelo de negocio</title>
-        <description>&lt;p&gt;Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman&#39;s earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/p&gt;
+        <description>&lt;h2 class=&quot;section-heading&quot;&gt;El modelo de negocio&lt;/h2&gt;
 
-&lt;p&gt;Science cuts two ways, of course; its products can be used for both good and evil. But there&#39;s no turning back from science. The early warnings about technological dangers also come from science.&lt;/p&gt;
+&lt;p&gt;Sinceramente no hemos desarrollado mucho nuestro modelo de negocio. Hemos estado más pendientes del diseño web, Ux y de satisfacer las necesidades de los usuarios.&lt;/p&gt;
 
-&lt;p&gt;What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.&lt;/p&gt;
+&lt;p&gt;Sin embargo, si tuviésemos que enmarcar a la plataforma dentro de un modelo de negocio entonces Rooof es un &lt;strong&gt;“two-sided market place”&lt;/strong&gt;. Esta tipología trata de modelos de negocio donde, para que uno de los lados (o segmentos de clientes) reciba valor debe existir el otro, es decir, operan sobresegmentos e interdependientes y se benefician mutuamente.&lt;/p&gt;
 
-&lt;p&gt;A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That&#39;s how I felt seeing the Earth for the first time. I could not help but love and cherish her.&lt;/p&gt;
+&lt;p&gt;En nuestro caso las dos partes cuya dependencia es crucial para nuestra plataforma son: El asistente a los eventos y el creador de eventos.&lt;/p&gt;
 
-&lt;p&gt;For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.&lt;/p&gt;
+&lt;p&gt;Este tipo de modelo de negocio nace del hecho que uno de los lados sólo se beneficia si el otro está presente, siendo por tanto el principal objetivo de Rooof facilitar la interacción entre ellos, actuando como intermediaria y potenciando el efecto de red al máximo.&lt;/p&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;The Final Frontier&lt;/h2&gt;
+&lt;p&gt;La premisa clave para que este planteamiento tenga éxito es que debe atraer y crear valor a los dos lados por igual. Si únicamente ofrece valor real a uno de los dos lados, el otro rápidamente decrece y deja de tener valor por si mismo.
+Para ello, habitualmente uno de los lados es subvencionado, es decir, el servicio que recibe tiene un importante descuento (o es gratis) a costa del lado no subvencionado. En nuestro caso hemos determinado que el creador de eventos podrá hacer uso de la plataforma gratis. De ésta manera podrá generar su evento en la web y cobrar por ello en la puerta lo que crea oportuno.&lt;/p&gt;
 
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;Monetización&lt;/h2&gt;
 
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+&lt;p&gt;Como forma de monetización nos hemos planteado varias hipótesis sin llegar a profundizar demasiado.&lt;/p&gt;
 
-&lt;blockquote&gt;The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.&lt;/blockquote&gt;
+&lt;p&gt;Una de ellas sería el cobro de comisión por cada entrada vendida, lo que nos llevaría a desarrollar más profundamente una pasarela de pago integrada en la plataforma, y un sistema de registro de tickets mas sofisticado.&lt;/p&gt;
 
-&lt;p&gt;Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.&lt;/p&gt;
+&lt;p&gt;Otra opción pasa por las cuentas premium, donde los usuarios pagarían una tasa mensual y tendrían acceso VIP a eventos especiales o trato prioritario en la entrada.&lt;/p&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;Reaching for the Stars&lt;/h2&gt;
+&lt;p&gt;La publicidad la hemos tenido en cuenta como generador de beneficios. Los creadores podrían anunciarse y tener más relevancia en la plataforma.&lt;/p&gt;
 
-&lt;p&gt;As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.&lt;/p&gt;
+&lt;p&gt;Todas estas opciones son complementarias entre si, y dependerían del rumbo que tome la plataforma, del número de usuarios, del interés generado y del precio que los usuarios estarían dispuestos a pagar.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/memoria/img/post-sample-image.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
-&lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;To go places and do things that have never been done before – that’s what living is all about.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.&lt;/p&gt;
-
-&lt;p&gt;As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.&lt;/p&gt;
-
-&lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://www.flickr.com/photos/nasacommons/&quot;&gt;NASA on The Commons&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 11 Apr 2015 00:00:00 +0200</pubDate>
         <link>http://rooof-project.github.io/memoria/2015/04/11/Modelo-negocio/</link>

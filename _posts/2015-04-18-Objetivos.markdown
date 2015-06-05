@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "¿Qué es ROOOF?"
-subtitle: We predict too much for the next year and yet far too little for the next ten.
+subtitle: Lo que nos salió después de muchas vueltas al brief.
 "header-img": "img/post-bg-04.jpg"
 published: true
 ---
@@ -14,7 +14,7 @@ published: true
 
 <p>Error, en Rooof queremos que la gente vaya a casa de su vecino y que descubra su talento musical. Y además el vecino prepara unas croquetas buenísimas y tiene un grupo de amigos que son la bomba. ¿Acaso hay algo mejor que unas croquetas cuando estás de resaca? </p>
 
-<p>En ROOOF queremos dar la posibilidad de tener un tiempo de ocio diferente, distinto a lo que está marcado como un "must do".</p> 
+<p>En ROOOF queremos dar la posibilidad de tener un tiempo de ocio diferente, distinto a lo que está marcado como un "must do".</p>
 
 <h2 class="section-heading">¿Qué puedes hacer en ROOOF?</h2>
 <p> ROOOF es una plataforma cultural que sirve como enlace entre artistas locales y su público. A través de la plataforma los usuarios pueden asistir a eventos creados por otros usuarios, o pueden crear los suyos propios, en su propia casa o espacio privado.</p>
@@ -26,7 +26,7 @@ published: true
 
  <img src="{{ site.baseurl }}/img/que-es.jpg" alt="Evento con ROOOF">
 
- 
+
 <p> Ambos disfrutarán de una experiencia diferente y única. Conocerán gente nueva con quien compartir e intercambiar intereses culturales comunes.</p>
 
 <h2 class="section-heading">Objetivos de la plataforma</h2>

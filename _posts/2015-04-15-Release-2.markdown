@@ -1,7 +1,6 @@
 ---
-layout: post
-title: Release 2
-subtitle: because they lacked opposable thumbs and the brainpower to build a space program.
+layout:       post
+subtitle:     Cómo aprendimos de los usuarios mediante test de guerrilla y mejoramos nuestra plataforma.
 "header-img": "img/post-bg-01.jpg"
 published: true
 ---
@@ -50,7 +49,7 @@ published: true
 
 <h2 class="section-heading">Wireframes y propuestas de diseño</h2>
 
-<p>Empujados por el “jarro de agua fría” que supuso el que los usuarios no supiesen de que trataba nuestra web decidimos realizar diferentes bocetos de landing en busca de alguna que no proporcionase más claridad en el mensaje. 
+<p>Empujados por el “jarro de agua fría” que supuso el que los usuarios no supiesen de que trataba nuestra web decidimos realizar diferentes bocetos de landing en busca de alguna que no proporcionase más claridad en el mensaje.
 </p>
 
 <p>Probamos con ilustraciones en vez de fotografía. Pero los dibujos nos alejaban del universo humano, cálido y real que transmitían las imágenes fotográficas.
@@ -179,7 +178,7 @@ published: true
 <ul>
 	<li>Logotipo: que siempre te dirige a la home.</li>
     <li>¿Qué es rooof?: te conduce a la página que explica la plataforma. En esta página también comunicamos cómo asistir a un evento y la posibilidad de hacerte creador de en evento.</li>
-    <li>Busca un evento: te lleva a la lista de eventos y te sugiere hacerte creador. Al pulsar en algún evento mostramos al usuario información detallada y necesaria acerca del contenido del evento, de los datos necesarios para acudir a él (fecha hora etc…)  y además añadimos información acerca del creador del evento. 
+    <li>Busca un evento: te lleva a la lista de eventos y te sugiere hacerte creador. Al pulsar en algún evento mostramos al usuario información detallada y necesaria acerca del contenido del evento, de los datos necesarios para acudir a él (fecha hora etc…)  y además añadimos información acerca del creador del evento.
 </li>
     <li>-Crea tu evento: muestra las bondades de crear un evento en rooof y testimonios de personas que para generar confianza.</li>
     <li>Inicia sesión/ Registro: para acceder a tu cuenta.</li>

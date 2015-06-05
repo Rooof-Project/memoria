@@ -1,11 +1,10 @@
 ---
 layout: post
-title: El proceso
-subtitle: "Many say exploration is part of our destiny, but it’s actually our duty to future generations."
+title: El proceso de trabajo
+subtitle: "Trabajando dentro de un nuevo marco ágil."
 "header-img": "img/post-bg-03.jpg"
 published: true
 ---
-
 
 
 
