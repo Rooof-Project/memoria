@@ -54,8 +54,13 @@ published: true
 
 <h2 class="section-heading">Competidores, fortalezas y debilidades</h2>
 
+<h3>Competencia</h3>
+<img src="{{ site.baseurl }}/img/competidores.jpg" alt="Evento con ROOOF">
+<p></p>
+
+
 <h3>Fortalezas</h3>
-<p><strong>Para los asistentes:</strong> tenemos más variedad que otras webs culturales y por tanto público de todas las características. Sofar solo hace música, eatwith hace comida. La experiencia es más barata y menos masificada que la experiencia clásica de ir a un bar o discoteca. Puedes ir a un evento entre semana o en fin de semana.</p>
+<p><strong>Para los asistentes:</strong> tenemos más variedad que otras webs culturales y por tanto público de todas las características. Sofar solo hace música y tiene muy poca oferta, eatwith hace comida. La experiencia es más barata y menos masificada que la experiencia clásica de ir a un bar o discoteca. Puedes ir a un evento entre semana o en fin de semana.</p>
 <p><strong>Para los creadores:</strong> es una forma fácil de darte a conocer y conseguir público, o de relacionarte con otros artistas.</p>
 
 <h3>Oportunidades</h3>
@@ -70,12 +75,6 @@ published: true
 <li>Falta de público por <strong>desconfianza</strong> a ir a espacios privados.</li>
 </ul>
 
-<h3>Competencia</h3>
-<img src="{{ site.baseurl }}/img/competidores.jpg" alt="Evento con ROOOF">![competidores.jpg]({{site.baseurl}}/img/competidores.jpg)
-
-
-
-<p></p>
 
 
 
