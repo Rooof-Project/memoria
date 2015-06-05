@@ -16,16 +16,13 @@ published: true
 
 <p>En ROOOF queremos dar la posibilidad de tener un tiempo de ocio diferente, distinto a lo que está marcado como un "must do".</p> 
 
-<h2 class="section-heading">Misión de ROOOF</h2>
-<p>El objetivo principal es poner a disposición de los creadores una plataforma de difusión de sus propuestas y creaciones culturales y facilitar el acceso de todas las personas a un tipo de experiencias culturales basadas en la autogestión y el espacio privado (“Cultura Home-Made”) </p>
-
 <h2 class="section-heading">¿Qué puedes hacer en ROOOF?</h2>
 <p> ROOOF es una plataforma cultural que sirve como enlace entre artistas locales y su público. A través de la plataforma los usuarios pueden asistir a eventos creados por otros usuarios, o pueden crear los suyos propios, en su propia casa o espacio privado.</p>
 
 <h3> ¿Qué motivaciones tienen los usuarios?</h3>
 
-<p> Los creadores sacarán algo de dinero y ganarán público.</p>
-<p> Los asistentes verán una actuación en directo, sin aglomeraciones, ni colas.</p>
+<p> Los creadores (grupos de música o de teatro, ilustradores, fotógrafos, humoristas, chefs...) sacarán algo de dinero y ganarán público.</p>
+<p> Los asistentes (personas consumidoras de cultura) verán una actuación en directo, sin aglomeraciones, ni colas.</p>
 <p> Ambos disfrutarán de una experiencia diferente y única. Conocerán gente nueva con quien compartir e intercambiar intereses culturales comunes.</p>
 
 <h2 class="section-heading">Objetivos</h2>
