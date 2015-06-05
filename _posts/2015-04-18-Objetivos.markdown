@@ -24,7 +24,8 @@ published: true
 <p> Los creadores (grupos de música o de teatro, ilustradores, fotógrafos, humoristas, chefs...) sacarán algo de dinero y ganarán público.</p>
 <p> Los asistentes (personas consumidoras de cultura) verán una actuación en directo, sin aglomeraciones, ni colas.</p>
 
- <img src="{{ site.baseurl }}/img/enviar-evento-img-01.jpg" alt="Evento con ROOOF"> 
+ <img src="{{ site.baseurl }}/img/que-es.jpg" alt="Evento con ROOOF"> ![que-es.jpg]({{site.baseurl}}/img/que-es.jpg)
+
  
 <p> Ambos disfrutarán de una experiencia diferente y única. Conocerán gente nueva con quien compartir e intercambiar intereses culturales comunes.</p>
 
@@ -32,22 +33,22 @@ published: true
 <p>El primer objetivo es poner a la disposición de los usuarios una plataforma de difusión de sus propuestas culturales y facilitar el acceso de todas las personas a un tipo de experiencias culturales basadas en la autogestión y el espacio privado: <strong>Cultura Home-Made</strong></p>
 
 <p>El usuario, a través de ROOOF puede obtener:</p>
-<ul>
-<li>1) Oferta diversificada de experiencias culturales en casas particulares.</li>
 
-<li>2) Experiencias innovadoras y sorprendentes, que salen del circuito clásico y mainstream.</li>
+<p>1) Oferta diversificada de experiencias culturales en casas particulares.</p>
 
-<li>3) Altavoz para los artistas: es una forma fácil para conseguir público distinto.</li>
+<p>2) Experiencias innovadoras y sorprendentes, que salen del circuito clásico y mainstream.</p>
 
-<li>4) Experiencias íntimas y personalizadas: contacto directo entre artista y público.</li>
+<p>3) Altavoz para los artistas: es una forma fácil para conseguir público distinto.</p>
 
-<li>5) Experiencias que fidelizan y generan boca-oreja: el público que asiste a un evento, si ha tenido una buena experiencia, probablemente repetirá o recomendará la experiencia a otros amigos.</li>
+<p>4) Experiencias íntimas y personalizadas: contacto directo entre artista y público.</p>
 
-<li>6)Experiencia económica: más barato.</li>
+<p>5) Experiencias que fidelizan y generan boca-oreja: el público que asiste a un evento, si ha tenido una buena experiencia, probablemente repetirá o recomendará la experiencia a otros amigos.</p>
 
-<li>7)Experiencia accesible: cualquiera puede apuntarse a un evento, ir solo o acompañado.</li>
+<p>6) Experiencia económica: más barato.</p>
 
-<li>8)Experiencia social: al tener lugar en espacios privados la socialización es una parte muy importante.</li>
+<p>7) Experiencia accesible: cualquiera puede apuntarse a un evento, ir solo o acompañado.</p>
 
-<li>9)Confianza: el público confiará en nosotros ya que todos los creadores habrán pasado por nuestros filtros, antes de ofrecer un evento.</li>
-</ul>
+<p>8) Experiencia social: al tener lugar en espacios privados la socialización es una parte muy importante.</p>
+
+<p>9) Confianza: el público confiará en nosotros ya que todos los creadores habrán pasado por nuestros filtros, antes de ofrecer un evento.</p>
+
