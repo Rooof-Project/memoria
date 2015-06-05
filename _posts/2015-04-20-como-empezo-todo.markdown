@@ -22,10 +22,9 @@ published: true
 <p>El brief que no queríamos, pero no pasaba nada, porque todavía no lo sabíamos pero teníamos un equipo de puta madre.</p>
 
 
+<h2 class="section-heading">Cuestionando el brief</h2>
 
-<h2 class="section-heading">Reaching for the Stars</h2>
-
-<p>Nuestro proyecto responde a nuestra necesidad de fomentar la cultura en cualquier ámbito. Cuando supimos que teníamos la oportunidad de realizar un proyecto cultural no dudamos en ello. Gracias a éste interés surgió la idea de crear ROOOF.</p>
+<p>Ahora tocaba volver a empezar con el nuevo brief y el nuevo equipo. Teníamos algunos materiales que nuestros compañeros (y nosotros mismos) habían hecho previamente para este brief, y nos vinieron de lujo como partida para seguir con la investigación.</p>
 
 <p>Desde un principio siempre rondaba una idea en nuestras cabezas: asistir a actos culturales de una forma más fácil, barata y comunitaria. Pensamos que teníamos que enlazarlo con los espacios privados de los usuarios: sus casas.</p>
 
@@ -39,17 +38,3 @@ published: true
 </p>
 
 
-<h2 class="section-heading">Reaching for the Stars</h2>
-
-<p>As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.</p>
-
-<a href="#">
-    <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
-</a>
-<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
-
-<p>Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.</p>
-
-<p>As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.</p>
-
-<p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
