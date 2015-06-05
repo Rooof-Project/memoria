@@ -8,18 +8,25 @@ published: true
 
 
 
-
 <h2 class="section-heading">¿Qué es ROOOF?</h2>
 
-<p>Es un proyecto para usuarios interesados en la cultura que quieren crear eventos o asistir a espectáculos en Barcelona. ROOOF es una plataforma cultural que sirve como enlace entre artistas locales y su público. </p>
+<p>Imaginaos un domingo de resaca. De repente el maldito vecino del 2ºB empieza tocar su piano. Joder que putada, lo odias y lo quieres matar.</p>
 
+<p>Error, en Rooof queremos que la gente vaya a casa de su vecino y que descubra su talento musical. Y además el vecino prepara unas croquetas buenísimas y tiene un grupo de amigos que son la bomba. ¿Acaso hay algo mejor que unas croquetas cuando estás de resaca? </p>
 
-<h2 class="section-heading">A quén va dirigido</h2>
-<p>Poner a la disposición de los creadores una plataforma de difusión de sus propuestas y creaciones culturales y facilitar el acceso de todas las personas a un tipo de experiencias culturales basadas en la autogestión y el espacio privado (“Cultura Home-Made”) </p>
+<p>En ROOOF queremos dar la posibilidad de tener un tiempo de ocio diferente, distinto a lo que está marcado como un "must do".</p> 
 
 <h2 class="section-heading">Misión de ROOOF</h2>
-<p>Poner a la disposición de los creadores una plataforma de difusión de sus propuestas y creaciones culturales y facilitar el acceso de todas las personas a un tipo de experiencias culturales basadas en la autogestión y el espacio privado (“Cultura Home-Made”) </p>
+<p>El objetivo principal es poner a disposición de los creadores una plataforma de difusión de sus propuestas y creaciones culturales y facilitar el acceso de todas las personas a un tipo de experiencias culturales basadas en la autogestión y el espacio privado (“Cultura Home-Made”) </p>
 
+<h2 class="section-heading">¿Qué puedes hacer en ROOOF?</h2>
+<p> ROOOF es una plataforma cultural que sirve como enlace entre artistas locales y su público. A través de la plataforma los usuarios pueden asistir a eventos creados por otros usuarios, o pueden crear los suyos propios, en su propia casa o espacio privado.</p>
+
+<h3> ¿Qué motivaciones tienen los usuarios?</h3>
+
+<p> Los creadores sacarán algo de dinero y ganarán público.</p>
+<p> Los asistentes verán una actuación en directo, sin aglomeraciones, ni colas.</p>
+<p> Ambos disfrutarán de una experiencia diferente y única. Conocerán gente nueva con quien compartir e intercambiar intereses culturales comunes.</p>
 
 <h2 class="section-heading">Objetivos</h2>
 <p>Poner a la disposición de los usuarios una plataforma de creación y difusión de sus propuestas culturales y facilitar el acceso de todas las personas a un tipo de experiencias culturales basadas en la autogestión y el espacio privado <strong>Cultura Home-Made</strong></p>
