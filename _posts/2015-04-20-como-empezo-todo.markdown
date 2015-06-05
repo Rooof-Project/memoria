@@ -2,37 +2,35 @@
 layout: post
 title: Cómo empezó todo
 subtitle: El brief que perdimos echando una moneda al aire
-header-img: "img/background-party.jpg"
+"header-img": "img/background-party.jpg"
+published: true
 ---
 
-<p>Solo para probar si el contenido del blog se puede editar online en prose.io</p>
 
-<p>Y si que se puede. :)</p>
-<p> Antes de nada, aceptad la invitación al repositorio "memoria" de github que os envié desde la cuenta de rooof-project.
+<h2 class="section-heading">Empezando bien</h2>
+<p>Habíamos estado trabajando en cuatro briefs diferentes y con distintos equipos durante dos semanas. Mientras nos íbamos conociendo y familiarizándonos con técnicas de design thinking, cada uno iba teniendo un brief favorito.</p>
 
-Id a prose.io. Os saldrá que teneis que autorizar a github. Le decís que si. Una vez dentro vereis vuestros repositorios, entre ellos la memoria, y desde aquí podeis editar el contenido como si fuera un word. Los archivos que hay que editar son los que están dentro de la carpeta _post. Los demás no se tocan. Cuidado con el orden de los post, van por orden de fecha, el más reciente saldrá el primero. </p>
+<p>Llegó el día de montar los equipos y repartir los briefs en los que trabajaríamos durante el resto del curso.</p>
 
-<p> Hay una cosa a tener en cuenta: cuando entreis a prose.io, en la primera pantalla arriba a la derecha os saldrá un menú para escoger el ususuario, teneis que escoger Rooofproject. </p>
-![group.png]({{site.baseurl}}/img/group.png)
+<p>Nuestro equipo estaba montado y respondía a las exigencias del máster: debía ser mixto sexualmente, con miembros con experiencia laboral previa, y al menos uno debía ser de fuera. Además todo el equipo tenía un brief favorito: experiencias guiadas. Y uno menos favorito: Plataforma Cultural, que ocupaba el tercer puesto de cuatro.</p>
 
-<p> Y después, una vez escogido el repositorio memoria en el siguiente paso, teneis que aseguraos de que el branch es gh-pages </p>
-![branch.png]({{site.baseurl}}/img/branch.png)
 
-<p>Para ver el blog online podeis hacerlo desde el mismo repositorio de github, abajo del todo hay un link que pone "View Live Demo →" o <a href="http://rooof-project.github.io/memoria">desde aquí</a>. Para ver los cambios que habéis hecho refrescad la página, tarda un poquito, quizá tengáis que refrescar 2 o 3 veces.</p>
 
-<p>dsbv fvdvA Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.</p>
+<h2 class="section-heading">Reaching for the Stars</h2>
 
-<p>For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.</p>
+<p>Nuestro proyecto responde a nuestra necesidad de fomentar la cultura en cualquier ámbito. Cuando supimos que teníamos la oportunidad de realizar un proyecto cultural no dudamos en ello. Gracias a éste interés surgió la idea de crear ROOOF.</p>
 
-<h2 class="section-heading">The Final Frontier</h2>
+<p>Desde un principio siempre rondaba una idea en nuestras cabezas: asistir a actos culturales de una forma más fácil, barata y comunitaria. Pensamos que teníamos que enlazarlo con los espacios privados de los usuarios: sus casas.</p>
 
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
+<p>Nos impusimos esta máxima: sin espacio privado no hay proyecto. Temíamos que Rooof se convirtiese en una mera agenda cultural, de las que ya existen tantas como "le cool", "time out" etc... Agendas que enlazan negocios culturales con usuarios.</p>
 
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
+<p>No queríamos estar relacionados con este circuito clásico del negocio, queríamos crear el nuestro, uno diferente creado por personas sin necesidad de infraestructura especial para su desarrollo.</p>
 
-<blockquote>The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.</blockquote>
+<p>Por ejemplo, nos alejamos de las salas donde se desarrollan espectáculos ya que son un negocio y como tal tienen que generar dinero: debíamos saltarnos este intermediario y crear algo espontáneo y comunitario.</p>
 
-<p>Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.</p>
+<p>Consideramos que la web puede ofrecer y crear nuevos tipos de negocio en el ámbito de las artes. Con este proyecto queremos demostrarlo.
+</p>
+
 
 <h2 class="section-heading">Reaching for the Stars</h2>
 
