@@ -5,9 +5,9 @@ email: hellorooof@gmail.com
 description: "ROOOF Memoria proyecto final"
 baseurl: "/memoria"
 url: "http://rooof-project.github.io"
-twitter_username: ROOOF
+twitter_username: HelloRooof
 github_username:  rooof-project
-facebook_username:  ROOOF
+facebook_username:  hellorooof
 
 # Build settings
 markdown: kramdown
