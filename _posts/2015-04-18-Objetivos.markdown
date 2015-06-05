@@ -24,9 +24,7 @@ published: true
 <p> Los creadores (grupos de música o de teatro, ilustradores, fotógrafos, humoristas, chefs...) sacarán algo de dinero y ganarán público.</p>
 <p> Los asistentes (personas consumidoras de cultura) verán una actuación en directo, sin aglomeraciones, ni colas.</p>
 
- <img src="{{ site.baseurl }}/img/enviar-evento-img-01.jpg" alt="Evento con ROOOF">![enviar-evento-img-01.jpg]({{site.baseurl}}/img/enviar-evento-img-01.jpg)
-
- 
+ <img src="{{ site.baseurl }}/img/enviar-evento-img-01.jpg" alt="Evento con ROOOF"> 
  
 <p> Ambos disfrutarán de una experiencia diferente y única. Conocerán gente nueva con quien compartir e intercambiar intereses culturales comunes.</p>
 
