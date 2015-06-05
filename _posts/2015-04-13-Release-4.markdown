@@ -7,6 +7,7 @@ published: true
 ---
 
 
+
 <h2 class="section-heading">Objetivos de la release</h2>
 <p>Para la última release teníamos que corregir algunos errores de experiencia de usuario que arrastrábamos de otras realises anteriores.</p>
 <p>También nos planteamos incorporar los perfiles de usuario como sistema para generar confianza entre usuarios y también como primer paso para permitir el intercambio de gustos culturales.</p>
@@ -18,8 +19,7 @@ published: true
 <ul>
 <li> Crear alertas fin de tarea</li>
 <li> Ver mapa con ubicación del evento</li>
-<li> Reservar evento en móvil</li>
-<li> Crear evento en móvil</li>
+<li> Reservar / crear evento en móvil</li>
 <li> Crear / editar perfil personal</li>
 <li> Estrategia de contenidos.</li>
 </ul>
@@ -52,11 +52,11 @@ published: true
 
 <blockquote>“Como usuario quiero poder crear mi perfil con mis datos personales, gustos e intereses para darme a conocer a otros usuarios y compartir mis intereses con ellos. Quiero poder añadir más información si es necesario”</blockquote>
 
-<p>Desde el principio sabíamos que los perfiles de usuario eran una parte importante de la plataforma. Los usuarios tanto creadores como asistentes consideran importante esta funcionalidad. Si son creadores a través de su perfil pueden atraer a más público, si son asistentes pueden presumir de a qué eventos fueron y con quien (en un futuro). Además es una historia importante a la hora de <strong>crear confianza y seguridad entre usuarios</strong>, que es una de las debilidades de nuestra plataforma.</p>
+<p>Desde el principio sabíamos que los perfiles de usuario eran una parte importante de la plataforma. Los usuarios, tanto creadores como asistentes, consideran importante esta funcionalidad. Si son creadores a través de su perfil pueden atraer a más público, si son asistentes pueden presumir de a qué eventos fueron y con quien (en un futuro). Además es una historia importante a la hora de <strong>crear confianza y seguridad entre usuarios</strong>, que es una de las debilidades de nuestra plataforma.</p>
 
 <p>En Rooof pretendemos crear una comunidad, el trato entre personas es muy relevante ya que comparten experiencias juntos, un usuario no es nada sin el otro. Uno quiere mostrar su talento mientras el otro quiere pasar un buen rato y conocer gente nueva. Por ello, tanto para el creador del evento como para el asistente es importante poder tener un perfil en el que mostrar que es lo que hace o cuales son sus preferencias. O incluso a que eventos han ido.</p>
 
-<p>Hasta ahora habíamos propuesto la creación de una cuenta para poder hacer la reserva o la creación de un evento. Pero nos habíamos quedado ahí. Los usuarios no podían mostrar sus datos personales, sus intereses y gustos... y era hora de cambiar eso, y aportar un poco más de valor. Si que habíamos hecho unos perfiles de usuario, pero no habíamos planteado cómo el usuariario crearía su perfil.</p>
+<p>Hasta ahora habíamos propuesto la creación de una cuenta para poder hacer la reserva o la creación de un evento. Pero nos habíamos quedado ahí. Los usuarios no podían mostrar sus datos personales, sus intereses y gustos... y era hora de cambiar eso, y aportar un poco más de valor. Si que habíamos hecho unos perfiles de usuario, pero no habíamos planteado la manera en la que el usuario crearía su perfil.</p>
 
 <h3>Desarrollando los perfiles</h3>
 
@@ -82,17 +82,17 @@ published: true
 
 <p>Al hacer la versión responsive en la tercera release, ya teníamos parte del trabajo hecho, pero debíamos optimizarlo para móvil. Había cosas que no encajaban del todo, y otras que estaban muy lejos de funcionar.</p>
 
-<p>Para nososotros era muy importante que independientemente de dónde se encontrase el usuario, pudiera hacer una reserva fácilmente y además con una buena experiencia de uso. Además, optimizar la plataforma para móvil nos abria un montón de posibilidades de proyección: los usuarios podrían compartir por redes sociales o por mail ( aplicaciones cada vez mas usadas desde el móvil).</p>
+<p>Para nososotros era muy importante que independientemente de dónde se encontrase el usuario, pudiera hacer una reserva fácilmente y además con una buena experiencia de uso. Además, optimizar la plataforma para móvil nos abria un montón de posibilidades de proyección: los usuarios podrían compartir por redes sociales o acceder a la plataforma desde el mail (aplicaciones cada vez mas usadas desde el móvil).</p>
 
 <p>Para los usuarios la tarea más importante a realizar en la plataforma a través del móvil es “reservar un evento”. La tarea de creación de un evento, para el usuario, es una experiencia menos mobile. Es dedicar un tiempo en un lugar tranquilo desde su ordenador para poder subir fotos correctamente desde la tranquilidad de su hogar.</p>
 
-<p>Nos planteamos eliminar esta funcionalidad de la versión móvil pero también pensamos que si el usuario sabía que se podía hacer en desktop, debíamos ser fieles a la versión y dar en también en móvil esta funcionalidad para no crear posibles decepciones. Eso sí, a nivel de jerarquía de la información lo situamos al final del menú y al final del scroll en cada página.</p>
+<p>Nos planteamos eliminar esta funcionalidad de la versión móvil pero también pensamos que si el usuario sabía que se podía hacer en desktop, debíamos ser fieles a la versión y dar también en móvil esta funcionalidad para no crear posibles decepciones. Eso sí, a nivel de jerarquía de la información lo situamos al final del menú y al final del scroll en cada página.</p>
 
 <h3>Optimización para móvil</h3>
 
 <p>Algunas cosas que corregimos o planteamos de nuevo teniendo como prioridad el uso en todos los dispositivos:
 <ul>
-<li> Reorganización del contenido de la ficha del evento usando JavaScript: la posición natural de los elementos hacía que información y botón de reserva quedarán muy abajo.</li>
+<li> Reorganización del contenido de la ficha del evento usando JavaScript: la posición natural de los elementos hacía que información importante y botón de reserva quedarán muy abajo.</li>
 <li> Optimización de tamaños tipográficos, y tamaños en la grilla de los eventos.</li>
 <li> Planteamiento de un nuevo formulario de creación, que fuese accesible en móvil. El que teníamos hasta ahora no lo era.</li>
 </ul>
@@ -105,7 +105,6 @@ published: true
 
 <h2 class="section-heading">Solución tecnológica</h2>
 
-<p>Aparte del Sass, que ya lo venimos usando desde la tercera release, para esta cuarta release, hemos incorporado Jekyll y un Gulp.</p>
-<p>Jekyll nos ha permitido agilizar el desarrollo de plantillas con la incorporación de módulos html rehusables. Y pese a que le podíamos haber sacado mucho más probecho nos ha ayudado a agilizar el desarrollo del prototipo.</p>
+<p>Aparte del Sass, que ya lo venimos usando desde la tercera release, para esta cuarta release, hemos incorporado <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> y <a href="http://gulpjs.com/" target="_blank">Gulp</a>.</p>
+<p>Jekyll nos ha permitido agilizar el desarrollo de plantillas con la incorporación de módulos html reusables. Y pese a que le podíamos haber sacado mucho más probecho nos ha ayudado a agilizar el desarrollo del prototipo, además de acercarnos más a una plataforma con contenido dinámico.</p>
 <p>Hemos incorporado también un task runner. Primero probamos con grunt, pero se nos hacía demasiado lento. Finalmente configuramos gulp. También nos ha permitido trabajar con más rapidez e incorporar automáticamente tareas como la escritura automática de los prefijos para los navegadores en css, o la optimización de imágenes.</p>
-
