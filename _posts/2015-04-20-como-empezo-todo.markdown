@@ -14,6 +14,13 @@ published: true
 
 <p>Nuestro equipo estaba montado y respondía a las exigencias del máster: debía ser mixto sexualmente, con miembros con experiencia laboral previa, y al menos uno debía ser de fuera. Además todo el equipo tenía un brief favorito: experiencias guiadas. Y uno menos favorito: Plataforma Cultural, que ocupaba el tercer puesto de cuatro.</p>
 
+<p>Solo había un problema. Otro equipo había elegido ya el brief de experiencias guiadas. Se planteó un duelo de ideas, ganaría la idea mas original. Creo que todos pensamos que tendríamos mas posibilidades de ganar lanzando una moneda al aire. La lanzamos y perdimos.Tendríamos que haber escogido al rey.</p>
+
+<p>Así que nuestro brief era este:</p>
+<blockquote>Diseñar una plataforma para personas u organizaciones interesadas por la cultura donde puedan compartir de manera restringida o pública sus gustos y experiencias, y obtener recomendaciones a partir de los de otras personas afines. </blockquote>
+
+<p>Un brief que no queríamos, pero no pasaba nada, porque todavía no lo sabíamos pero teníamos un equipo de puta madre.</p>
+
 
 
 <h2 class="section-heading">Reaching for the Stars</h2>
