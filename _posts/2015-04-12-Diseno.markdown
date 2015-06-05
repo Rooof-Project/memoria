@@ -9,6 +9,7 @@ published: true
 
 
 
+
 <h2 class="section-heading">El proceso de creación</h2>
 
 <p>La identidad de la plataforma también la hemos planteado de manera incremental.
@@ -92,7 +93,7 @@ Salieron un motón de nombres pero no nos acabó de encajar ninguno, finalmente 
 <span class="caption text-muted"> Versión actual del logotipo en la plataforma </span>
 
 <h2 class="section-heading">Style guide</h2>
-<p>Con todos los elementos corporativos comenzamos a hacer una guía de estilo. La primera sería un simple PDF. Más adelante, según fueron avanzando las clases nos dimos cuenta que debíamos crear una guía de estilo viva, usando el mismo css de la web.</p>
+<p>Con todos los elementos corporativos comenzamos a hacer una guía de estilo. La primera sería un simple PDF. Más adelante, según fueron avanzando las clases nos dimos cuenta que debíamos crear una <a href="http://rooof-project.github.io/rooof-sass/example.html" target="_blank">guía de estilo viva</a>, usando el mismo css de la web.</p>
 
 <img src="{{ site.baseurl }}/img/styleguide.jpg" alt="guía de estilo">
 
@@ -102,7 +103,7 @@ Salieron un motón de nombres pero no nos acabó de encajar ninguno, finalmente 
 <p>La guía de estilo nos ha ayudado a documentar los elementos básicos de la web, y a reutilizar nuestro propio código, eliminando duplicidades. Así como a eliminar dudas respecto a estilos, que siempre van surgiendo a lo largo del proceso de diseño.</p>
 <p>También nos ha ayudado a darnos cuenta de que en realidad estamos diseñando un sistema, y no una serie de páginas estáticas. Cada página de la web comparte elementos con otra y la guía nos ha ayudado a establecer un código visual, y a agilizar el desarrollo.</p>
 
-<p>Puedes ver la guía <a href="http://rooof-project.github.io/style-guide">aquí</a>.</p>
+<p>Puedes ver la guía <a href="http://rooof-project.github.io/rooof-sass/example.html" target="_blank">aquí</a>.</p>
 
 <h2 class="section-heading">Layout Responsive!</h2>
 <p>Para la construcción de las distintas páginas planteamos el uso de un grid a 12 columnas, por ser un grid muy versátil en cuanto al ancho de los módulos. De esta manera podemos variar y jugar con diferentes espacios.</p>
