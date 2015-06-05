@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creando una plataforma cultural que sirve como enlace entre artistas locales y su público.
+title: "¿Qué es ROOOF?"
 subtitle: We predict too much for the next year and yet far too little for the next ten.
 "header-img": "img/post-bg-04.jpg"
 published: true
