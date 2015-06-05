@@ -23,10 +23,15 @@ published: true
 
 <p> Los creadores (grupos de música o de teatro, ilustradores, fotógrafos, humoristas, chefs...) sacarán algo de dinero y ganarán público.</p>
 <p> Los asistentes (personas consumidoras de cultura) verán una actuación en directo, sin aglomeraciones, ni colas.</p>
+
+ <img src="{{ site.baseurl }}/img/enviar-evento-img-01.jpg" alt="Evento con ROOOF">![enviar-evento-img-01.jpg]({{site.baseurl}}/img/enviar-evento-img-01.jpg)
+
+ 
+ 
 <p> Ambos disfrutarán de una experiencia diferente y única. Conocerán gente nueva con quien compartir e intercambiar intereses culturales comunes.</p>
 
 <h2 class="section-heading">Objetivos de la plataforma</h2>
-<p>El primer objetivo es poner a la disposición de los usuarios una plataforma de difusión de sus propuestas culturales y facilitar el acceso de todas las personas a un tipo de experiencias culturales basadas en la autogestión y el espacio privado <strong>Cultura Home-Made</strong></p>
+<p>El primer objetivo es poner a la disposición de los usuarios una plataforma de difusión de sus propuestas culturales y facilitar el acceso de todas las personas a un tipo de experiencias culturales basadas en la autogestión y el espacio privado: <strong>Cultura Home-Made</strong></p>
 
 <p>El usuario, a través de ROOOF puede obtener:</p>
 <ul>
