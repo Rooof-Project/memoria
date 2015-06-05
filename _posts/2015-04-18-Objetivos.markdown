@@ -30,7 +30,7 @@ published: true
 <p> Ambos disfrutarán de una experiencia diferente y única. Conocerán gente nueva con quien compartir e intercambiar intereses culturales comunes.</p>
 
 <h2 class="section-heading">Objetivos de la plataforma</h2>
-<p>El primer objetivo es poner a la disposición de los usuarios una plataforma de difusión de sus propuestas culturales y facilitar el acceso de todas las personas a un tipo de experiencias culturales basadas en la autogestión y el espacio privado: <strong>Cultura Home-Made</strong></p>
+<p>El primer objetivo es poner a la disposición de los usuarios una plataforma de difusión de sus propuestas culturales y facilitar el acceso de todas las personas a un tipo de experiencias culturales basadas en la autogestión y el espacio privado: <strong>Cultura Home-Made</strong>.</p>
 
 <p>El usuario, a través de ROOOF puede obtener:</p>
 
@@ -51,4 +51,33 @@ published: true
 <p>8) Experiencia social: al tener lugar en espacios privados la socialización es una parte muy importante.</p>
 
 <p>9) Confianza: el público confiará en nosotros ya que todos los creadores habrán pasado por nuestros filtros, antes de ofrecer un evento.</p>
+
+<h2 class="section-heading">Competidores, fortalezas y debilidades</h2>
+
+<h3>Fortalezas</h3>
+<p><strong>Para los asistentes:</strong> tenemos más variedad que otras webs culturales y por tanto público de todas las características. Sofar solo hace música, eatwith hace comida. La experiencia es más barata y menos masificada que la experiencia clásica de ir a un bar o discoteca. Puedes ir a un evento entre semana o en fin de semana.</p>
+<p><strong>Para los creadores:</strong> es una forma fácil de darte a conocer y conseguir público, o de relacionarte con otros artistas.</p>
+
+<h3>Oportunidades</h3>
+<p>Es la primera plataforma que ofrece este servicio. Cada vez son más los usuarios que optan por experiencias alternativas al circuito cultural mainstream. Cada vez son más los artistas que buscan otras formas no clásicas de vincularse con sus públicos y con otros artistas del circuito. Rooof ofrece a público y creadores todo esto en una sola plataforma.</p>
+
+<h3>Debilidades</h3>
+<p> El riesgo de la autogestión y el espacio privado: no es profesional, todo se monta de forma amateur por tanto la calidad dependerá de cada artista, pese a que Rooof pone unos filtros previos al registro.</p>
+
+<h3>Amenazas</h3>
+<ul>
+<li>Falta de creadores: puede que no tengan un espacio para hacerlo.<li>
+<li>Falta de público por<strong> desconfianza</strong> a ir a espacios privados.<li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
 
