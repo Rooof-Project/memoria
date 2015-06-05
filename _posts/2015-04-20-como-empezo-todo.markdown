@@ -19,7 +19,7 @@ published: true
 <p>Así que nuestro brief era este:</p>
 <blockquote>Diseñar una plataforma para personas u organizaciones interesadas por la cultura donde puedan compartir de manera restringida o pública sus gustos y experiencias, y obtener recomendaciones a partir de los de otras personas afines. </blockquote>
 
-<p>Un brief que no queríamos, pero no pasaba nada, porque todavía no lo sabíamos pero teníamos un equipo de puta madre.</p>
+<p>El brief que no queríamos, pero no pasaba nada, porque todavía no lo sabíamos pero teníamos un equipo de puta madre.</p>
 
 
 
