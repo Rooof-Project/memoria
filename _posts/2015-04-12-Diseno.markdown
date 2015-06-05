@@ -2,7 +2,7 @@
 layout: post
 title: La identidad de ROOOF
 subtitle: ROOOF es un amigo cuya opinión pones en valor.
-"header-img": "img/post-bg-01.jpg"
+"header-img": "img/post-bg-07.jpg"
 published: true
 ---
 

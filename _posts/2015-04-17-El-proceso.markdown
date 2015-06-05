@@ -2,7 +2,7 @@
 layout: post
 title: El proceso de trabajo
 subtitle: "Trabajando dentro de un nuevo marco ágil."
-"header-img": "img/post-bg-03.jpg"
+"header-img": "img/post-bg-08.jpg"
 published: true
 ---
 

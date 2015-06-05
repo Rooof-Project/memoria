@@ -2,7 +2,7 @@
 layout: post
 title: "¿Qué es ROOOF?"
 subtitle: Lo que nos salió después de muchas vueltas al brief.
-"header-img": "img/post-bg-04.jpg"
+"header-img": "img/post-bg-10.jpg"
 published: true
 ---
 
