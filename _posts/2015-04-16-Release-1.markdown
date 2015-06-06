@@ -90,11 +90,11 @@ Al comienzo pensamos que el espacio dónde se realizaban los eventos no estaba r
 
 <p>Una vez hechas estas dos tareas (historia de usuarios y workflow) ya podíamos comenzar a realizar wireframes y testearlo con usuarios para asegurarnos de que no daban lugar a confusión. Es preferible detectar si todo funciona correctamente en este punto antes de comenzar a diseñar y a invertir el tiempo para no generar "waste".</p>
 
-<p>En esta ocasión probamos el wireframe en 10 usuarios. Hicimos un test de guerrilla con el ipad en la cafetería de la escuela y con nuestro amigos. Consideramos que aún la plataforma era muy sencilla y no eran necesarios test más exaustivos, los cuales los realizamos más adelante cuando la arquitectura y el diseño fuesen más completos.</p>
+<p>En esta ocasión probamos el wireframe con algunos usuarios. Hicimos un test de guerrilla con el ipad en la cafetería de la escuela y con nuestros amigos. Consideramos que todavía la plataforma era muy sencilla y no eran necesarios test más exaustivos, los cuales los realizamos más adelante cuando la arquitectura y el diseño fuesen más completos.</p>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/wireframes.png" alt="Post Sample Image">
-</a>
+    <img src="{{ site.baseurl }}/img/wireframes-primera-release.jpg" alt="wireframe">
+
 
 
 <h2 class="section-heading">Propuesta gráfica</h2>
