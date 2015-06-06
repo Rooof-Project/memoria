@@ -27,7 +27,7 @@ published: true
     <img src="{{ site.baseurl }}/img/Mood-Board.jpg" alt="Mood Board">
 </a>
 
-<h2 class="section-heading">Stake Holders</h2>
+<h2 class="section-heading">Stakeholders</h2>
 <p>Empezamos a definir quiénes serían los implicados en la plataforma.
 Al comienzo pensamos que el espacio dónde se realizaban los eventos no estaba relacionado con el artista. Ideamos unas relaciones entre usuarios que se encontraban en un lugar ajeno a ambos y donde unos asistirían a un espectáculo mientras que otros mostraban su talento.</p>
 
