@@ -80,11 +80,11 @@ published: true
 
 <p>En esta página también mostramos otras funcionalidades que siempre deberían estar presentes: lista de eventos y como asistir a un evento.</p>
 
-<p>Además con el wireframe sacamos estas conclusiones:</p>
+<p><strong>Además con el wireframe sacamos estas conclusiones:</strong></p>
+<ul>
+<li> Tenemos que añadir “botón qué es rooof” en el header, para que en todo momento se pueda acceder a esta información.</li>
 
-<p>- <strong>Tenemos que añadir “botón qué es rooof” en el header, para que en todo momento se pueda acceder a esta información.</strong></p>
-
-<p>-<strong> Ok a la nueva estructura de la landing: </strong></p>
+<li> Ok a la nueva estructura de la landing:</li>
 
 <ul>
 	<li>Foto con copy y call to action.</li>
@@ -93,13 +93,14 @@ published: true
     <li>Crear eventos.</li>
 </ul>
 
-<p>- <strong>Cambios al orden de información de la sección “que es”:</strong></p>
+<li> Cambios al orden de información de la sección “que es”:</li>
 
 <ul>
 	<li>Slide informativo.</li>
     <li>Sugerencia de eventos: cambiarlo por texto “que es”</li>
     <li>Como asistir.</li>
     <li>Crear eventos.</li>
+</ul>
 </ul>
 
 
