@@ -62,7 +62,17 @@ published: true
 
 <h2 class="section-heading">Wireframes y propuestas de diseño</h2>
 
-<p>Empujados por el “jarro de agua fría” que supuso el que los usuarios no supiesen de que trataba nuestra web decidimos realizar diferentes bocetos de landing en busca de alguna que no proporcionase más claridad en el mensaje.
+<p>Ya en el wireframe se percibe nuestra intención de que quede muy claro “que es Rooof”. Incluso sustituimos el principal call to action de la landing que había anteriormente (el que te mostraba la lista de eventos).</p>
+
+<p> Incluímos una lista de eventos más elaborada que luego nos serviría como página de búsqueda de eventos, y en la landing reservamos un espacio privilegiado para eventos destacados, con el fin de atraer a los usuarios y generar interés.</p>
+
+<a href="http://marvl.in/12afhcg">
+    <img src="{{ site.baseurl }}/img/wireframe-segunda-release.jpg" alt="wireframe">
+    ![wireframe-segunda-release.jpg]({{site.baseurl}}/img/wireframe-segunda-release.jpg)
+</a>
+
+
+<p>Empujados por el “jarro de agua fría” que supuso el que los usuarios no supiesen de que trataba nuestra web decidimos realizar diferentes bocetos en busca de alguno que no proporcionase más claridad en el mensaje.
 </p>
 
 <p>Probamos con ilustraciones en vez de fotografía. Pero los dibujos nos alejaban del universo humano, cálido y real que transmitían las imágenes fotográficas.
@@ -74,13 +84,7 @@ published: true
 </a>
 
 
-<p>Ya en el wireframe se percibe nuestra intención de que quede muy claro “que es Rooof”. Incluso sustituimos el principal call to action de la landing que había anteriormente (el que te mostraba la lista de eventos).</p>
-
-<a href="https://marvelapp.com/12afhcg#2408996">
-    <img src="{{ site.baseurl }}/img/01_home-r2.png" alt="Post Sample Image">
-</a>
-
-<p>También empezamos a probar con otros “copys”. Antes era “Rooof es una nueva forma de disfrutar de la cultura en casa” y ahora es “quedadas culturales en casas de Barcelona”.</p>
+<p>También empezamos a probar con otros copies. Antes era “Rooof es una nueva forma de disfrutar de la cultura en casa” y ahora es “quedadas culturales en casas de Barcelona”.</p>
 
 <p>Preocupados por hacer saber que era Rooof diseñamos una nueva página en la que el usuario podía informarse a través de un slide que pretendíamos con la plataforma y que le ofrecíamos en ella.</p>
 
