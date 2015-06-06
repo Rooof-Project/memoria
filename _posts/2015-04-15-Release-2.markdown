@@ -59,6 +59,8 @@ published: true
 
 <img src="{{ site.baseurl }}/img/workflow-r2.jpg" alt="workflow">
 
+<p>Nos planteamos añadir nuevas secciones: ¿qué es rooof?, y dar más protagonismo a la lista de eventos.</p>
+
 
 <h2 class="section-heading">Wireframes y propuestas de diseño</h2>
 
@@ -103,8 +105,8 @@ published: true
 </ul>
 </ul>
 
-<h3 >Nueva propuestas de diseño</h3>
-<p>Empujados por el “jarro de agua fría” que supuso el que los usuarios no supiesen de que trataba nuestra web decidimos realizar diferentes bocetos en busca de alguno que no proporcionase más claridad en el mensaje.
+<h2 class="section-heading">Nuevas propuestas de diseño</h2>
+<p>Empujados por el “jarro de agua fría” que supuso el que los usuarios no supiesen de que trataba nuestra web decidimos realizar <a href="https://marvelapp.com/2bhfid#2451222" target="_blank">diferentes bocetos</a> en busca de alguno que no proporcionase más claridad en el mensaje.
 </p>
 
 <p>Probamos con ilustraciones en vez de fotografía. Pero los dibujos nos alejaban del universo humano, cálido y real que transmitían las imágenes fotográficas.
@@ -117,7 +119,6 @@ published: true
 
 
 <p>También empezamos a probar con otros copies. Antes era “Rooof es una nueva forma de disfrutar de la cultura en casa” y ahora es “quedadas culturales en casas de Barcelona”.</p>
-
 
 
 <h3>Propuesta Gráfica</h3>
