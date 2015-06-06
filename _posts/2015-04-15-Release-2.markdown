@@ -103,7 +103,7 @@ published: true
 </ul>
 </ul>
 
-
+<h3 >Nueva propuestas de diseño</h3>
 <p>Empujados por el “jarro de agua fría” que supuso el que los usuarios no supiesen de que trataba nuestra web decidimos realizar diferentes bocetos en busca de alguno que no proporcionase más claridad en el mensaje.
 </p>
 
@@ -120,17 +120,17 @@ published: true
 
 
 
-<h2 class="section-heading">Propuesta Gráfica</h2>
+<h3>Propuesta Gráfica</h3>
 
 <p>En esta release cambiamos por completo el grafismo de la página por motivos anteriormente comentados. A partir del wireframe desarrollamos un nuevo layout, más simple con menos artificios y más claro. Estos fueron cambios más significativos que realizamos:</p>
 
 <ul>
-	<li>Color: simplificamos color, ahora solo usamos grises, blanco y rosa.</li>
-    <li>Botones: simplificamos, todos los botones a partir de ahora son con fondo rosa. Así conseguimos que el usuario sepa com más facilidad que elementos llevan a una acción.</li>
+	<li>Color: simplificamos color, ahora solo usamos grises, blanco y rosa.El rosa será nuestro color corporativo y ayudará al usuario a navegar a través de la página. Intercalando blanco, gris y fotos separamos secciones dentro de una misma página, y jugamos más con los módulos creando layouts diferentes. Con esto resolvemos el problema que se nos presentó en las entrevistas: los usuarios les costaba distinguir entre la home y las páginas interiores.</li>
+    <li>Botones: Les damos más protagonismo: usamos más y más grandes y los unificamos.</li>
     <li>Simplificamos logotipo</li>
-    <li>La lista de sugerencias de eventos en la landing ahora tiene menos datos. Si el usuario se siente atraído por un evento al pulsarlo obtiene más información. Para saber que son son elementos clicables en la versión desktop, irán con un roll over.</li>
-    <li>Mantenemos la tipografía pero la usamos de forma diferente para los títulos y los subtítulos.</li>
-    <li>Añadimos antes del footer una sección que incitase a crear un evento.</li>
+    <li>Añadimos roll overs</li>
+    <li>Mantenemos la tipografía pero la usamos de forma diferente para los títulos y los subtítulos, jerarquizando más la información.</li>
+    <li>Damos más protagonismo a la fotografía, en especial en módulos importantes: call to action para crear evento y buscar eventos.</li>
 </ul>
 
 <a href="https://marvelapp.com/ajcb49#2451921">
@@ -146,13 +146,13 @@ published: true
 <p>Antes:</p>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/Antes-r2.png" alt="Post Sample Image">
+    <img src="{{ site.baseurl }}/img/Antes-r2.png" alt="copies">
 </a>
 
 <p>Después:</p>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/Despues-r2.png" alt="Post Sample Image">
+    <img src="{{ site.baseurl }}/img/Despues-r2.png" alt="copies">
 </a>
 
 <p>Además, creamos un formulario propio para crear un evento. Estamos de acuerdo con que el typeform ya cumplía con su función y también estamos de acuerdo con que no era muy lógico dedicar tanto tiempo a estas alturas del proyecto a realizar el formulario. Además, nuestros conocimientos de programación backend hacían imposible tener totalmente operativa esta funcionalidad. Resumiendo iba contra los principios agile y seguro que íbamos a malgastar mucho tiempo haciéndolo. Pero, por otra parte, consideramos que estamos en un contexto académico y queríamos aprender, queríamos enfrentarnos al diseño de un formulario distinto y con una gráfica propia, no la que nos daba el typeform.
