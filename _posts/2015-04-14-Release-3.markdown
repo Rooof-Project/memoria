@@ -1,13 +1,33 @@
 ---
-layout:     post
-title:  Tercera Release
-subtitle:   "Nunca es tarde para la versión multidisposivo."
-header-img: "img/post-bg-05.jpg"
+layout: post
+title: Tercera Release
+subtitle: Nunca es tarde para la versión multidisposivo.
+"header-img": "img/post-bg-05.jpg"
+published: true
 ---
 
-<p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
 
-<p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
+<h2 class="section-heading">Test UX en Laboratorio</h2>
+
+<p>En esta etapa teníamos la posibilidad de realizar unos test de usuario en laboratorio de UX y queríamos llegar con el proyecto lo más avanzado  posible. En este test podríamos a prueba la plataforma con usuarios que nunca la habían visto. Habíamos elaborado un guión para poner a prueba las siguientes cuestiones:</p>
+
+<ul>
+<li>1. Evaluar si los usuarios reconocen de qué trata la web.</li>
+
+<li>2. Saber si los usuarios comprenden, en general, que ofrece la web, que puedes hacer en ella, y si entienden que hay dos formas de interactuar: como creador de eventos y como asistente.</li>
+
+<li>3. Efectividad de los elementos clicables.</li>
+
+<li>4. Valorar necesidad de etiquetas, categorización de eventos.</li>
+
+<li>5. Valorar la efectividad de la ficha del evento: organización de la información, priorización de información, si es demasiado larga…</li>
+
+<li>6. Saber si los usuarios comprenden cómo funcionan las reservas, qué pasa después de hacer la reserva.</li>
+
+<li>7. Valorar la efectividad de la página de creación de eventos: ¿saben los usuarios dónde están? ¿qué puedes hacer como creador?</li>
+
+<li>8. Saber si los usuarios comprenden cómo se organiza un evento, qué pasa después de que se realice el formulario.</li>
+</ul>
 
 <p>What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.</p>
 
@@ -15,7 +35,7 @@ header-img: "img/post-bg-05.jpg"
 
 <p>For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.</p>
 
-<h2 class="section-heading">The Final Frontier</h2>
+<h2 class="section-heading">The final frontier</h2>
 
 <p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
 
