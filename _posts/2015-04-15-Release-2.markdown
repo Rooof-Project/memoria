@@ -70,9 +70,7 @@ published: true
 
 <a href="https://marvelapp.com/2bhfid#2451222" target="_blank">
     <img src="{{ site.baseurl }}/img/propuesta-r2.jpg" alt="layout">
-    <img src="{{ site.baseurl }}/img/propuesta-r2-2.jpg" alt="layout">![propuesta-r2-2.jpg]({{site.baseurl}}/img/propuesta-r2-2.jpg)
-
-
+    <img src="{{ site.baseurl }}/img/propuesta-r2-2.jpg" alt="layout">
 </a>
 
 
