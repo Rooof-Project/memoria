@@ -138,11 +138,10 @@ published: true
     <img src="{{ site.baseurl }}/img/propuesta-grafica-release-2-2.jpg" alt="layout segunda release">
 </a>
 
-<h2 class="section-heading">UX</h2>
+<h2 class="section-heading">Comunicación con el usuario</h2>
 
-<p>Uno de los problemas a nivel Ux al que nos enfrentábamos era que las diferentes secciones de la plataforma se diferenciasen entre sí. Hicimos bastante hincapié en la sección “crea tu evento” antes llamada “publica tu evento”.</p>
-
-<p>Cambiamos los copys, les bajamos el tono informal. Los usuarios que crean eventos ceden su casa a desconocidos por lo que no nos hacía ningún favor ser tan informales. Teníamos que mostrarles que es lo que podían hacer con la plataforma y animarles a ello mediante conceptos positivos: conectar con gente nueva, compartir tu pasión por la cultura y atraer a público.</p>
+<p>Siguendo con el problema de comunicar bien lo que era ROOOF, y guiar al usuario a través de la página, decidimos hacer una revisión de nuestro tono de comunicación.</p>
+<p>Cambiamos los copies, les bajamos el tono informal. Los usuarios que crean eventos ceden su casa a desconocidos por lo que no nos hacía ningún favor ser tan informales. Teníamos que mostrarles que es lo que podían hacer con la plataforma y animarles a ello mediante conceptos positivos: conectar con gente nueva, compartir tu pasión por la cultura y atraer a público.</p>
 
 <p>Antes:</p>
 
@@ -156,7 +155,12 @@ published: true
     <img src="{{ site.baseurl }}/img/Despues-r2.png" alt="copies">
 </a>
 
-<h3> Creación de evento</h3>
+<p>Además haríamos los copies más directos y claros. Los usuarios no sabían que los eventos eran en casas particulares y debíamos poner remedio. La frase del header, la que comunica qué es ROOOF, la cambiamos varias veces. Al final testeamos el prototiopo con esta:
+
+<blockquote>"Conciertos, teatro y gastronomía en casas de Barcelona" </blockquote></p>
+
+<h2 class="section-heading">Creación del evento</h2>
+
 <p>Además, creamos un formulario propio para crear un evento. Estamos de acuerdo con que el typeform ya cumplía con su función y también estamos de acuerdo con que no era muy lógico dedicar tanto tiempo a estas alturas del proyecto a realizar el formulario. Además, nuestros conocimientos de programación backend hacían imposible tener totalmente operativa esta funcionalidad. Resumiendo iba contra los principios agile y seguro que íbamos a malgastar mucho tiempo haciéndolo. Pero, por otra parte, consideramos que estamos en un contexto académico y queríamos aprender, queríamos enfrentarnos al diseño de un formulario distinto y con una gráfica propia, no la que nos daba el typeform.
 </p>
 
@@ -179,7 +183,7 @@ published: true
 
 <p>En general las fichas de los eventos cambiaron bastante, añadimos más espacio, destacamos el contenido de las mismas y a la vez las hicimos más simples y con más espacio. Y siempre con acceso a información acerca del creador y del precio.</p>
 
-<h3> Facilitando información al usuario<h3>
+<h3> Facilitando información al usuario</h3>
 <p>Durante los test con el primer prototipo observamos que el usuario tenía problemas para saber si había conseguido reservar evento, o como se pagaba éste. Por ello, en la página donde está la ficha del evento, junto al botón de “reservar entrada” añadimos una información que solucionaba este problema:</p>
 
 <a href="#">
