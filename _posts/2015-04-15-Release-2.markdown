@@ -134,8 +134,9 @@ published: true
     <li>Damos más protagonismo a la fotografía, en especial en módulos importantes: call to action para crear evento y buscar eventos.</li>
 </ul>
 
-<a href="https://marvelapp.com/ajcb49#2451921">
-    <img src="{{ site.baseurl }}/img/rooof-v5-01.png" alt="Post Sample Image">
+<a href="https://marvelapp.com/ajcb49#2451921" target="_blank">
+    <img src="{{ site.baseurl }}/img/propuesta-grafica-release-2.jpg" alt="layout segunda release">
+    <img src="{{ site.baseurl }}/img/propuesta-grafica-release-2-2.jpg" alt="layout segunda release">
 </a>
 
 <h2 class="section-heading">UX</h2>
