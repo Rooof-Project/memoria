@@ -66,9 +66,9 @@ published: true
 
 <p>El porqué de este wireframe era testear lo que sería la nueva distribución de la página, y ver si el registro de usuario iba por buen camino.</p>
 
-<p>Ya en el wireframe se percibe nuestra intención de que quede muy claro “que es Rooof”. Incluso sustituimos el principal call to action de la landing que había anteriormente (el que te mostraba la lista de eventos).</p>
 
 <p> Incluímos una lista de eventos más elaborada que luego nos serviría como página de búsqueda de eventos, y en la landing reservamos un espacio privilegiado para eventos destacados, con el fin de atraer a los usuarios y generar interés.</p>
+
 
 <a href="http://marvl.in/12afhcg" target="_blank">
     <img src="{{ site.baseurl }}/img/wireframe-segunda-release.jpg" alt="wireframe">
@@ -77,7 +77,7 @@ published: true
 <span class="caption text-muted">Con el wireframe, hicimos un prototipo muy simple con Marvelapp, para comprobar si nuestra estructura funcionaba a nivel de navegación.
 .</span>
 
-<p>Preocupados por hacer saber que era Rooof diseñamos una nueva página en la que el usuario podía informarse a través de un slide que pretendíamos con la plataforma y que le ofrecíamos en ella.</p>
+<p>Nuestra preocupación por hacer saber que era Rooof nos llevó a plantear una nueva página en la que el usuario podía informarse qué podía hacer en la plataforma "¿qué es rooof?, le daríamos el máximo protagonismo poniendo un botón en el header de la landing que llevara a los usuarios hasta esta sección.</p>
 
 <p>En esta página también mostramos otras funcionalidades que siempre deberían estar presentes: lista de eventos y como asistir a un evento.</p>
 
@@ -156,17 +156,21 @@ published: true
     <img src="{{ site.baseurl }}/img/Despues-r2.png" alt="copies">
 </a>
 
+<h3> Creación de evento<h3>
 <p>Además, creamos un formulario propio para crear un evento. Estamos de acuerdo con que el typeform ya cumplía con su función y también estamos de acuerdo con que no era muy lógico dedicar tanto tiempo a estas alturas del proyecto a realizar el formulario. Además, nuestros conocimientos de programación backend hacían imposible tener totalmente operativa esta funcionalidad. Resumiendo iba contra los principios agile y seguro que íbamos a malgastar mucho tiempo haciéndolo. Pero, por otra parte, consideramos que estamos en un contexto académico y queríamos aprender, queríamos enfrentarnos al diseño de un formulario distinto y con una gráfica propia, no la que nos daba el typeform.
 </p>
 
 <p>El resultado fue este:</p>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/Resultado-r2.png" alt="Post Sample Image">
+    <img src="{{ site.baseurl }}/img/Resultado-r2.png" alt="formulario crea tu evento">
 </a>
 
+
+<h3> Etiquetas<h3>
 <p> En esta release añadimos una categorización por etiquetas, de momento sin interacción, tan sólo las nombrábamos y las destacamos por registro de color. Este cambio respondía a las necesidades de algunos usuarios a los que les hicimos el text de ux.</p>
 
+<h3> Casuísticas<h3>
 <p>También habíamos previsto diferentes soluciones gráficas en caso de que el evento tuviese el aforo completo. En este caso consideramos oportuno ofrecerle al usuario la posibilidad de apuntarse a una lista en la que, si hubiese alguna vacante, podría acceder al evento.</p>
 
 <a href="#">
@@ -175,6 +179,7 @@ published: true
 
 <p>En general las fichas de los eventos cambiaron bastante, añadimos más espacio, destacamos el contenido de las mismas y a la vez las hicimos más simples y con más espacio. Y siempre con acceso a información acerca del creador y del precio.</p>
 
+<h3> Facilitando información al usuario<h3>
 <p>Durante los test con el primer prototipo observamos que el usuario tenía problemas para saber si había conseguido reservar evento, o como se pagaba éste. Por ello, en la página donde está la ficha del evento, junto al botón de “reservar entrada” añadimos una información que solucionaba este problema:</p>
 
 <a href="#">
