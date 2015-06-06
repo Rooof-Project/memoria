@@ -32,7 +32,7 @@ published: true
 Al comienzo pensamos que el espacio dónde se realizaban los eventos no estaba relacionado con el artista. Ideamos unas relaciones entre usuarios que se encontraban en un lugar ajeno a ambos y donde unos asistirían a un espectáculo mientras que otros mostraban su talento.</p>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/stakeholders-r1.png" alt="Stakeholdes">
+    <img src="{{ site.baseurl }}/img/stakeholders-r1.png" alt="Stakeholders">
 </a>
 
 
@@ -150,6 +150,10 @@ Al comienzo pensamos que el espacio dónde se realizaban los eventos no estaba r
 
 <h2 class="section-heading">Solución tecnológica</h2>
 
-<p>El primer prototipo fue diseñado en illustrator y maquetado con HTML, CSS y un poco de Java Script en elementos como el header.</p>
+<p>El primer prototipo fue diseñado en illustrator y maquetado con HTML, CSS y un poco de Java Script en elementos como el header.</p> 
 
 <p>A la hora de crear el evento recurrimos a un typeform ya que consideramos que no era oportuno invertir tiempo en la creación de un formulario propio. Nos interesaba que lo que nos plateamos en las historias de usuario funcionase con el mínimo esfuerzo posible ya que sabíamos que todo podía cambiar.</p>
+
+<p>El resultado <a href="http://www.ivanbayo.com/rooof/" target="_blank">puede verse online</a>. Como prototipo nos ha servido para sacar mucha información y mejorar la plataforma en futuras releases.</p> 
+
+
