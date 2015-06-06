@@ -62,6 +62,11 @@ Al comienzo pensamos que el espacio dónde se realizaban los eventos no estaba r
 
 
 <h2 class="section-heading">Historias de Usuario</h2>
+<p>Después de ordenar y digerir la información que habíamos recopilado y asimilar los insights encontrados era hora de construír la plataforma.
+</p>
+
+<p>Como objetivo nos propusimos entregar un prototipo funcional en html y css, con las funcionalidades básicas y más importantes según los resultados de nuestra investigación.
+</p>
 
 <p>A partir de este punto generamos un featured map en el que ideamos qué historias de usuarios necesitábamos para este fin. Tras una reunión del equipo surgieron estas.
 </p>
