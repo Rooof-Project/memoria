@@ -66,9 +66,8 @@ published: true
 
 <p> Incluímos una lista de eventos más elaborada que luego nos serviría como página de búsqueda de eventos, y en la landing reservamos un espacio privilegiado para eventos destacados, con el fin de atraer a los usuarios y generar interés.</p>
 
-<a href="http://marvl.in/12afhcg">
+<a href="http://marvl.in/12afhcg" target="_blank">
     <img src="{{ site.baseurl }}/img/wireframe-segunda-release.jpg" alt="wireframe">
-    ![wireframe-segunda-release.jpg]({{site.baseurl}}/img/wireframe-segunda-release.jpg)
 </a>
 
 
