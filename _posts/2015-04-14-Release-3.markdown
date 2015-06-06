@@ -29,9 +29,30 @@ published: true
 <li>8. Saber si los usuarios comprenden cómo se organiza un evento, qué pasa después de que se realice el formulario.</li>
 </ul>
 
-<p>What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.</p>
+<h3>Observaciones y análisis del test</h3>
+<p>Tras la realización del test nos dimos cuenta tanto de cosas positivas y cosas negativas respecto al prototipo presentado, no todos los objetivos que presentamos se lograron de manera satisfactoria, y esto nos llevo a analizar los resultados para corregir y mejorar la plataforma.</p>
 
-<p>A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.</p>
+<p><strong>Al ver los resultados del test, no encontramos con lo siguiente:</strong></p>
+<p>
+<ul>
+<li>Objetivos Conseguidos:</li>
+	<ul>
+	<li> Se logro dar a entender con claridad de que va la pagina.</li>
+
+	<li> Logran identificar de manera sencilla que hay varios tipos de eventos diferenciados por temáticas.</li>
+
+	<li> Encuentran la manera de contactar con la plataforma.</li>
+    </ul>
+
+<li>Objetivos No Conseguidos:</li>
+
+	<li> No comprenden como funciona el proceso de creación  y de reserva de eventos. (Falta claridad)</li>
+	
+	<li> Crean una cuenta sin problemas pero se entorpece el proceso de reserva.</li> 
+
+	<li> No se enteran muy bien que el proceso de reserva y de creación ha finalizado..</li>
+ </ul>
+ </ul>
 
 <p>For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.</p>
 
