@@ -8,23 +8,24 @@ published: true
 
 
 
+
 <h2 class="section-heading">Design Thinking e Investigación</h2>
 
 <p>Una vez recibido el primer brief para la plataforma usamos varias herramientas de design thinking para generar ideas y buscar un camino para darle forma a nuestra propuesta.</p>
 
 <p>En este momento no teníamos claro como íbamos a abordar el proyecto. Empezamos a trabajar realizando mapas mentales, moodboards, mapas stakeholders, escenarios y definiendo a las personas que serían los protagonistas de nuestra plataforma y como serían los user journeys de los usuarios.</p>
 
-<p>Hemos aplicado Design Thinking centrándonos en tres aspectos: Los usuarios, la creatividad y la iteración. Cuando hablamos de usuarios nos referimos a que estamos siempre centrados en ellos e, incluso a veces, co-creando juntos. Cuando hablamos de Creatividad nos referimos a las diferentes herramientas y procesos que generan nuevas soluciones, como por ejemplo, la clasificación de insights a través de las entrevistas. Por último, con iteración nos referimos a descubrir y aprender haciendo; desarrollar para entender dónde vas.</p>
+<p>Hemos aplicado Design Thinking centrándonos en tres aspectos: <strong>Los usuarios, la creatividad y la iteración</strong>. Cuando hablamos de usuarios nos referimos a que estamos siempre centrados en ellos e, incluso a veces, co-creando juntos. Cuando hablamos de Creatividad nos referimos a las diferentes herramientas y procesos que generan nuevas soluciones, como por ejemplo, la clasificación de insights a través de las entrevistas. Por último, con iteración nos referimos a descubrir y aprender haciendo; desarrollar para entender dónde vas.</p>
 
 <p>A través del primer mapa mental nos percatamos de que el ámbito "cultura" es bastante extenso: va desde representaciones artísticas hasta sentimientos genuinos de un área geográfica, desde un concierto de música a una lengua o la gastronomía pasando por la literatura y el teatro.</p>
 
-<p>Nuestra idea era abarcar todos los ámbitos posibles, para nosotros hay tantos tipos de eventos como tipo de creadores. La cultura es una singularidad humana cuyas tipologías, en su totalidad, tienen cabida en ROOOF..</p>
+<p>Nuestra idea era abarcar todos los ámbitos posibles, para nosotros hay tantos tipos de eventos como tipo de creadores. La cultura es una singularidad humana cuyas tipologías, en su totalidad, tienen cabida en ROOOF.</p>
 
-<p>Gracias al mood board comprendimos, casi por casualidad, la necesidad de las personas por mostrar su talento, lo consideramos una especie de carácterística intrínseca, otra forma más que tiene el ser humano de sentirse querido. Además, también intuimos que esta acción se daba en grupo.</p>
+<p>Gracias al <strong>mood board</strong> comprendimos, casi por casualidad, la necesidad de las personas por mostrar su talento, lo consideramos una especie de carácterística intrínseca, otra forma más que tiene el ser humano de sentirse querido. Además, también intuimos que esta acción se daba en grupo.</p>
 
 <a href="#">
     <img src="{{ site.baseurl }}/img/Mood-Board.jpg" alt="Mood Board">
-</a>
+</a>![]({{site.baseurl}}/img/Mood-Board.jpg)
 
 <p>Al comienzo pensamos que el espacio dónde se realizaban los eventos no estaba relacionado con el artista. Ideamos unas relaciones entre usuarios que se encontraban en un lugar ajeno a ambos y donde unos asistirían a un espectáculo mientras que otros mostraban su talento.</p>
 
