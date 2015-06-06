@@ -50,7 +50,7 @@ published: true
 
 <h2 class="section-heading">Objetivo de la release</h2>
 
-<p>Nos habían comunicado que iríamos a un laboratirio a hacer test de usuarios, nos pareció una buena oportinudad que debíamos aprobechar al máxima. Hasta ahora habíamos hecho muchos test de guerrilla, y algunos más cualitativos con amigos, pero no habíamos hecho una planificación más detallada de las pruebas. Nos propusimos tener finalizado el prototipo para testearlo en el laboratio.</p>
+<p>Nos habían comunicado que iríamos a un laboratorio a hacer test de usuarios, y nos pareció una buena oportunidad que debíamos aprobechar al máximo. Hasta ahora habíamos hecho muchos test de guerrilla, y algunos más cualitativos con amigos, pero no habíamos hecho una planificación más detallada de las pruebas. Nos propusimos tener finalizado el prototipo para testearlo en el laboratio. Esta vez haríamos guión para las pruebas y pensaríamos mas detalladamente que funcionalidades queremos probar.</p>
 
 <h2 class="section-heading">Workflow</h2>
 
