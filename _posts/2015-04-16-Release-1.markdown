@@ -60,7 +60,8 @@ Al comienzo pensamos que el espacio dónde se realizaban los eventos no estaba r
 
 <a href="#">
     <img src="{{ site.baseurl }}/img/pepe-daniela.jpg" alt="Pepe y Daniela">
-</a>
+</a>![pepe-daniela.jpg]({{site.baseurl}}/img/pepe-daniela.jpg)
+
 
 
 <h2 class="section-heading">Historias de Usuario</h2>
