@@ -62,10 +62,9 @@ published: true
 <p>Nos planteamos añadir nuevas secciones: ¿qué es rooof?, y dar más protagonismo a la lista de eventos.</p>
 
 
-<h2 class="section-heading">Wireframes y propuestas de diseño</h2>
+<h2 class="section-heading">Wireframes</h2>
 
-
-<p>El porqué de este wireframe era: testear lo que sería la nueva distribución de la página, y ver si el registro de usuario iba por buen camino.</p>
+<p>El porqué de este wireframe era testear lo que sería la nueva distribución de la página, y ver si el registro de usuario iba por buen camino.</p>
 
 <p>Ya en el wireframe se percibe nuestra intención de que quede muy claro “que es Rooof”. Incluso sustituimos el principal call to action de la landing que había anteriormente (el que te mostraba la lista de eventos).</p>
 
