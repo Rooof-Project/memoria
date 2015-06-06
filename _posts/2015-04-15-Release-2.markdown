@@ -169,7 +169,7 @@ published: true
 <p>El resultado fue este:</p>
 
 <a href="http://marvl.in/3fij9c" target="_blank">
-    <img src="{{ site.baseurl }}/img/Resultado-r2.png" alt="formulario crea tu evento">
+    <img src="{{ site.baseurl }}/img/crea-evento-form.jpg" alt="formulario crea tu evento">
 </a>
 
 <h2 class="section-heading">Reserva del evento</h2>
