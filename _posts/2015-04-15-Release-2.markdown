@@ -56,9 +56,9 @@ published: true
 
 <p>De nuevo necesitábamos un camino a seguir. El rediseño de la página, añadir las nuevas historias de usuarios y corregir las que ya teníamos suponía una gran tarea. Necesitábamos un esqueleto que nos mostrase qué podía hacer el usuario en cada lugar en el que se encontraba. Necesitábamos un mapa para no perdernos en el diseño, un mapa que se hizo mucho más complejo de lo que pensábamos al añadir la funcionalidad de registro/login de usuario.</p>
 
-<a href="#">
-    <img src="{{ site.baseurl }}/img/workflow-r2.jpg" alt="Post Sample Image">
-</a>
+
+<img src="{{ site.baseurl }}/img/workflow-r2.jpg" alt="workflow">
+
 
 <h2 class="section-heading">Wireframes y propuestas de diseño</h2>
 
@@ -68,8 +68,9 @@ published: true
 <p>Probamos con ilustraciones en vez de fotografía. Pero los dibujos nos alejaban del universo humano, cálido y real que transmitían las imágenes fotográficas.
 </p>
 
-<a href="https://marvelapp.com/2bhfid#2451222">
-    <img src="{{ site.baseurl }}/img/propuesta-r2.jpg" alt="Post Sample Image">
+<a href="https://marvelapp.com/2bhfid#2451222" target="_blank">
+    <img src="{{ site.baseurl }}/img/propuesta-r2.jpg" alt="layout">![propuesta-r2.jpg]({{site.baseurl}}/img/propuesta-r2.jpg)
+
 </a>
 
 
