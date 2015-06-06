@@ -197,20 +197,28 @@ published: true
 
 <p>Respecto a esta acción de reservar entrada siempre nos han hecho una pregunta:</p>
 
-<p>¿Porque +2 voy con un amigo y no +20 ?. Para responder a esta pregunta tenemos que hacerlo desde dos puntos de vista:</p>
+<p>¿Porque +2 voy con un amigo y no +20?. Para responder a esta pregunta tenemos que hacerlo desde dos puntos de vista:</p>
 
 <ul>
 	<li>Por el usuario creador: A través de las entrevistas con los usuarios entendemos que el creador del evento realiza un esfuerzo para preparar su espectáculo. Dedica tiempo a ensayar y deja de hacer otras cosas para que el día señalado su público vaya a su casa. Además, su casa no es un escenario donde haya un gran aforo. Por ello, si algún usuario pudiese reservar 20 plazas y , por cualquier motivo, no pudiese ir, el creador del evento se vería frustrado en su casa y sin público.</li>
     <li>2 Por la plataforma: Si el usuario que va a disfrutar del evento quiere ir con más amigos es necesario que estos se registren, tener más usuarios registrados es positivo para la plataforma.</li>
 </ul>
 
-<p>Ya por último, también diseñamos un mail de confirmación para generar en el usuario sensación de seguridad en el acto de reservar. Por ello incluimos una simpática imagen de un ticket a modo “tienes tu entrada en el mail” .</p>
+<h3> Mail al usuario</h3>
 
-<a href="#">
-    <img src="{{ site.baseurl }}/img/enhora-r2.jpg" alt="Post Sample Image">
-</a>
+<p>Ya por último, también diseñamos un mail para confirmar al usuario que la reserva se había realizado y para generar en el usuario sensación de seguridad tras la reserva. Por ello incluimos una simpática imagen de un ticket a modo “tienes tu entrada en el mail”. En el mail también explicamos como se realiza el pago y información acerca del evento.</p>
+
+
+<img src="{{ site.baseurl }}/img/mail.jpg" alt="Post Sample Image">
+
+<h2 class="section-heading">Login de usuario</h2>
+
+<p>Nos planteamos la historia de "crear perfil de usuario", pero lo cierto es que ni por asomo llegamos a realizarlo. Lo único que podías hacer como usuario era loguearte, pero no creabas tu perfil. Esto, pese a ser contradictorio y totalmente irreal, lo iríamos mejorando en las siguiente releases, y también nos resultaba válido para hacer un primer testeo con los usuarios, y para ver como respondían a los perfiles ficticios que fuimos creando.</p>
 
 <h2 class="section-heading">Prototipo testeable</h2>
 
+El prototipo con el qué fuimos al laboratorío es <a href="http://rooof-project.github.io/rooof-html/" target="_blank">éste</a>. Aunque ya subido con algunas correcciones que hicimos posteriormente.
 
-<p>La jerarquía de este header cambiará en las siguientes releases. En esta estábamos tan ofuscados por que algunos usuarios no llegaban  a entender que ofrecíamos que priorizamos en muchos sentidos esta información cuando en realidad, teníamos que facilitar el acceso a los eventos. En esta release aprendimos a tener en cuenta la opinión de los usuarios y no obsesionarnos con su opinión sino usarla como es debido, con mesura.</p>
+Para hacer el prototipo continuamos usando html y css, cambiando los estilos que ya teníamos e incorporando nuevos.
+
+<p>Algunos de los cambios propuestos para esta release seguirán cambiando en las siguientes. En esta estábamos tan ofuscados por que algunos usuarios no llegaban  a entender que ofrecíamos que priorizamos en muchos sentidos información errónea, dando prioridad a qué es ROOOF cuando en realidad, teníamos que facilitar el acceso a los eventos. En esta release aprendimos a tener en cuenta la opinión de los usuarios y no obsesionarnos con su opinión sino usarla como es debido, con mesura.</p>
