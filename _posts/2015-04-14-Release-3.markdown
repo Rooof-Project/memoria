@@ -45,12 +45,12 @@ published: true
     </ul>
 
 <li>Objetivos No Conseguidos:</li>
-
-	<li> No comprenden como funciona el proceso de creación  y de reserva de eventos. (Falta claridad)</li>
+<ul>
+<li> No comprenden como funciona el proceso de creación  y de reserva de eventos. (Falta claridad)</li>
 	
-	<li> Crean una cuenta sin problemas pero se entorpece el proceso de reserva.</li> 
+<li> Crean una cuenta sin problemas pero se entorpece el proceso de reserva.</li> 
 
-	<li> No se enteran muy bien que el proceso de reserva y de creación ha finalizado..</li>
+<li> No se enteran muy bien que el proceso de reserva y de creación ha finalizado..</li>
  </ul>
  </ul>
 
