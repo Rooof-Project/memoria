@@ -155,24 +155,26 @@ published: true
     <img src="{{ site.baseurl }}/img/Despues-r2.png" alt="copies">
 </a>
 
-<p>Además haríamos los copies más directos y claros. Los usuarios no sabían que los eventos eran en casas particulares y debíamos poner remedio. La frase del header, la que comunica qué es ROOOF, la cambiamos varias veces. Al final testeamos el prototiopo con esta:
+<p>Además haríamos los copies más directos y claros. Los usuarios no sabían que los eventos eran en casas particulares y debíamos poner remedio. La frase del header, la que comunica qué es ROOOF, la cambiamos varias veces. Al final la que mejor funcionó fué esta:
 
 <blockquote>"Conciertos, teatro y gastronomía en casas de Barcelona" </blockquote></p>
 
 <h2 class="section-heading">Creación del evento</h2>
 
-<p>Además, creamos un formulario propio para crear un evento. Estamos de acuerdo con que el typeform ya cumplía con su función y también estamos de acuerdo con que no era muy lógico dedicar tanto tiempo a estas alturas del proyecto a realizar el formulario. Además, nuestros conocimientos de programación backend hacían imposible tener totalmente operativa esta funcionalidad. Resumiendo iba contra los principios agile y seguro que íbamos a malgastar mucho tiempo haciéndolo. Pero, por otra parte, consideramos que estamos en un contexto académico y queríamos aprender, queríamos enfrentarnos al diseño de un formulario distinto y con una gráfica propia, no la que nos daba el typeform.
+<p> El formulario para crear evento lo habíamos planteado a través de un typeform, y pese a que nos aportaba funcionalidad, se presentaban algunos problemas: el primero era que salias de la propia plataforma: otra gráfica y otra comunicación a nivel visual. También los usuarios se frustraban bastante, no sabían que información debian poner en cada caso. </p>
+
+<p>Decidimos crear un formulario propio para crear un evento. Estamos de acuerdo con que el typeform ya cumplía en parte con su función y también estamos de acuerdo con que no era muy lógico dedicar tanto tiempo a estas alturas del proyecto a realizar el formulario. Además, nuestros conocimientos de programación backend hacían imposible tener totalmente operativa esta funcionalidad. Resumiendo iba contra los principios agile y seguro que íbamos a malgastar mucho tiempo haciéndolo. Pero, por otra parte, consideramos que estamos en un contexto académico y queríamos aprender, queríamos enfrentarnos al diseño de un formulario distinto y con una gráfica propia, no la que nos daba el typeform.
 </p>
 
 <p>El resultado fue este:</p>
 
-<a href="#">
+<a href="http://marvl.in/3fij9c" target="_blank">
     <img src="{{ site.baseurl }}/img/Resultado-r2.png" alt="formulario crea tu evento">
 </a>
 
-
+<h2 class="section-heading">Reserva del evento</h2>
 <h3> Etiquetas</h3>
-<p> En esta release añadimos una categorización por etiquetas, de momento sin interacción, tan sólo las nombrábamos y las destacamos por registro de color. Este cambio respondía a las necesidades de algunos usuarios a los que les hicimos el text de ux.</p>
+<p> En esta release añadimos una categorización por etiquetas, de momento sin interacción, tan sólo las nombrábamos y las destacamos por registro de color. Este cambio respondía a las necesidades de algunos usuarios a los que les hicimos el text de ux. Y con ello aportábamos un filtro visual por categorías, necesario para muchos usuarios.</p>
 
 <h3> Casuísticas</h3>
 <p>También habíamos previsto diferentes soluciones gráficas en caso de que el evento tuviese el aforo completo. En este caso consideramos oportuno ofrecerle al usuario la posibilidad de apuntarse a una lista en la que, si hubiese alguna vacante, podría acceder al evento.</p>
@@ -184,11 +186,13 @@ published: true
 <p>En general las fichas de los eventos cambiaron bastante, añadimos más espacio, destacamos el contenido de las mismas y a la vez las hicimos más simples y con más espacio. Y siempre con acceso a información acerca del creador y del precio.</p>
 
 <h3> Facilitando información al usuario</h3>
-<p>Durante los test con el primer prototipo observamos que el usuario tenía problemas para saber si había conseguido reservar evento, o como se pagaba éste. Por ello, en la página donde está la ficha del evento, junto al botón de “reservar entrada” añadimos una información que solucionaba este problema:</p>
+<p>Durante los test con el primer prototipo observamos que el usuario tenía problemas para saber si había conseguido reservar evento, o como se pagaba éste. Por ello, en la página donde está la ficha del evento, junto al botón de “reservar entrada” añadimos una información intentando solucionar este problema:</p>
 
 <a href="#">
     <img src="{{ site.baseurl }}/img/durante-r2.png" alt="Post Sample Image">
 </a>
+
+<p>Más tarde nos daríamos cuenta de que no funcionaría del todo, y que la solución era bastante ineficaz.</p>
 
 <p>Respecto a esta acción de reservar entrada siempre nos han hecho una pregunta:</p>
 
