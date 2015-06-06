@@ -81,9 +81,9 @@ Al comienzo pensamos que el espacio dónde se realizaban los eventos no estaba r
 
 <p>También creamos un Workflow que nos daría un esqueleto a nivel de flujo de navegación de que caminos podían seguir ambos usuarios en la plataforma.</p>
 
-<a href="#">
-    <img src="{{ site.baseurl }}/img/workflow-r1.jpg" alt="Post Sample Image">
-</a>
+
+<img src="{{ site.baseurl }}/img/workflow-r1.jpg" alt="Post Sample Image">
+
 
 <h2 class="section-heading">Wireframes y primeros test</h2>
 
@@ -105,9 +105,9 @@ Al comienzo pensamos que el espacio dónde se realizaban los eventos no estaba r
 
 <p>Por otra parte, la Pt serif, sería la encarga de rellenar nuestros cuerpos de texto. Su condición es más adecuada para ser leía en largos párrafos y nos da un toque de distinción más elevado en los contenidos.</p>
 
-<a href="#">
-    <img src="{{ site.baseurl }}/img/typo.jpg" alt="tipografia">
-</a>
+
+<img src="{{ site.baseurl }}/img/typo.jpg" alt="tipografia">
+
 
 <p>A su vez, en éste primer toque de contacto con la apariencia visual de la página, establecimos otra serie de estándares que luego cambiaron como el color, el uso de textos sobre imágenes, el logotipo y los botones.</p>
 
