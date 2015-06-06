@@ -195,21 +195,7 @@ published: true
     <img src="{{ site.baseurl }}/img/enhora-r2.jpg" alt="Post Sample Image">
 </a>
 
-<h2 class="section-heading">Arquitectura de la información</h2>
+<h2 class="section-heading">Prototipo testeable</h2>
 
-<p>Header: como elemento que permanece en todas las páginas, el header consta de los siguientes elementos:</p>
-
-<ul>
-	<li>Logotipo: que siempre te dirige a la home.</li>
-    <li>¿Qué es rooof?: te conduce a la página que explica la plataforma. En esta página también comunicamos cómo asistir a un evento y la posibilidad de hacerte creador de en evento.</li>
-    <li>Busca un evento: te lleva a la lista de eventos y te sugiere hacerte creador. Al pulsar en algún evento mostramos al usuario información detallada y necesaria acerca del contenido del evento, de los datos necesarios para acudir a él (fecha hora etc…)  y además añadimos información acerca del creador del evento.
-</li>
-    <li>-Crea tu evento: muestra las bondades de crear un evento en rooof y testimonios de personas que para generar confianza.</li>
-    <li>Inicia sesión/ Registro: para acceder a tu cuenta.</li>
-</ul>
-
-<a href="#">
-    <img src="{{ site.baseurl }}/img/Arqui-r2.png" alt="Post Sample Image">
-</a>
 
 <p>La jerarquía de este header cambiará en las siguientes releases. En esta estábamos tan ofuscados por que algunos usuarios no llegaban  a entender que ofrecíamos que priorizamos en muchos sentidos esta información cuando en realidad, teníamos que facilitar el acceso a los eventos. En esta release aprendimos a tener en cuenta la opinión de los usuarios y no obsesionarnos con su opinión sino usarla como es debido, con mesura.</p>
