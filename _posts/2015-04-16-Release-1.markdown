@@ -58,10 +58,6 @@ Al comienzo pensamos que el espacio dónde se realizaban los eventos no estaba r
 
 <p>Estas necesidades de ambos es lo que nos marcó el camino para desarrollar el <strong>primer Producto Mínimo Viable</strong>. Un primer prototipo un tanto tosco en diseño pero que respondía a 2 premisas básicas para el funcionamiento de la plataforma: crear y reservar un evento. Posteriormente, dentro de esta release, nos pareció oportuno añadir un apartado de “que es” con el fin de asegurarnos que quedaba claro de qué trataba la página.</p>
 
-<a href="#">
-    <img src="{{ site.baseurl }}/img/pepe-daniela.jpg" alt="Pepe y Daniela">
-</a>![pepe-daniela.jpg]({{site.baseurl}}/img/pepe-daniela.jpg)
-
 
 
 <h2 class="section-heading">Historias de Usuario</h2>
@@ -90,7 +86,7 @@ Al comienzo pensamos que el espacio dónde se realizaban los eventos no estaba r
 
 <h2 class="section-heading">Wireframes y primeros test</h2>
 
-<p>Una vez asentados estas dos tareas (historia de usuarios y workflow) ya podíamos comenzar a realizar wireframes y testearlo con usuarios para asegurarnos de que no daban lugar a confusión. Es preferible detectar si todo funciona correctamente en este punto antes de comenzar a diseñar y a invertir el tiempo para no generar "waste".</p>
+<p>Una vez hechas estas dos tareas (historia de usuarios y workflow) ya podíamos comenzar a realizar wireframes y testearlo con usuarios para asegurarnos de que no daban lugar a confusión. Es preferible detectar si todo funciona correctamente en este punto antes de comenzar a diseñar y a invertir el tiempo para no generar "waste".</p>
 
 <p>En esta ocasión probamos el wireframe en 10 usuarios. Hicimos un test de guerrilla con el ipad en la cafetería de la escuela y con nuestro amigos. Consideramos que aún la plataforma era muy sencilla y no eran necesarios test más exaustivos, los cuales los realizamos más adelante cuando la arquitectura y el diseño fuesen más completos.</p>
 
