@@ -27,7 +27,9 @@ published: true
     <img src="{{ site.baseurl }}/img/Mood-Board.jpg" alt="Mood Board">
 </a>
 
-<p>Al comienzo pensamos que el espacio dónde se realizaban los eventos no estaba relacionado con el artista. Ideamos unas relaciones entre usuarios que se encontraban en un lugar ajeno a ambos y donde unos asistirían a un espectáculo mientras que otros mostraban su talento.</p>
+<h2 class="section-heading">Stake Holders</h2>
+<p>Empezamos a definir quiénes serían los implicados en la plataforma.
+Al comienzo pensamos que el espacio dónde se realizaban los eventos no estaba relacionado con el artista. Ideamos unas relaciones entre usuarios que se encontraban en un lugar ajeno a ambos y donde unos asistirían a un espectáculo mientras que otros mostraban su talento.</p>
 
 <a href="#">
     <img src="{{ site.baseurl }}/img/stakeholders-r1.png" alt="Stakeholdes">
@@ -38,30 +40,30 @@ published: true
 
 <p>Tras estas primeras aproximaciones comenzamos a realizar entrevistas a nuestros amigos y conocidos. En este momento eran entrevistas un tanto ingenuas donde preguntábamos aspectos relacionadas con la plataforma y con el uso en rasgos generales de internet y otros medios de comunicación.</p>
 
-<p>Uno de los insights que más nos sorprendió es que la mayoría daba mucha importancia al contenido de los eventos, poniéndolo incluso por encima del precio o de la proximidad del mismo. También surgió como elemento importante la preferencia por eventos íntimos por encima de los masificados.</p>
+<p>Uno de los <strong>insights</strong> que más nos sorprendió es que la mayoría daba mucha importancia al contenido de los eventos, poniéndolo incluso por encima del precio o de la proximidad del mismo. También surgió como elemento importante la preferencia por eventos íntimos por encima de los masificados.</p>
 
 <p>Uno de los problemas que detectamos es la notable negativa por parte de los entrevistados a ofrecer su casa como lugar del evento. Somos conscientes de que esto puede ser uno de los mayores problemas a la hora hacer nuestra plataforma un proyecto real. Por otra parte, pensamos que nuestra idea no es tan descabellada ya que existen otras webs, como airbnb, donde desconocidos duermen bajo el mismo techo.</p>
 
-<p>En cuanto a los creadores del evento descubrimos que necesitaban ciertas funcionalidades que les hiciese sentir seguros y afines a la plataforma: deben poder decidir el lugar, la fecha, la hora el número de asistentes, el precio. Los creadores tenían que ser los usuarios "mimados", ofrecen su casa e invierten tiempo y preparación para realizar el evento. Pero no podíamos olvidar a los asistentes los cuales son mayor en número. Nos empezamos a percatar de que teníamos una posible complicación: tenemos dos tipos de usuarios muy distintos con diferentes necesidades y motivaciones. Teníamos que resolver las necesidades de cada uno y generar experiencias para ambos al mismo tiempo y a veces por separado.</p>
+<p>En cuanto a los creadores del evento descubrimos que necesitaban ciertas funcionalidades que les hiciese sentir seguros y afines a la plataforma: deben poder decidir el lugar, la fecha, la hora el número de asistentes, el precio. Los creadores tenían que ser los usuarios "mimados", ofrecen su casa e invierten tiempo y preparación para realizar el evento. Pero no podíamos olvidar a los asistentes los cuales son mayor en número. Nos empezamos a percatar de que teníamos una posible complicación: tenemos dos tipos de usuarios muy distintos con diferentes necesidades y motivaciones. Teníamos que <strong>resolver las necesidades</strong> de cada uno y generar experiencias para ambos al mismo tiempo y a veces por separado.</p>
 
 <p>Estas primeras entrevistas también nos sirvieron para dejar de un lado nuestra ingeniudad y buscar una forma más eficaz de sacar información de valor al entrevistado mediante el uso de preguntas más elaboradas.</p>
 
-<p>A continuación, tras las entrevistas, desarrollamos unas "personas" para tener siempre presentes a que tipo de usuario nos dirigíamos, sus necesidades, motivaciones, historia, comportamiento y funcionalidades que podrían necesitar.</p>
+<p>A continuación, tras las entrevistas, desarrollamos unas <strong>"personas"</strong> para tener siempre presentes a que tipo de usuario nos dirigíamos, sus necesidades, motivaciones, historia, comportamiento y funcionalidades que podrían necesitar.</p>
 
 <h2 class="section-heading">Personas</h2>
 
-<p>Lo vimos claro, en nuestra plataforma había dos tipos de usuarios: los creadores de eventos y los asistentes.</p>
+<p>Lo vimos claro, en nuestra plataforma había dos tipos de usuarios:<strong> los creadores de eventos y los asistentes.</strong></p>
 
 <p>En un principio tan sólo observamos dos funcionalidades para cada uno. Pepe necesitaba un filtrador de eventos y un asistente de reserva. Por otro lado, Daniela, necesitaba crear un evento y categorizarlo.</p>
 
-<p>Estas necesidades de ambos es lo que nos marcó el camino para desarrollar el primer "Producto Mínimo Viable". Un primer prototipo un tanto tosco en diseño pero que respondía a 2 premisas básicas para el funcionamiento de la plataforma: crear y reservar un evento. Posteriormente, dentro de esta release, nos pareció oportuno añadir un apartado de “que es” con el fin de asegurarnos que quedaba claro de qué trataba la página.</p>
+<p>Estas necesidades de ambos es lo que nos marcó el camino para desarrollar el <strong>primer Producto Mínimo Viable</strong>. Un primer prototipo un tanto tosco en diseño pero que respondía a 2 premisas básicas para el funcionamiento de la plataforma: crear y reservar un evento. Posteriormente, dentro de esta release, nos pareció oportuno añadir un apartado de “que es” con el fin de asegurarnos que quedaba claro de qué trataba la página.</p>
 
 <a href="#">
     <img src="{{ site.baseurl }}/img/pepe-daniela.jpg" alt="Pepe y Daniela">
 </a>
 
 
-<h2 class="section-heading">Historias de Usuario release 1</h2>
+<h2 class="section-heading">Historias de Usuario</h2>
 
 <p>A partir de este punto generamos un featured map en el que ideamos qué historias de usuarios necesitábamos para este fin. Tras una reunión del equipo surgieron estas.
 </p>
