@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:  Tercera Release
-subtitle:   "Y nuestros problemas con las iteraciones."
+subtitle:   "Nunca es tarde para la versión multidisposivo."
 header-img: "img/post-bg-05.jpg"
 ---
 

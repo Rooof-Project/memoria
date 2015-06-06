@@ -5,8 +5,8 @@
     <description>ROOOF Memoria proyecto final</description>
     <link>http://rooof-project.github.io/memoria/</link>
     <atom:link href="http://rooof-project.github.io/memoria/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 05 Jun 2015 18:45:39 +0200</pubDate>
-    <lastBuildDate>Fri, 05 Jun 2015 18:45:39 +0200</lastBuildDate>
+    <pubDate>Sat, 06 Jun 2015 17:16:17 +0200</pubDate>
+    <lastBuildDate>Sat, 06 Jun 2015 17:16:17 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -171,51 +171,52 @@
 
 &lt;p&gt;En este momento no teníamos claro como íbamos a abordar el proyecto. Empezamos a trabajar realizando mapas mentales, moodboards, mapas stakeholders, escenarios y definiendo a las personas que serían los protagonistas de nuestra plataforma y como serían los user journeys de los usuarios.&lt;/p&gt;
 
-&lt;p&gt;Hemos aplicado Design Thinking centrándonos en tres aspectos: Los usuarios, la creatividad y la iteración. Cuando hablamos de usuarios nos referimos a que estamos siempre centrados en ellos e, incluso a veces, co-creando juntos. Cuando hablamos de Creatividad nos referimos a las diferentes herramientas y procesos que generan nuevas soluciones, como por ejemplo, la clasificación de insights a través de las entrevistas. Por último, con iteración nos referimos a descubrir y aprender haciendo; desarrollar para entender dónde vas.&lt;/p&gt;
+&lt;p&gt;Hemos aplicado Design Thinking centrándonos en tres aspectos: &lt;strong&gt;Los usuarios, la creatividad y la iteración&lt;/strong&gt;. Cuando hablamos de usuarios nos referimos a que estamos siempre centrados en ellos e, incluso a veces, co-creando juntos. Cuando hablamos de Creatividad nos referimos a las diferentes herramientas y procesos que generan nuevas soluciones, como por ejemplo, la clasificación de insights a través de las entrevistas. Por último, con iteración nos referimos a descubrir y aprender haciendo; desarrollar para entender dónde vas.&lt;/p&gt;
 
 &lt;p&gt;A través del primer mapa mental nos percatamos de que el ámbito &quot;cultura&quot; es bastante extenso: va desde representaciones artísticas hasta sentimientos genuinos de un área geográfica, desde un concierto de música a una lengua o la gastronomía pasando por la literatura y el teatro.&lt;/p&gt;
 
-&lt;p&gt;Nuestra idea era abarcar todos los ámbitos posibles, para nosotros hay tantos tipos de eventos como tipo de creadores. La cultura es una singularidad humana cuyas tipologías, en su totalidad, tienen cabida en ROOOF..&lt;/p&gt;
+&lt;p&gt;Nuestra idea era abarcar todos los ámbitos posibles, para nosotros hay tantos tipos de eventos como tipo de creadores. La cultura es una singularidad humana cuyas tipologías, en su totalidad, tienen cabida en ROOOF.&lt;/p&gt;
 
-&lt;p&gt;Gracias al mood board comprendimos, casi por casualidad, la necesidad de las personas por mostrar su talento, lo consideramos una especie de carácterística intrínseca, otra forma más que tiene el ser humano de sentirse querido. Además, también intuimos que esta acción se daba en grupo.&lt;/p&gt;
+&lt;p&gt;Gracias al &lt;strong&gt;mood board&lt;/strong&gt; comprendimos, casi por casualidad, la necesidad de las personas por mostrar su talento, lo consideramos una especie de carácterística intrínseca, otra forma más que tiene el ser humano de sentirse querido. Además, también intuimos que esta acción se daba en grupo.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/memoria/img/Mood-Board.jpg&quot; alt=&quot;Mood Board&quot; /&gt;
-&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/memoria/img/Mood-Board.jpg&quot; alt=&quot;Mood Board&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Al comienzo pensamos que el espacio dónde se realizaban los eventos no estaba relacionado con el artista. Ideamos unas relaciones entre usuarios que se encontraban en un lugar ajeno a ambos y donde unos asistirían a un espectáculo mientras que otros mostraban su talento.&lt;/p&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;Stakeholders&lt;/h2&gt;
+&lt;p&gt;Empezamos a definir quiénes serían los implicados en la plataforma.
+Al comienzo pensamos que el espacio dónde se realizaban los eventos no estaba relacionado con el artista. Ideamos unas relaciones entre usuarios que se encontraban en un lugar ajeno a ambos y donde unos asistirían a un espectáculo mientras que otros mostraban su talento.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/memoria/img/stakeholders-r1.png&quot; alt=&quot;Stakeholdes&quot; /&gt;
-&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/memoria/img/stakeholders-r1.png&quot; alt=&quot;Stakeholders&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 class=&quot;section-heading&quot;&gt;Entrevistas&lt;/h2&gt;
 
 &lt;p&gt;Tras estas primeras aproximaciones comenzamos a realizar entrevistas a nuestros amigos y conocidos. En este momento eran entrevistas un tanto ingenuas donde preguntábamos aspectos relacionadas con la plataforma y con el uso en rasgos generales de internet y otros medios de comunicación.&lt;/p&gt;
 
-&lt;p&gt;Uno de los insights que más nos sorprendió es que la mayoría daba mucha importancia al contenido de los eventos, poniéndolo incluso por encima del precio o de la proximidad del mismo. También surgió como elemento importante la preferencia por eventos íntimos por encima de los masificados.&lt;/p&gt;
+&lt;p&gt;Uno de los &lt;strong&gt;insights&lt;/strong&gt; que más nos sorprendió es que la mayoría daba mucha importancia al contenido de los eventos, poniéndolo incluso por encima del precio o de la proximidad del mismo. También surgió como elemento importante la preferencia por eventos íntimos por encima de los masificados.&lt;/p&gt;
 
 &lt;p&gt;Uno de los problemas que detectamos es la notable negativa por parte de los entrevistados a ofrecer su casa como lugar del evento. Somos conscientes de que esto puede ser uno de los mayores problemas a la hora hacer nuestra plataforma un proyecto real. Por otra parte, pensamos que nuestra idea no es tan descabellada ya que existen otras webs, como airbnb, donde desconocidos duermen bajo el mismo techo.&lt;/p&gt;
 
-&lt;p&gt;En cuanto a los creadores del evento descubrimos que necesitaban ciertas funcionalidades que les hiciese sentir seguros y afines a la plataforma: deben poder decidir el lugar, la fecha, la hora el número de asistentes, el precio. Los creadores tenían que ser los usuarios &quot;mimados&quot;, ofrecen su casa e invierten tiempo y preparación para realizar el evento. Pero no podíamos olvidar a los asistentes los cuales son mayor en número. Nos empezamos a percatar de que teníamos una posible complicación: tenemos dos tipos de usuarios muy distintos con diferentes necesidades y motivaciones. Teníamos que resolver las necesidades de cada uno y generar experiencias para ambos al mismo tiempo y a veces por separado.&lt;/p&gt;
+&lt;p&gt;En cuanto a los creadores del evento descubrimos que necesitaban ciertas funcionalidades que les hiciese sentir seguros y afines a la plataforma: deben poder decidir el lugar, la fecha, la hora el número de asistentes, el precio. Los creadores tenían que ser los usuarios &quot;mimados&quot;, ofrecen su casa e invierten tiempo y preparación para realizar el evento. Pero no podíamos olvidar a los asistentes los cuales son mayor en número. Nos empezamos a percatar de que teníamos una posible complicación: tenemos dos tipos de usuarios muy distintos con diferentes necesidades y motivaciones. Teníamos que &lt;strong&gt;resolver las necesidades&lt;/strong&gt; de cada uno y generar experiencias para ambos al mismo tiempo y a veces por separado.&lt;/p&gt;
 
 &lt;p&gt;Estas primeras entrevistas también nos sirvieron para dejar de un lado nuestra ingeniudad y buscar una forma más eficaz de sacar información de valor al entrevistado mediante el uso de preguntas más elaboradas.&lt;/p&gt;
 
-&lt;p&gt;A continuación, tras las entrevistas, desarrollamos unas &quot;personas&quot; para tener siempre presentes a que tipo de usuario nos dirigíamos, sus necesidades, motivaciones, historia, comportamiento y funcionalidades que podrían necesitar.&lt;/p&gt;
+&lt;p&gt;A continuación, tras las entrevistas, desarrollamos unas &lt;strong&gt;&quot;personas&quot;&lt;/strong&gt; para tener siempre presentes a que tipo de usuario nos dirigíamos, sus necesidades, motivaciones, historia, comportamiento y funcionalidades que podrían necesitar.&lt;/p&gt;
 
 &lt;h2 class=&quot;section-heading&quot;&gt;Personas&lt;/h2&gt;
 
-&lt;p&gt;Lo vimos claro, en nuestra plataforma había dos tipos de usuarios: los creadores de eventos y los asistentes.&lt;/p&gt;
+&lt;p&gt;Lo vimos claro, en nuestra plataforma había dos tipos de usuarios:&lt;strong&gt; los creadores de eventos y los asistentes.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;En un principio tan sólo observamos dos funcionalidades para cada uno. Pepe necesitaba un filtrador de eventos y un asistente de reserva. Por otro lado, Daniela, necesitaba crear un evento y categorizarlo.&lt;/p&gt;
 
-&lt;p&gt;Estas necesidades de ambos es lo que nos marcó el camino para desarrollar el primer &quot;Producto Mínimo Viable&quot;. Un primer prototipo un tanto tosco en diseño pero que respondía a 2 premisas básicas para el funcionamiento de la plataforma: crear y reservar un evento. Posteriormente, dentro de esta release, nos pareció oportuno añadir un apartado de “que es” con el fin de asegurarnos que quedaba claro de qué trataba la página.&lt;/p&gt;
+&lt;p&gt;Estas necesidades de ambos es lo que nos marcó el camino para desarrollar el &lt;strong&gt;primer Producto Mínimo Viable&lt;/strong&gt;. Un primer prototipo un tanto tosco en diseño pero que respondía a 2 premisas básicas para el funcionamiento de la plataforma: crear y reservar un evento. Posteriormente, dentro de esta release, nos pareció oportuno añadir un apartado de “que es” con el fin de asegurarnos que quedaba claro de qué trataba la página.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/memoria/img/pepe-daniela.jpg&quot; alt=&quot;Pepe y Daniela&quot; /&gt;
-&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/memoria/img/pepe-daniela.jpg&quot; alt=&quot;Pepe y Daniela&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;Historias de Usuario release 1&lt;/h2&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;Historias de Usuario&lt;/h2&gt;
+&lt;p&gt;Después de ordenar y digerir la información que habíamos recopilado y asimilar los insights encontrados era hora de construír la plataforma.
+&lt;/p&gt;
+
+&lt;p&gt;Como objetivo nos propusimos entregar un prototipo funcional en html y css, con las funcionalidades básicas y más importantes según los resultados de nuestra investigación.
+&lt;/p&gt;
 
 &lt;p&gt;A partir de este punto generamos un featured map en el que ideamos qué historias de usuarios necesitábamos para este fin. Tras una reunión del equipo surgieron estas.
 &lt;/p&gt;
@@ -228,26 +229,23 @@
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/memoria/img/Feature-mapr1.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
+    &lt;img src=&quot;/memoria/img/Feature-mapr1.jpg&quot; alt=&quot;Mapa historias de usuario&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 class=&quot;section-heading&quot;&gt;Workflow&lt;/h2&gt;
 
 &lt;p&gt;También creamos un Workflow que nos daría un esqueleto a nivel de flujo de navegación de que caminos podían seguir ambos usuarios en la plataforma.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/memoria/img/workflow-r1.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
-&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/memoria/img/workflow-r1.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 class=&quot;section-heading&quot;&gt;Wireframes y primeros test&lt;/h2&gt;
 
-&lt;p&gt;Una vez asentados estas dos tareas (historia de usuarios y workflow) ya podíamos comenzar a realizar wireframes y testearlo con usuarios para asegurarnos de que no daban lugar a confusión. Es preferible detectar si todo funciona correctamente en este punto antes de comenzar a diseñar y a invertir el tiempo para no generar &quot;waste&quot;.&lt;/p&gt;
+&lt;p&gt;Una vez hechas estas dos tareas (historia de usuarios y workflow) ya podíamos comenzar a realizar wireframes y testearlo con usuarios para asegurarnos de que no daban lugar a confusión. Es preferible detectar si todo funciona correctamente en este punto antes de comenzar a diseñar y a invertir el tiempo para no generar &quot;waste&quot;.&lt;/p&gt;
 
-&lt;p&gt;En esta ocasión probamos el wireframe en 10 usuarios. Hicimos un test de guerrilla con el ipad en la cafetería de la escuela y con nuestro amigos. Consideramos que aún la plataforma era muy sencilla y no eran necesarios test más exaustivos, los cuales los realizamos más adelante cuando la arquitectura y el diseño fuesen más completos.&lt;/p&gt;
+&lt;p&gt;En esta ocasión probamos el wireframe con algunos usuarios. Hicimos un test de guerrilla con el ipad en la cafetería de la escuela y con nuestros amigos. Consideramos que todavía la plataforma era muy sencilla y no eran necesarios test más exaustivos, los cuales los realizamos más adelante cuando la arquitectura y el diseño fuesen más completos.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/memoria/img/wireframes.png&quot; alt=&quot;Post Sample Image&quot; /&gt;
-&lt;/a&gt;&lt;/p&gt;
+    &lt;img src=&quot;/memoria/img/wireframes-primera-release.jpg&quot; alt=&quot;wireframe&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 class=&quot;section-heading&quot;&gt;Propuesta gráfica&lt;/h2&gt;
 
@@ -258,19 +256,13 @@
 
 &lt;p&gt;Por otra parte, la Pt serif, sería la encarga de rellenar nuestros cuerpos de texto. Su condición es más adecuada para ser leía en largos párrafos y nos da un toque de distinción más elevado en los contenidos.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/memoria/img/typo.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
-&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/memoria/img/typo.jpg&quot; alt=&quot;tipografia&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;A su vez, en éste primer toque de contacto con la apariencia visual de la página, establecimos otra serie de estándares que luego cambiaron como el color, el uso de textos sobre imágenes, el logotipo y los botones.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/memoria/img/mokup-r1.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
-&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/memoria/img/mokup-r1.jpg&quot; alt=&quot;layout prototipo&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/memoria/img/mokup-r2.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
-&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/memoria/img/mokup-r2.jpg&quot; alt=&quot;layout prototipo&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Durante esta primera release cada uno diseñó una página completa, aún pensábamos en páginas totales y no en los elementos que la componen. Ahora en la distancia viendo todo este trabajo gráfico que realizamos consideramos que podríamos haber probado las prácticas que sugiere Brad Frost en su artículo &quot;Atomic Design&quot;. Pero claro, debido a nuestra inexperiencia y nuestra condición de diseñadores gráficos estábamos deseando generar material visual atractivo y complejo sin pensar en el rendimiento y en el trabajo iterativo incremental.&lt;/p&gt;
 
@@ -284,9 +276,7 @@
 
 &lt;p&gt;Copys: frescos, cercanos y un poco por encima de lo establecido como formal. Definimos nuestro target como gente sin vergüenza a mostrar lo que hace y sin prejuicios por lo desconocido. Por eso nosotros nos mostramos sinceros y enseñamos nuestras debilidades con un guiño un tanto canalla.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/memoria/img/mokup-r3.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
-&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/memoria/img/mokup-r3.jpg&quot; alt=&quot;layout prototipo&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 class=&quot;section-heading&quot;&gt;Arquitectura de la información&lt;/h2&gt;
 
@@ -305,6 +295,9 @@
 &lt;p&gt;El primer prototipo fue diseñado en illustrator y maquetado con HTML, CSS y un poco de Java Script en elementos como el header.&lt;/p&gt;
 
 &lt;p&gt;A la hora de crear el evento recurrimos a un typeform ya que consideramos que no era oportuno invertir tiempo en la creación de un formulario propio. Nos interesaba que lo que nos plateamos en las historias de usuario funcionase con el mínimo esfuerzo posible ya que sabíamos que todo podía cambiar.&lt;/p&gt;
+
+&lt;p&gt;El resultado &lt;a href=&quot;http://www.ivanbayo.com/rooof/&quot; target=&quot;_blank&quot;&gt;puede verse online&lt;/a&gt;. Como prototipo nos ha servido para sacar mucha información y mejorar la plataforma en futuras releases.&lt;/p&gt;
+
 </description>
         <pubDate>Thu, 16 Apr 2015 00:00:00 +0200</pubDate>
         <link>http://rooof-project.github.io/memoria/2015/04/16/Release-1/</link>
@@ -314,24 +307,33 @@
       </item>
     
       <item>
-        <title>Release 2</title>
+        <title>Segunda Release</title>
         <description>&lt;p&gt;Una vez concluída la primera release lo primero que hicimos fue testearla con usuarios. Esta vez teníamos un prototipo funcional y podríamos descubrir y aprender más cosas acerca de como mejorar la web.&lt;/p&gt;
 
 &lt;h2 class=&quot;section-heading&quot;&gt;Test UX&lt;/h2&gt;
 
-&lt;p&gt;Antes de probarla con usuarios estábamos tan inmersos en el proyecto que pensábamos que nuestra página era sencilla, perfecta y muy clara para cualquier persona. Pero decidimos seguir los consejos de Steve Blank y hacer un “get out the building”. Pues sí, estábamos confundidos: muchos usuarios que veían por primera vez la página no eran capaces de describir que ofrecíamos, en concreto tardaban en discernir que los eventos tenían lugar en casas particulares. Además de esta conclusión, que fue la más dura de aceptar para el equipo, también observamos:&lt;/p&gt;
+&lt;p&gt;Antes de probarla con usuarios estábamos tan inmersos en el proyecto que pensábamos que nuestra página era sencilla, perfecta y muy clara para cualquier persona. Pero decidimos seguir los consejos de Steve Blank y hacer un “get out the building”. Pues sí, estábamos confundidos: muchos usuarios que veían por primera vez la página &lt;strong&gt;no eran capaces de describir que ofrecíamos&lt;/strong&gt;, en concreto tardaban en discernir que los eventos tenían lugar en casas particulares. Además de esta conclusión, que fue la más dura de aceptar para el equipo, también observamos:&lt;/p&gt;
 
 &lt;ul&gt;
 	&lt;li&gt;Los usuarios reservan un evento sin ningún problema.&lt;/li&gt;
     &lt;li&gt; Eran capaces de llegar al formulario de crear evento sin muchos 		problemas.&lt;/li&gt;
     &lt;li&gt;Algún usuario más “early adopter” nos sugirió el uso de algún tipo de categorización de eventos para poder elegir más fácilmente.&lt;/li&gt;
     &lt;li&gt;Apreciamos que no distinguían muy bien cuando estaban en la landing y cuando en la página de “crea tu evento”.&lt;/li&gt;
-       &lt;li&gt;Pese a hacer la reserva o creación del evento con facilidad, no eran conscientes de datos importantes como: cuando se paga, cómo saber la dirección, como funciona el proceso.&lt;/li&gt;
+    &lt;li&gt;Pese a hacer la reserva del evento con facilidad, no eran conscientes de datos importantes como: cuando se paga, cómo saber la dirección, como funciona el proceso.&lt;/li&gt;
+    &lt;li&gt;El formulario de creación de evento les generaba bastante extress, y les confundía en algunos puntos.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;La segunda release se presentaba con bastantes aspectos a mejorar y además añadimos las siguientes historias de usuarios.&lt;/p&gt;
-
 &lt;h2 class=&quot;section-heading&quot;&gt;Historias de usuarios&lt;/h2&gt;
+
+&lt;p&gt;La segunda release se presentaba con bastantes aspectos a mejorar, sobre todo tenía que quedar claro de qué iba la plataforma, y debíamos ofrecer al usuario creador un trato diferenciador, casi exclusivo. Por lo que volvimos a repetir las historias de la primera release:
+&lt;ul&gt;
+	&lt;li&gt;Ver lista de eventos&lt;/li&gt;
+    &lt;li&gt;Ver ficha de evento&lt;/li&gt;
+	&lt;li&gt;Reservar Evento&lt;/li&gt;
+    &lt;li&gt;Crear Evento&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Además añadimos las siguientes historias de usuarios.&lt;/p&gt;
 
 &lt;ul&gt;
 	&lt;li&gt;Compartir en redes sociales.&lt;/li&gt;
@@ -340,51 +342,50 @@
     &lt;li&gt;Ver perfil de usuario.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
+&lt;a href=&quot;#&quot;&gt;
     &lt;img src=&quot;/memoria/img/Feature-mapr2.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
-&lt;/a&gt;&lt;/p&gt;
+&lt;/a&gt;
 
 &lt;p&gt;Las nuevas historias de usuarios influían en las antiguas de la primera release. Intuímos que a medida que avanzásemos el proyecto se volvería más complejo y con más detalles a tener en cuenta. Si queríamos ser productivos debíamos organizarnos con alguna herramienta: probamos con basecamp, lo desechamos y empezamos a usar trello.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Objetivo de la release&lt;/h2&gt;
+
+&lt;p&gt;Nos habían comunicado que iríamos a un laboratorio a hacer test de usuarios, y nos pareció una buena oportunidad que debíamos aprobechar al máximo. Hasta ahora habíamos hecho muchos test de guerrilla, y algunos más cualitativos con amigos, pero no habíamos hecho una planificación más detallada de las pruebas. Nos propusimos tener finalizado el prototipo para testearlo en el laboratio. Esta vez haríamos guión para las pruebas y pensaríamos mas detalladamente que funcionalidades queremos probar.&lt;/p&gt;
 
 &lt;h2 class=&quot;section-heading&quot;&gt;Workflow&lt;/h2&gt;
 
 &lt;p&gt;De nuevo necesitábamos un camino a seguir. El rediseño de la página, añadir las nuevas historias de usuarios y corregir las que ya teníamos suponía una gran tarea. Necesitábamos un esqueleto que nos mostrase qué podía hacer el usuario en cada lugar en el que se encontraba. Necesitábamos un mapa para no perdernos en el diseño, un mapa que se hizo mucho más complejo de lo que pensábamos al añadir la funcionalidad de registro/login de usuario.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/memoria/img/workflow-r2.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
-&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;Wireframes y propuestas de diseño&lt;/h2&gt;
+&lt;img src=&quot;/memoria/img/workflow-r2.jpg&quot; alt=&quot;workflow&quot; /&gt;
 
-&lt;p&gt;Empujados por el “jarro de agua fría” que supuso el que los usuarios no supiesen de que trataba nuestra web decidimos realizar diferentes bocetos de landing en busca de alguna que no proporcionase más claridad en el mensaje.
-&lt;/p&gt;
+&lt;p&gt;Nos planteamos añadir nuevas secciones: ¿qué es rooof?, y dar más protagonismo a la lista de eventos.&lt;/p&gt;
 
-&lt;p&gt;Probamos con ilustraciones en vez de fotografía. Pero los dibujos nos alejaban del universo humano, cálido y real que transmitían las imágenes fotográficas.
-&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://marvelapp.com/2bhfid#2451222&quot;&gt;
-    &lt;img src=&quot;/memoria/img/propuesta-r2.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
-&lt;/a&gt;&lt;/p&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;Wireframes&lt;/h2&gt;
 
-&lt;p&gt;Ya en el wireframe se percibe nuestra intención de que quede muy claro “que es Rooof”. Incluso sustituimos el principal call to action de la landing que había anteriormente (el que te mostraba la lista de eventos).&lt;/p&gt;
+&lt;p&gt;El porqué de este wireframe era testear lo que sería la nueva distribución de la página, y ver si el registro de usuario iba por buen camino.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://marvelapp.com/12afhcg#2408996&quot;&gt;
-    &lt;img src=&quot;/memoria/img/01_home-r2.png&quot; alt=&quot;Post Sample Image&quot; /&gt;
-&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;También empezamos a probar con otros “copys”. Antes era “Rooof es una nueva forma de disfrutar de la cultura en casa” y ahora es “quedadas culturales en casas de Barcelona”.&lt;/p&gt;
+&lt;p&gt; Incluímos una lista de eventos más elaborada que luego nos serviría como página de búsqueda de eventos, y en la landing reservamos un espacio privilegiado para eventos destacados, con el fin de atraer a los usuarios y generar interés.&lt;/p&gt;
 
-&lt;p&gt;Preocupados por hacer saber que era Rooof diseñamos una nueva página en la que el usuario podía informarse a través de un slide que pretendíamos con la plataforma y que le ofrecíamos en ella.&lt;/p&gt;
 
-&lt;p&gt;En esta página también mostramos otras funcionalidad que siempre deberían estar presentes: lista de eventos y como asistir a un evento.&lt;/p&gt;
+&lt;a href=&quot;http://marvl.in/12afhcg&quot; target=&quot;_blank&quot;&gt;
+    &lt;img src=&quot;/memoria/img/wireframe-segunda-release.jpg&quot; alt=&quot;wireframe&quot; /&gt;
+&lt;/a&gt;
 
-&lt;p&gt;El porqué de este wireframe era: testear lo que sería la nueva distribución de la página, ver si ya comunicábamos “que es Rooof”, ver si el registro de usuario iba por buen camino.&lt;/p&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Con el wireframe, hicimos un prototipo muy simple con Marvelapp, para comprobar si nuestra estructura funcionaba a nivel de navegación.
+.&lt;/span&gt;
 
-&lt;p&gt;Pero además sacamos estas conclusiones:&lt;/p&gt;
+&lt;p&gt;Nuestra preocupación por hacer saber que era Rooof nos llevó a plantear una nueva página en la que el usuario podía informarse qué podía hacer en la plataforma &quot;¿qué es rooof?, le daríamos el máximo protagonismo poniendo un botón en el header de la landing que llevara a los usuarios hasta esta sección.&lt;/p&gt;
 
-&lt;p&gt;- Tenemos que añadir “botón qué es rooof” en el header, para que en todo momento se pueda acceder a esta información&lt;/p&gt;
+&lt;p&gt;En esta página también mostramos otras funcionalidades que siempre deberían estar presentes: lista de eventos y como asistir a un evento.&lt;/p&gt;
 
-&lt;p&gt;- Ok a la nueva estructura de la landing: &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Además con el wireframe sacamos estas conclusiones:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt; Tenemos que añadir “botón qué es rooof” en el header, para que en todo momento se pueda acceder a esta información.&lt;/li&gt;
+
+&lt;li&gt; Ok a la nueva estructura de la landing:&lt;/li&gt;
 
 &lt;ul&gt;
 	&lt;li&gt;Foto con copy y call to action.&lt;/li&gt;
@@ -393,7 +394,7 @@
     &lt;li&gt;Crear eventos.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;- Cambios al orden de información de la sección “que es”:&lt;/p&gt;
+&lt;li&gt; Cambios al orden de información de la sección “que es”:&lt;/li&gt;
 
 &lt;ul&gt;
 	&lt;li&gt;Slide informativo.&lt;/li&gt;
@@ -401,100 +402,127 @@
     &lt;li&gt;Como asistir.&lt;/li&gt;
     &lt;li&gt;Crear eventos.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/ul&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;Propuesta Gráfica&lt;/h2&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;Nuevas propuestas de diseño&lt;/h2&gt;
+&lt;p&gt;Empujados por el “jarro de agua fría” que supuso el que los usuarios no supiesen de que trataba nuestra web decidimos realizar &lt;a href=&quot;https://marvelapp.com/2bhfid#2451222&quot; target=&quot;_blank&quot;&gt;diferentes bocetos&lt;/a&gt; en busca de alguno que no proporcionase más claridad en el mensaje.
+&lt;/p&gt;
+
+&lt;p&gt;Probamos con ilustraciones en vez de fotografía. Pero los dibujos nos alejaban del universo humano, cálido y real que transmitían las imágenes fotográficas.
+&lt;/p&gt;
+
+&lt;a href=&quot;https://marvelapp.com/2bhfid#2451222&quot; target=&quot;_blank&quot;&gt;
+    &lt;img src=&quot;/memoria/img/propuesta-r2.jpg&quot; alt=&quot;layout&quot; /&gt;
+    &lt;img src=&quot;/memoria/img/propuesta-r2-2.jpg&quot; alt=&quot;layout&quot; /&gt;
+&lt;/a&gt;
+
+
+&lt;p&gt;También empezamos a probar con otros copies. Antes era “Rooof es una nueva forma de disfrutar de la cultura en casa” y ahora es “quedadas culturales en casas de Barcelona”.&lt;/p&gt;
+
+
+&lt;h3&gt;Propuesta Gráfica&lt;/h3&gt;
 
 &lt;p&gt;En esta release cambiamos por completo el grafismo de la página por motivos anteriormente comentados. A partir del wireframe desarrollamos un nuevo layout, más simple con menos artificios y más claro. Estos fueron cambios más significativos que realizamos:&lt;/p&gt;
 
 &lt;ul&gt;
-	&lt;li&gt;Color: simplificamos color, ahora solo usamos grises, blanco y rosa.&lt;/li&gt;
-    &lt;li&gt;Botones: simplificamos, todos los botones a partir de ahora son con fondo rosa. Así conseguimos que el usuario sepa com más facilidad que elementos llevan a una acción.&lt;/li&gt;
+	&lt;li&gt;Color: simplificamos color, ahora solo usamos grises, blanco y rosa.El rosa será nuestro color corporativo y ayudará al usuario a navegar a través de la página. Intercalando blanco, gris y fotos separamos secciones dentro de una misma página, y jugamos más con los módulos creando layouts diferentes. Con esto resolvemos el problema que se nos presentó en las entrevistas: los usuarios les costaba distinguir entre la home y las páginas interiores.&lt;/li&gt;
+    &lt;li&gt;Botones: Les damos más protagonismo: usamos más y más grandes y los unificamos.&lt;/li&gt;
     &lt;li&gt;Simplificamos logotipo&lt;/li&gt;
-    &lt;li&gt;La lista de sugerencias de eventos en la landing ahora tiene menos datos. Si el usuario se siente atraído por un evento al pulsarlo obtiene más información. Para saber que son son elementos clicables en la versión desktop, irán con un roll over.&lt;/li&gt;
-    &lt;li&gt;Mantenemos la tipografía pero la usamos de forma diferente para los títulos y los subtítulos.&lt;/li&gt;
-    &lt;li&gt;Añadimos antes del footer una sección que incitase a crear un evento.&lt;/li&gt;
+    &lt;li&gt;Añadimos roll overs&lt;/li&gt;
+    &lt;li&gt;Mantenemos la tipografía pero la usamos de forma diferente para los títulos y los subtítulos, jerarquizando más la información.&lt;/li&gt;
+    &lt;li&gt;Damos más protagonismo a la fotografía, en especial en módulos importantes: call to action para crear evento y buscar eventos.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://marvelapp.com/ajcb49#2451921&quot;&gt;
-    &lt;img src=&quot;/memoria/img/rooof-v5-01.png&quot; alt=&quot;Post Sample Image&quot; /&gt;
-&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://marvelapp.com/ajcb49#2451921&quot; target=&quot;_blank&quot;&gt;
+    &lt;img src=&quot;/memoria/img/propuesta-grafica-release-2.jpg&quot; alt=&quot;layout segunda release&quot; /&gt;
+    &lt;img src=&quot;/memoria/img/propuesta-grafica-release-2-2.jpg&quot; alt=&quot;layout segunda release&quot; /&gt;
+&lt;/a&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;UX&lt;/h2&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;Comunicación con el usuario&lt;/h2&gt;
 
-&lt;p&gt;Uno de los problemas a nivel Ux al que nos enfrentábamos era que las diferentes secciones de la plataforma se diferenciasen entre sí. Hicimos bastante hincapié en la sección “crea tu evento” antes llamada “publica tu evento”.&lt;/p&gt;
-
-&lt;p&gt;Cambiamos los copys, les bajamos el tono informal. Los usuarios que crean eventos ceden su casa a desconocidos por lo que no nos hacía ningún favor ser tan informales. Teníamos que mostrarles que es lo que podían hacer con la plataforma y animarles a ello mediante conceptos positivos: conectar con gente nueva, compartir tu pasión por la cultura y atraer a público.&lt;/p&gt;
+&lt;p&gt;Siguendo con el problema de comunicar bien lo que era ROOOF, y guiar al usuario a través de la página, decidimos hacer una revisión de nuestro tono de comunicación.&lt;/p&gt;
+&lt;p&gt;Cambiamos los copies, les bajamos el tono informal. Los usuarios que crean eventos ceden su casa a desconocidos por lo que no nos hacía ningún favor ser tan informales. Teníamos que mostrarles que es lo que podían hacer con la plataforma y animarles a ello mediante conceptos positivos: conectar con gente nueva, compartir tu pasión por la cultura y atraer a público.&lt;/p&gt;
 
 &lt;p&gt;Antes:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/memoria/img/Antes-r2.png&quot; alt=&quot;Post Sample Image&quot; /&gt;
-&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;#&quot;&gt;
+    &lt;img src=&quot;/memoria/img/Antes-r2.png&quot; alt=&quot;copies&quot; /&gt;
+&lt;/a&gt;
 
 &lt;p&gt;Después:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/memoria/img/Despues-r2.png&quot; alt=&quot;Post Sample Image&quot; /&gt;
-&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;#&quot;&gt;
+    &lt;img src=&quot;/memoria/img/Despues-r2.png&quot; alt=&quot;copies&quot; /&gt;
+&lt;/a&gt;
 
-&lt;p&gt;Además, creamos un formulario propio para crear un evento. Estamos de acuerdo con que el typeform ya cumplía con su función y también estamos de acuerdo con que no era muy lógico dedicar tanto tiempo a estas alturas del proyecto a realizar el formulario. Además, nuestros conocimientos de programación backend hacían imposible tener totalmente operativa esta funcionalidad. Resumiendo iba contra los principios agile y seguro que íbamos a malgastar mucho tiempo haciéndolo. Pero, por otra parte, consideramos que estamos en un contexto académico y queríamos aprender, queríamos enfrentarnos al diseño de un formulario distinto y con una gráfica propia, no la que nos daba el typeform.
+&lt;p&gt;Además haríamos los copies más directos y claros. Los usuarios no sabían que los eventos eran en casas particulares y debíamos poner remedio. La frase del header, la que comunica qué es ROOOF, la cambiamos varias veces. Al final la que mejor funcionó fué esta:
+
+&lt;blockquote&gt;&quot;Conciertos, teatro y gastronomía en casas de Barcelona&quot; &lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Creación del evento&lt;/h2&gt;
+
+&lt;p&gt; El formulario para crear evento lo habíamos planteado a través de un typeform, y pese a que nos aportaba funcionalidad, se presentaban algunos problemas: el primero era que salias de la propia plataforma: otra gráfica y otra comunicación a nivel visual. También los usuarios se frustraban bastante, no sabían que información debian poner en cada caso. &lt;/p&gt;
+
+&lt;p&gt;Decidimos crear un &lt;a href=&quot;http://marvl.in/3fij9c&quot; target=&quot;_blank&quot;&gt;formulario propio &lt;/a&gt; para crear un evento. Estamos de acuerdo con que el typeform ya cumplía en parte con su función y también estamos de acuerdo con que no era muy lógico dedicar tanto tiempo a estas alturas del proyecto a realizar el formulario. Además, nuestros conocimientos de programación backend hacían imposible tener totalmente operativa esta funcionalidad. Resumiendo iba contra los principios agile y seguro que íbamos a malgastar mucho tiempo haciéndolo. Pero, por otra parte, consideramos que estamos en un contexto académico y queríamos aprender, queríamos enfrentarnos al diseño de un formulario distinto y con una gráfica propia, no la que nos daba el typeform.
 &lt;/p&gt;
 
 &lt;p&gt;El resultado fue este:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/memoria/img/Resultado-r2.png&quot; alt=&quot;Post Sample Image&quot; /&gt;
-&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;http://marvl.in/3fij9c&quot; target=&quot;_blank&quot;&gt;
+    &lt;img src=&quot;/memoria/img/crea-evento-form.jpg&quot; alt=&quot;formulario crea tu evento&quot; /&gt;
+&lt;/a&gt;
 
-&lt;p&gt; En esta release añadimos una categorización por etiquetas, de momento sin interacción, tan sólo las nombrábamos y las destacamos por registro de color. Este cambio respondía a las necesidades de algunos usuarios a los que les hicimos el text de ux.&lt;/p&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;Reserva del evento&lt;/h2&gt;
+&lt;h3&gt; Etiquetas&lt;/h3&gt;
+&lt;p&gt; En esta release añadimos una categorización por etiquetas, de momento sin interacción, tan sólo las nombrábamos y las destacamos por registro de color. Este cambio respondía a las necesidades de algunos usuarios a los que les hicimos el text de ux. Y con ello aportábamos un filtro visual por categorías, necesario para muchos usuarios.&lt;/p&gt;
 
+&lt;h3&gt; Casuísticas&lt;/h3&gt;
 &lt;p&gt;También habíamos previsto diferentes soluciones gráficas en caso de que el evento tuviese el aforo completo. En este caso consideramos oportuno ofrecerle al usuario la posibilidad de apuntarse a una lista en la que, si hubiese alguna vacante, podría acceder al evento.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/memoria/img/Fichasev-r2.png&quot; alt=&quot;Post Sample Image&quot; /&gt;
-&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;#&quot;&gt;
+    &lt;img src=&quot;/memoria/img/Fichasev-r2.png&quot; alt=&quot;fichas evento&quot; /&gt;
+&lt;/a&gt;
+
 
 &lt;p&gt;En general las fichas de los eventos cambiaron bastante, añadimos más espacio, destacamos el contenido de las mismas y a la vez las hicimos más simples y con más espacio. Y siempre con acceso a información acerca del creador y del precio.&lt;/p&gt;
 
-&lt;p&gt;Durante los test con el primer prototipo observamos que el usuario tenía problemas para saber si había conseguido reservar evento, o como se pagaba éste. Por ello, en la página donde está la ficha del evento, junto al botón de “reservar entrada” añadimos una información que solucionaba este problema:&lt;/p&gt;
+&lt;h3&gt; Facilitando información al usuario&lt;/h3&gt;
+&lt;p&gt;Durante los test con el primer prototipo observamos que el usuario tenía problemas para saber si había conseguido reservar evento, o como se pagaba éste. Por ello, en la página donde está la ficha del evento, junto al botón de “reservar entrada” añadimos una información intentando solucionar este problema:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/memoria/img/durante-r2.png&quot; alt=&quot;Post Sample Image&quot; /&gt;
-&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;#&quot;&gt;
+    &lt;img src=&quot;/memoria/img/reservar-evento-r2.jpg&quot; alt=&quot;reservar evento&quot; /&gt;
+&lt;/a&gt;
+
+&lt;p&gt;Más tarde nos daríamos cuenta de que no funcionaría del todo, y que la solución era bastante ineficaz.&lt;/p&gt;
 
 &lt;p&gt;Respecto a esta acción de reservar entrada siempre nos han hecho una pregunta:&lt;/p&gt;
 
-&lt;p&gt;¿Porque +2 voy con un amigo y no +20 ?. Para responder a esta pregunta tenemos que hacerlo desde dos puntos de vista:&lt;/p&gt;
+&lt;p&gt;¿Porque +2 voy con un amigo y no +20?. Para responder a esta pregunta tenemos que hacerlo desde dos puntos de vista:&lt;/p&gt;
 
 &lt;ul&gt;
 	&lt;li&gt;Por el usuario creador: A través de las entrevistas con los usuarios entendemos que el creador del evento realiza un esfuerzo para preparar su espectáculo. Dedica tiempo a ensayar y deja de hacer otras cosas para que el día señalado su público vaya a su casa. Además, su casa no es un escenario donde haya un gran aforo. Por ello, si algún usuario pudiese reservar 20 plazas y , por cualquier motivo, no pudiese ir, el creador del evento se vería frustrado en su casa y sin público.&lt;/li&gt;
     &lt;li&gt;2 Por la plataforma: Si el usuario que va a disfrutar del evento quiere ir con más amigos es necesario que estos se registren, tener más usuarios registrados es positivo para la plataforma.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Ya por último, también diseñamos un mail de confirmación para generar en el usuario sensación de seguridad en el acto de reservar. Por ello incluimos una simpática imagen de un ticket a modo “tienes tu entrada en el mail” .&lt;/p&gt;
+&lt;h3&gt; Mail al usuario&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/memoria/img/enhora-r2.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
-&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ya por último, también diseñamos un mail para confirmar al usuario que la reserva se había realizado y para generar en el usuario sensación de seguridad tras la reserva. Por ello incluimos una simpática imagen de un ticket a modo “tienes tu entrada en el mail”. En el mail también explicamos como se realiza el pago y información acerca del evento.&lt;/p&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;Arquitectura de la información&lt;/h2&gt;
 
-&lt;p&gt;Header: como elemento que permanece en todas las páginas, el header consta de los siguientes elementos:&lt;/p&gt;
+&lt;img src=&quot;/memoria/img/mail.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
 
-&lt;ul&gt;
-	&lt;li&gt;Logotipo: que siempre te dirige a la home.&lt;/li&gt;
-    &lt;li&gt;¿Qué es rooof?: te conduce a la página que explica la plataforma. En esta página también comunicamos cómo asistir a un evento y la posibilidad de hacerte creador de en evento.&lt;/li&gt;
-    &lt;li&gt;Busca un evento: te lleva a la lista de eventos y te sugiere hacerte creador. Al pulsar en algún evento mostramos al usuario información detallada y necesaria acerca del contenido del evento, de los datos necesarios para acudir a él (fecha hora etc…)  y además añadimos información acerca del creador del evento.
-&lt;/li&gt;
-    &lt;li&gt;-Crea tu evento: muestra las bondades de crear un evento en rooof y testimonios de personas que para generar confianza.&lt;/li&gt;
-    &lt;li&gt;Inicia sesión/ Registro: para acceder a tu cuenta.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;Login de usuario&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/memoria/img/Arqui-r2.png&quot; alt=&quot;Post Sample Image&quot; /&gt;
-&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nos planteamos la historia de &quot;crear perfil de usuario&quot;, pero lo cierto es que ni por asomo llegamos a realizarlo. Lo único que podías hacer como usuario era loguearte, pero no creabas tu perfil. Esto, pese a ser contradictorio y totalmente irreal, lo iríamos mejorando en las siguiente releases, y también nos resultaba válido para hacer un primer testeo con los usuarios, y para ver como respondían a los perfiles ficticios que fuimos creando.&lt;/p&gt;
 
-&lt;p&gt;La jerarquía de este header cambiará en las siguientes releases. En esta estábamos tan ofuscados por que algunos usuarios no llegaban  a entender que ofrecíamos que priorizamos en muchos sentidos esta información cuando en realidad, teníamos que facilitar el acceso a los eventos. En esta release aprendimos a tener en cuenta la opinión de los usuarios y no obsesionarnos con su opinión sino usarla como es debido, con mesura.&lt;/p&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;Prototipo testeable&lt;/h2&gt;
+
+El prototipo con el qué fuimos al laboratorío es &lt;a href=&quot;http://rooof-project.github.io/rooof-html/&quot; target=&quot;_blank&quot;&gt;éste&lt;/a&gt;. Aunque ya subido con algunas correcciones que hicimos posteriormente.
+
+Para hacer el prototipo continuamos usando html y css, cambiando los estilos que ya teníamos e incorporando nuevos.
+
+&lt;p&gt;Algunos de los cambios propuestos para esta release seguirán cambiando en las siguientes. En esta estábamos tan ofuscados por que algunos usuarios no llegaban  a entender que ofrecíamos que priorizamos en muchos sentidos información errónea, dando prioridad a qué es ROOOF cuando en realidad, teníamos que facilitar el acceso a los eventos. En esta release aprendimos a tener en cuenta la opinión de los usuarios y no obsesionarnos con su opinión sino usarla como es debido, con mesura.&lt;/p&gt;
+&lt;/p&gt;
 </description>
         <pubDate>Wed, 15 Apr 2015 00:00:00 +0200</pubDate>
         <link>http://rooof-project.github.io/memoria/2015/04/15/Release-2/</link>
@@ -816,6 +844,24 @@ Para ello, habitualmente uno de los lados es subvencionado, es decir, el servici
         <pubDate>Sat, 11 Apr 2015 00:00:00 +0200</pubDate>
         <link>http://rooof-project.github.io/memoria/2015/04/11/Modelo-negocio/</link>
         <guid isPermaLink="true">http://rooof-project.github.io/memoria/2015/04/11/Modelo-negocio/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Conclusiones finales</title>
+        <description>&lt;p&gt; Durante el transcurso del máster hemos aprendido conceptos que nos adentrado en el ámbito del diseño web. Hemos adquirido conocimientos de UX, programación, diseño web, prototipado, negocio... En definitiva, somos capaces de entender de forma holística un proyecto digital desde el negocio hasta la arquitectura técnica.&lt;/p&gt;
+
+&lt;p&gt;Además hemos sabido implementar, con mayor o menor acierto, nuestro bagaje académico y profesional en este nuevo reto que ha sido este proyecto que presentamos.&lt;/p&gt;
+
+&lt;p&gt;Ahora somos capaces de entender el proceso de trabajo iterativo incremental y estamos familiarizado con los valores de las metodologías Agile y Lean. Y es más, incluso lo defendemos y lo intentamos aplicar en nuestras actuales profesiones y seguro que en el futuro próximo.&lt;/p&gt;
+
+&lt;p&gt;A través de este proyecto, hemos podido aplicar todos los nuevos conocimientos que íbamos aprendiendo, o casi todos.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 10 Apr 2015 00:00:00 +0200</pubDate>
+        <link>http://rooof-project.github.io/memoria/2015/04/10/Conclusiones/</link>
+        <guid isPermaLink="true">http://rooof-project.github.io/memoria/2015/04/10/Conclusiones/</guid>
         
         
       </item>

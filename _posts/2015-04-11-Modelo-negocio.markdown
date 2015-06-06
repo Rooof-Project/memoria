@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Modelo de negocio
-subtitle: Two-sided Marketplace
+subtitle: Two-sided Marketplace.
 "header-img": "img/post-bg-01.jpg"
 published: true
 ---
