@@ -75,7 +75,7 @@ Al comienzo pensamos que el espacio dónde se realizaban los eventos no estaba r
 </ul>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/Feature-mapr1.jpg" alt="Post Sample Image">
+    <img src="{{ site.baseurl }}/img/Feature-mapr1.jpg" alt="Mapa historias de usuario">
 </a>
 
 <h2 class="section-heading">Workflow</h2>
@@ -107,18 +107,16 @@ Al comienzo pensamos que el espacio dónde se realizaban los eventos no estaba r
 <p>Por otra parte, la Pt serif, sería la encarga de rellenar nuestros cuerpos de texto. Su condición es más adecuada para ser leía en largos párrafos y nos da un toque de distinción más elevado en los contenidos.</p>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/typo.jpg" alt="Post Sample Image">
+    <img src="{{ site.baseurl }}/img/typo.jpg" alt="tipografia">
 </a>
 
 <p>A su vez, en éste primer toque de contacto con la apariencia visual de la página, establecimos otra serie de estándares que luego cambiaron como el color, el uso de textos sobre imágenes, el logotipo y los botones.</p>
 
-<a href="#">
-    <img src="{{ site.baseurl }}/img/mokup-r1.jpg" alt="Post Sample Image">
-</a>
 
-<a href="#">
-    <img src="{{ site.baseurl }}/img/mokup-r2.jpg" alt="Post Sample Image">
-</a>
+<img src="{{ site.baseurl }}/img/mokup-r1.jpg" alt="layout prototipo">
+
+<img src="{{ site.baseurl }}/img/mokup-r2.jpg" alt="layout prototipo">
+
 
 <p>Durante esta primera release cada uno diseñó una página completa, aún pensábamos en páginas totales y no en los elementos que la componen. Ahora en la distancia viendo todo este trabajo gráfico que realizamos consideramos que podríamos haber probado las prácticas que sugiere Brad Frost en su artículo "Atomic Design". Pero claro, debido a nuestra inexperiencia y nuestra condición de diseñadores gráficos estábamos deseando generar material visual atractivo y complejo sin pensar en el rendimiento y en el trabajo iterativo incremental.</p>
 
@@ -132,9 +130,8 @@ Al comienzo pensamos que el espacio dónde se realizaban los eventos no estaba r
 
 <p>Copys: frescos, cercanos y un poco por encima de lo establecido como formal. Definimos nuestro target como gente sin vergüenza a mostrar lo que hace y sin prejuicios por lo desconocido. Por eso nosotros nos mostramos sinceros y enseñamos nuestras debilidades con un guiño un tanto canalla.</p>
 
-<a href="#">
-    <img src="{{ site.baseurl }}/img/mokup-r3.jpg" alt="Post Sample Image">
-</a>
+<img src="{{ site.baseurl }}/img/mokup-r3.jpg" alt="layout prototipo">
+
 
 <h2 class="section-heading">Arquitectura de la información</h2>
 
