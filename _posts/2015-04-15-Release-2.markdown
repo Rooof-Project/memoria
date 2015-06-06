@@ -180,8 +180,9 @@ published: true
 <p>También habíamos previsto diferentes soluciones gráficas en caso de que el evento tuviese el aforo completo. En este caso consideramos oportuno ofrecerle al usuario la posibilidad de apuntarse a una lista en la que, si hubiese alguna vacante, podría acceder al evento.</p>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/Fichasev-r2.png" alt="Reservar evento">
+    <img src="{{ site.baseurl }}/img/Fichasev-r2.png" alt="fichas evento">
 </a>
+
 
 <p>En general las fichas de los eventos cambiaron bastante, añadimos más espacio, destacamos el contenido de las mismas y a la vez las hicimos más simples y con más espacio. Y siempre con acceso a información acerca del creador y del precio.</p>
 
@@ -189,7 +190,7 @@ published: true
 <p>Durante los test con el primer prototipo observamos que el usuario tenía problemas para saber si había conseguido reservar evento, o como se pagaba éste. Por ello, en la página donde está la ficha del evento, junto al botón de “reservar entrada” añadimos una información intentando solucionar este problema:</p>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/durante-r2.png" alt="Post Sample Image">
+    <img src="{{ site.baseurl }}/img/reservar-evento-r2.jpg" alt="reservar evento">
 </a>
 
 <p>Más tarde nos daríamos cuenta de que no funcionaría del todo, y que la solución era bastante ineficaz.</p>
