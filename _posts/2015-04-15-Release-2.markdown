@@ -1,9 +1,10 @@
 ---
-layout:       post
-subtitle:     Cómo aprendimos de los usuarios mediante test de guerrilla y mejoramos nuestra plataforma.
+layout: post
+subtitle: Cómo aprendimos de los usuarios mediante test de guerrilla y mejoramos nuestra plataforma.
 "header-img": "img/post-bg-01.jpg"
 published: true
 ---
+
 
 
 
@@ -11,20 +12,28 @@ published: true
 
 <h2 class="section-heading">Test UX</h2>
 
-<p>Antes de probarla con usuarios estábamos tan inmersos en el proyecto que pensábamos que nuestra página era sencilla, perfecta y muy clara para cualquier persona. Pero decidimos seguir los consejos de Steve Blank y hacer un “get out the building”. Pues sí, estábamos confundidos: muchos usuarios que veían por primera vez la página no eran capaces de describir que ofrecíamos, en concreto tardaban en discernir que los eventos tenían lugar en casas particulares. Además de esta conclusión, que fue la más dura de aceptar para el equipo, también observamos:</p>
+<p>Antes de probarla con usuarios estábamos tan inmersos en el proyecto que pensábamos que nuestra página era sencilla, perfecta y muy clara para cualquier persona. Pero decidimos seguir los consejos de Steve Blank y hacer un “get out the building”. Pues sí, estábamos confundidos: muchos usuarios que veían por primera vez la página <strong>no eran capaces de describir que ofrecíamos</strong>, en concreto tardaban en discernir que los eventos tenían lugar en casas particulares. Además de esta conclusión, que fue la más dura de aceptar para el equipo, también observamos:</p>
 
 <ul>
 	<li>Los usuarios reservan un evento sin ningún problema.</li>
     <li> Eran capaces de llegar al formulario de crear evento sin muchos 		problemas.</li>
     <li>Algún usuario más “early adopter” nos sugirió el uso de algún tipo de categorización de eventos para poder elegir más fácilmente.</li>
     <li>Apreciamos que no distinguían muy bien cuando estaban en la landing y cuando en la página de “crea tu evento”.</li>
-       <li>Pese a hacer la reserva o creación del evento con facilidad, no eran conscientes de datos importantes como: cuando se paga, cómo saber la dirección, como funciona el proceso.</li>
+    <li>Pese a hacer la reserva del evento con facilidad, no eran conscientes de datos importantes como: cuando se paga, cómo saber la dirección, como funciona el proceso.</li>
+    <li>El formulario de creación de evento les generaba bastante extress, y les confundía en algunos puntos.</li>
 </ul>
 
-
-<p>La segunda release se presentaba con bastantes aspectos a mejorar y además añadimos las siguientes historias de usuarios.</p>
-
 <h2 class="section-heading">Historias de usuarios</h2>
+
+<p>La segunda release se presentaba con bastantes aspectos a mejorar, sobre todo tenía que quedar claro de qué iba la plataforma, y debíamos ofrecer al usuario creador un trato diferenciador, casi exclusivo. Por lo que volvimos a repetir las historias de la primera release:
+<ul>
+	<li>Ver lista de eventos</li>
+    <li>Ver ficha de evento</li>
+	<li>Reservar Evento</li>
+    <li>Crear Evento</li>
+</ul>
+
+<p>Además añadimos las siguientes historias de usuarios.</p>
 
 <ul>
 	<li>Compartir en redes sociales.</li>
@@ -38,6 +47,10 @@ published: true
 </a>
 
 <p>Las nuevas historias de usuarios influían en las antiguas de la primera release. Intuímos que a medida que avanzásemos el proyecto se volvería más complejo y con más detalles a tener en cuenta. Si queríamos ser productivos debíamos organizarnos con alguna herramienta: probamos con basecamp, lo desechamos y empezamos a usar trello.</p>
+
+<h2 class="section-heading">Objetivo de la release</h2>
+
+<p>Nos habían comunicado que iríamos a un laboratirio a hacer test de usuarios, nos pareció una buena oportinudad que debíamos aprobechar al máxima. Hasta ahora habíamos hecho muchos test de guerrilla, y algunos más cualitativos con amigos, pero no habíamos hecho una planificación más detallada de las pruebas. Nos propusimos tener finalizado el prototipo para testearlo en el laboratio.</p>
 
 <h2 class="section-heading">Workflow</h2>
 
