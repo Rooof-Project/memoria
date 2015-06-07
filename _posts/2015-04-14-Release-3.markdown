@@ -29,6 +29,8 @@ published: true
 
 <li>8. Saber si los usuarios comprenden cómo se organiza un evento, qué pasa después de que se realice el formulario.</li>
 </ul>
+<img src="{{ site.baseurl }}/img/lab.jpg" alt="laboratorio">
+
 
 <h3>Observaciones y análisis del test</h3>
 <p>Tras la realización del test nos dimos cuenta tanto de cosas positivas y cosas negativas respecto al prototipo presentado, no todos los objetivos que presentamos se lograron de manera satisfactoria, y esto nos llevo a analizar los resultados para corregir y mejorar la plataforma.</p>
@@ -100,7 +102,7 @@ published: true
 <p>Diseñamos un mail para confirmar al usuario que la reserva y la creación del evento se habían realizado. Para el proceso de reserva, la intención era también generar en el usuario sensación de seguridad. Incluimos una imagen de un ticket a modo “tienes tu entrada en el mail”, donde también explicamos como se realiza el pago y información acerca del evento.</p>
 
 
-<img src="{{ site.baseurl }}/img/mail.jpg" alt="Post Sample Image">
+<img src="{{ site.baseurl }}/img/mail.jpg" alt="mail">
 
 
 <h2 class="section-heading">Multidisposivo</h2>
