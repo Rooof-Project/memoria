@@ -85,8 +85,8 @@ published: true
 <li> Nuevas Historias de usuario.</li>
 	<ul>
 	<li> Buscar evento (Móvil).</li>
-	<li>Ver evento (Móvil).</li>
-	<li>Reservar evento (Móvil).</li>
+	<li> Ver evento (Móvil).</li>
+	<li> Reservar evento (Móvil).</li>
     </ul>
     
    </ul>
@@ -107,7 +107,9 @@ published: true
 
 <h2 class="section-heading">Versión móvil</h2>
 
-<p>Comenzamos creando una versión móvil. Para ello se realizó <a href="https://marvelapp.com/2ie4i7" target="_blank">un prototipo</a> en marvel el cual nos ayudo a generar algunos cambios respecto a la versión de ordenador, tanto como tamaños en los botones, tamaños de los copies, tamaño en las imágenes, la manera en como la arquitectura de la pagina influía al momento de cambiar el formato, esto nos ayudo a darle mas coherencia y orden a la plataforma web.
+<p>Comenzamos creando una versión móvil centrándonos sobre todo en la búsqueda y reserva del evento. La creación del evento en móvil la dejaríamos para más adelante, al considerarla menos importante.</p>
+
+<p>Para ello se realizó <a href="https://marvelapp.com/2ie4i7" target="_blank">un prototipo</a> en Marvelapp el cual nos ayudo a generar algunos cambios respecto a la versión de ordenador, tanto como tamaños en los botones, tamaños de los copies, tamaño en las imágenes, la manera en como la arquitectura de la pagina influía al momento de cambiar el formato, esto nos ayudo a darle mas coherencia y orden a la plataforma web.
 </p>
 
 <img src="{{ site.baseurl }}/img/tercera-rel-mobile.jpg" alt="ROOOF móvil">
