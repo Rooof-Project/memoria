@@ -9,6 +9,7 @@ published: true
 
 
 
+
 <p>Una vez concluída la primera release lo primero que hicimos fue testearla con usuarios. Esta vez teníamos un prototipo funcional y podríamos descubrir y aprender más cosas acerca de como mejorar la web.</p>
 
 <h2 class="section-heading">Test UX</h2>
@@ -205,12 +206,7 @@ published: true
     <li>2 Por la plataforma: Si el usuario que va a disfrutar del evento quiere ir con más amigos es necesario que estos se registren, tener más usuarios registrados es positivo para la plataforma.</li>
 </ul>
 
-<h3> Mail al usuario</h3>
 
-<p>Ya por último, también diseñamos un mail para confirmar al usuario que la reserva se había realizado y para generar en el usuario sensación de seguridad tras la reserva. Por ello incluimos una simpática imagen de un ticket a modo “tienes tu entrada en el mail”. En el mail también explicamos como se realiza el pago y información acerca del evento.</p>
-
-
-<img src="{{ site.baseurl }}/img/mail.jpg" alt="Post Sample Image">
 
 <h2 class="section-heading">Login de usuario</h2>
 
