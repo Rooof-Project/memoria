@@ -95,23 +95,23 @@ published: true
 
 <h3> Mail al usuario</h3>
 
-<p>Diseñamos un mail para confirmar al usuario que la reserva se había realizado y para generar en el usuario sensación de seguridad tras la reserva. Incluimos una imagen de un ticket a modo “tienes tu entrada en el mail”, donde también explicamos como se realiza el pago y información acerca del evento.</p>
+<p>Diseñamos un mail para confirmar al usuario que la reserva y la creación del evento se habían realizado. Para el proceso de reserva, la intención era también generar en el usuario sensación de seguridad. Incluimos una imagen de un ticket a modo “tienes tu entrada en el mail”, donde también explicamos como se realiza el pago y información acerca del evento.</p>
 
 
 <img src="{{ site.baseurl }}/img/mail.jpg" alt="Post Sample Image">
 
 
-<h2 class="section-heading">Reaching for the Stars</h2>
+<h2 class="section-heading">Multidisposivo</h2>
 
-<p>As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.</p>
-
+<p>Comenzamos creando una versión móvil. Para ello se realizó <a href="https://marvelapp.com/2ie4i7" target="_blank">un prototipo</a> en marvel el cual nos ayudo a generar algunos cambios respecto a la versión de ordenador, tanto como tamaños en los botones, tamaños de los copies, tamaño en las imágenes, la manera en como la arquitectura de la pagina influía al momento de cambiar el formato, esto nos ayudo a darle mas coherencia y orden a la plataforma web.
+</p>
 <a href="#">
     <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
 </a>
 <span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
 
-<p>Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.</p>
+<h2 class="section-heading">Solución tecnológica</h2>
+<p>De cara al usuario en esta release los cambios no son muchos, y solo aportamos la parte responsive de nuestra plataforma.</p>
 
-<p>As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.</p>
+<p>Pero si que hubo un trabajo importante internamente. Al plantearnos hacer la web responsive propusimos hacer una revisión del código, e incluír aquellas herramientas y cononocimientos que fuimos aprendiendo en las clases y que no habíamos incluído hasta ahora. Así empezamos a usar <a href="http://sass-lang.com/" target="_blank">Sass.</a>, y a plantear una <a href="http://rooof-project.github.io/rooof-sass/example.html" target="_blank">guía de estilo css</a> que nos ayudaría a lograr un mayor orden en el código. También empezamos a usar grids css valiendonos de frameworks como <a href="http://foundation.zurb.com/" target="_blank">Foundation.</a></p>
 
-<p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
