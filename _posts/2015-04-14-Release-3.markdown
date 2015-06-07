@@ -95,7 +95,7 @@ published: true
 
 <h3> Mail al usuario</h3>
 
-<p>Diseñamos un mail para confirmar al usuario que la reserva se había realizado y para generar en el usuario sensación de seguridad tras la reserva. Por ello incluimos una simpática imagen de un ticket a modo “tienes tu entrada en el mail”. En el mail también explicamos como se realiza el pago y información acerca del evento.</p>
+<p>Diseñamos un mail para confirmar al usuario que la reserva se había realizado y para generar en el usuario sensación de seguridad tras la reserva. Incluimos una imagen de un ticket a modo “tienes tu entrada en el mail”, donde también explicamos como se realiza el pago y información acerca del evento.</p>
 
 
 <img src="{{ site.baseurl }}/img/mail.jpg" alt="Post Sample Image">
