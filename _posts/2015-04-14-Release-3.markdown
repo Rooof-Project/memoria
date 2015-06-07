@@ -109,9 +109,10 @@ published: true
 
 <p>Comenzamos creando una versión móvil. Para ello se realizó <a href="https://marvelapp.com/2ie4i7" target="_blank">un prototipo</a> en marvel el cual nos ayudo a generar algunos cambios respecto a la versión de ordenador, tanto como tamaños en los botones, tamaños de los copies, tamaño en las imágenes, la manera en como la arquitectura de la pagina influía al momento de cambiar el formato, esto nos ayudo a darle mas coherencia y orden a la plataforma web.
 </p>
-<a href="https://marvelapp.com/2ie4i7" target="_blank">
-    <img src="{{ site.baseurl }}/img/tercera-rel-mobile.jpg" alt="ROOOF móvil">
-</a>
+
+<img src="{{ site.baseurl }}/img/tercera-rel-mobile.jpg" alt="ROOOF móvil">
+<span class="caption text-muted">Tras varias pruebas y cambios así es como quedó la versión móvil.
+.</span>
 
 
 <h2 class="section-heading">Solución tecnológica</h2>
