@@ -41,6 +41,8 @@ published: true
 	<li> Se logro dar a entender con claridad de que va la pagina.</li>
 
 	<li> Logran identificar de manera sencilla que hay varios tipos de eventos diferenciados por temáticas.</li>
+    
+    <li> Identifican los elementos clicables y no tienen problemas con la navegación.</li>
 
 	<li> Encuentran la manera de contactar con la plataforma.</li>
     </ul>
@@ -48,20 +50,19 @@ published: true
 <li>Objetivos No Conseguidos:</li>
 <ul>
 <li> No comprenden como funciona el proceso de creación  y de reserva de eventos. (Falta claridad)</li>
+
+<li> No se enteran muy bien que el proceso de reserva y de creación ha finalizado.</li>
 	
 <li> Crean una cuenta sin problemas pero se entorpece el proceso de reserva.</li> 
 
-<li> No se enteran muy bien que el proceso de reserva y de creación ha finalizado.</li>
  </ul>
  </ul>
 
-<p>Los objetivos no alcanzados fueron los primeros que empezamos a corregir antes de añadir nuevas funcionalidad a la plataforma, para la creación y reserva de eventos se intervino en los formularios y alertas para que fueran mas claros al momento de usarlos.</p>
-<p>En el caso de creación de evento, en el momento del test, no estaba completo debido al alto nivel de programación que necesitaba, por lo cual nos llevo un tiempo en conseguir finalizarlo satisfactoriamente.</p>
 
 <h2 class="section-heading">Objetivos de la release</h2>
 <p>En esta release tuvimos un problema con el tiempo. El test se había alargado demasiado y nos quedaba muy poco margen de reacción. Analizamos los resultados del test y establecimos unos objetivos mínimos.</p>
 
-<p>Los objetivos no alcanzados fueron los primeros que empezamos a corregir antes de añadir nuevas funcionalidad a la plataforma, para la creación y reserva de eventos se intervino en los formularios y se empezó a crear un sistema de alertas que avisara al usuario que el proceso de reserva había finalizado.</p>
+<p>Los objetivos no alcanzados fueron los primeros que empezamos a corregir antes de añadir nuevas funcionalidad a la plataforma. Para la creación y reserva de eventos se intervino en los formularios y se planteó la creación de mails que avisaran al usuario que los procesos de reserva y creación habían finalizado.</p>
 
 <p>En el caso de creación de evento, en el momento del test, no estaba completo debido al alto nivel de programación que necesitaba, por lo cual nos llevo un tiempo en conseguir finalizarlo satisfactoriamente.</p>
 
@@ -86,9 +87,19 @@ published: true
     
    </ul>
 
-<blockquote>The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.</blockquote>
+<h2 class="section-heading">Reserva y creación de evento</h2>
 
-<p>Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.</p>
+
+<p>El principal problema que arrastramos desde la primera release es que los usuario no perciben bien cuando han reservado o creado un evento. No les queda claro cuando finaliza el proceso.</p>
+<p> Ya teníamos previsto la creación de mail en la segunda release pero todavía no lo habíamos hecho, así que tocaba finalizar esa parte.</p>
+
+<h3> Mail al usuario</h3>
+
+<p>Ya por último, también diseñamos un mail para confirmar al usuario que la reserva se había realizado y para generar en el usuario sensación de seguridad tras la reserva. Por ello incluimos una simpática imagen de un ticket a modo “tienes tu entrada en el mail”. En el mail también explicamos como se realiza el pago y información acerca del evento.</p>
+
+
+<img src="{{ site.baseurl }}/img/mail.jpg" alt="Post Sample Image">
+
 
 <h2 class="section-heading">Reaching for the Stars</h2>
 
