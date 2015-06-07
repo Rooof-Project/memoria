@@ -97,7 +97,7 @@ published: true
 <p>El principal problema que arrastramos desde la primera release es que los usuario no perciben bien cuando han reservado o creado un evento. No les queda claro cuando finaliza el proceso.</p>
 <p> Ya teníamos previsto la creación de mail en la segunda release pero todavía no lo habíamos hecho, así que tocaba finalizar esa parte.</p>
 
-<h3> Mail al usuario</h3>
+<h3> Mails al usuario</h3>
 
 <p>Diseñamos un mail para confirmar al usuario que la reserva y la creación del evento se habían realizado. Para el proceso de reserva, la intención era también generar en el usuario sensación de seguridad. Incluimos una imagen de un ticket a modo “tienes tu entrada en el mail”, donde también explicamos como se realiza el pago y información acerca del evento.</p>
 
@@ -110,8 +110,9 @@ published: true
 <p>Comenzamos creando una versión móvil. Para ello se realizó <a href="https://marvelapp.com/2ie4i7" target="_blank">un prototipo</a> en marvel el cual nos ayudo a generar algunos cambios respecto a la versión de ordenador, tanto como tamaños en los botones, tamaños de los copies, tamaño en las imágenes, la manera en como la arquitectura de la pagina influía al momento de cambiar el formato, esto nos ayudo a darle mas coherencia y orden a la plataforma web.
 </p>
 <a href="https://marvelapp.com/2ie4i7">
-    <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="ROOOF móvil">
+    <img src="{{ site.baseurl }}/img/tercera-rel-mobile.jpg" alt="ROOOF móvil">
 </a>
+
 
 <h2 class="section-heading">Solución tecnológica</h2>
 <p>De cara al usuario en esta release los cambios no son muchos, y solo aportamos la parte responsive de nuestra plataforma.</p>
