@@ -5,8 +5,8 @@
     <description>ROOOF Memoria proyecto final</description>
     <link>http://rooof-project.github.io/memoria/</link>
     <atom:link href="http://rooof-project.github.io/memoria/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 06 Jun 2015 17:16:17 +0200</pubDate>
-    <lastBuildDate>Sat, 06 Jun 2015 17:16:17 +0200</lastBuildDate>
+    <pubDate>Sun, 07 Jun 2015 16:00:14 +0200</pubDate>
+    <lastBuildDate>Sun, 07 Jun 2015 16:00:14 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -504,12 +504,7 @@ Al comienzo pensamos que el espacio dónde se realizaban los eventos no estaba r
     &lt;li&gt;2 Por la plataforma: Si el usuario que va a disfrutar del evento quiere ir con más amigos es necesario que estos se registren, tener más usuarios registrados es positivo para la plataforma.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3&gt; Mail al usuario&lt;/h3&gt;
 
-&lt;p&gt;Ya por último, también diseñamos un mail para confirmar al usuario que la reserva se había realizado y para generar en el usuario sensación de seguridad tras la reserva. Por ello incluimos una simpática imagen de un ticket a modo “tienes tu entrada en el mail”. En el mail también explicamos como se realiza el pago y información acerca del evento.&lt;/p&gt;
-
-
-&lt;img src=&quot;/memoria/img/mail.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
 
 &lt;h2 class=&quot;section-heading&quot;&gt;Login de usuario&lt;/h2&gt;
 
@@ -517,7 +512,7 @@ Al comienzo pensamos que el espacio dónde se realizaban los eventos no estaba r
 
 &lt;h2 class=&quot;section-heading&quot;&gt;Prototipo testeable&lt;/h2&gt;
 
-El prototipo con el qué fuimos al laboratorío es &lt;a href=&quot;http://rooof-project.github.io/rooof-html/&quot; target=&quot;_blank&quot;&gt;éste&lt;/a&gt;. Aunque ya subido con algunas correcciones que hicimos posteriormente.
+El prototipo con el qué fuimos al laboratorio es &lt;a href=&quot;http://rooof-project.github.io/rooof-html/&quot; target=&quot;_blank&quot;&gt;éste&lt;/a&gt;. Aunque ya subido con algunas correcciones que hicimos posteriormente.
 
 Para hacer el prototipo continuamos usando html y css, cambiando los estilos que ya teníamos e incorporando nuevos.
 
@@ -533,40 +528,120 @@ Para hacer el prototipo continuamos usando html y css, cambiando los estilos que
     
       <item>
         <title>Tercera Release</title>
-        <description>&lt;p&gt;Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman&#39;s earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/p&gt;
+        <description>&lt;h2 class=&quot;section-heading&quot;&gt;Test UX en Laboratorio&lt;/h2&gt;
 
-&lt;p&gt;Science cuts two ways, of course; its products can be used for both good and evil. But there&#39;s no turning back from science. The early warnings about technological dangers also come from science.&lt;/p&gt;
+&lt;p&gt;En esta etapa teníamos la posibilidad de realizar unos test de usuario en laboratorio de UX y queríamos llegar con el proyecto lo más avanzado  posible. En este test podríamos a prueba la plataforma con usuarios que nunca la habían visto. Habíamos elaborado un guión para poner a prueba las siguientes cuestiones:&lt;/p&gt;
 
-&lt;p&gt;What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1. Evaluar si los usuarios reconocen de qué trata la web.&lt;/li&gt;
 
-&lt;p&gt;A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That&#39;s how I felt seeing the Earth for the first time. I could not help but love and cherish her.&lt;/p&gt;
+&lt;li&gt;2. Saber si los usuarios comprenden, en general, que ofrece la web, que puedes hacer en ella, y si entienden que hay dos formas de interactuar: como creador de eventos y como asistente.&lt;/li&gt;
 
-&lt;p&gt;For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.&lt;/p&gt;
+&lt;li&gt;3. Efectividad de los elementos clicables.&lt;/li&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;The Final Frontier&lt;/h2&gt;
+&lt;li&gt;4. Valorar necesidad de etiquetas, categorización de eventos.&lt;/li&gt;
 
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+&lt;li&gt;5. Valorar la efectividad de la ficha del evento: organización de la información, priorización de información, si es demasiado larga…&lt;/li&gt;
 
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+&lt;li&gt;6. Saber si los usuarios comprenden cómo funcionan las reservas, qué pasa después de hacer la reserva.&lt;/li&gt;
 
-&lt;blockquote&gt;The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.&lt;/blockquote&gt;
+&lt;li&gt;7. Valorar la efectividad de la página de creación de eventos: ¿saben los usuarios dónde están? ¿qué puedes hacer como creador?&lt;/li&gt;
 
-&lt;p&gt;Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.&lt;/p&gt;
+&lt;li&gt;8. Saber si los usuarios comprenden cómo se organiza un evento, qué pasa después de que se realice el formulario.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;/memoria/img/lab.jpg&quot; alt=&quot;laboratorio&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;Reaching for the Stars&lt;/h2&gt;
+&lt;h3&gt;Observaciones y análisis del test&lt;/h3&gt;
+&lt;p&gt;Tras la realización del test nos dimos cuenta tanto de cosas positivas y cosas negativas respecto al prototipo presentado, no todos los objetivos que presentamos se lograron de manera satisfactoria, y esto nos llevo a analizar los resultados para corregir y mejorar la plataforma.&lt;/p&gt;
 
-&lt;p&gt;As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Al ver los resultados del test, no encontramos con lo siguiente:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Objetivos Conseguidos:&lt;/li&gt;
+	&lt;ul&gt;
+	&lt;li&gt; Se logro dar a entender con claridad de que va la pagina.&lt;/li&gt;
 
-&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/memoria/img/post-sample-image.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
-&lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;To go places and do things that have never been done before – that’s what living is all about.&lt;/span&gt;&lt;/p&gt;
+	&lt;li&gt; Logran identificar de manera sencilla que hay varios tipos de eventos diferenciados por temáticas.&lt;/li&gt;
+    
+    &lt;li&gt; Identifican los elementos clicables y no tienen problemas con la navegación.&lt;/li&gt;
 
-&lt;p&gt;Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.&lt;/p&gt;
+	&lt;li&gt; Encuentran la manera de contactar con la plataforma.&lt;/li&gt;
+    &lt;/ul&gt;
 
-&lt;p&gt;As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.&lt;/p&gt;
+&lt;li&gt;Objetivos No Conseguidos:&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt; No comprenden como funciona el proceso de creación  y de reserva de eventos. (Falta claridad)&lt;/li&gt;
 
-&lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://www.flickr.com/photos/nasacommons/&quot;&gt;NASA on The Commons&lt;/a&gt;.&lt;/p&gt;
+&lt;li&gt; No se enteran muy bien que el proceso de reserva y de creación ha finalizado.&lt;/li&gt;
+	
+&lt;li&gt; Crean una cuenta sin problemas pero se entorpece el proceso de reserva.&lt;/li&gt; 
+
+ &lt;/ul&gt;
+ &lt;/ul&gt;
+
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Objetivos de la release&lt;/h2&gt;
+&lt;p&gt;En esta release tuvimos un problema con el tiempo. El test se había alargado demasiado y nos quedaba muy poco margen de reacción. Analizamos los resultados del test y establecimos unos objetivos mínimos.&lt;/p&gt;
+
+&lt;p&gt;Los objetivos no alcanzados fueron los primeros que empezamos a corregir antes de añadir nuevas funcionalidad a la plataforma. Para la creación y reserva de eventos se intervino en los formularios y se planteó la creación de mails que avisaran al usuario que los procesos de reserva y creación habían finalizado.&lt;/p&gt;
+
+&lt;p&gt;En el caso de creación de evento, en el momento del test, no estaba completo debido al alto nivel de programación que necesitaba, por lo cual nos llevo un tiempo en conseguir finalizarlo satisfactoriamente.&lt;/p&gt;
+
+&lt;p&gt;También hicimos algunos pequeños cambios en arquitectura valiéndonos de la información de los test. No debíamos dar tanta importancia al apartado &quot;Qué es ROOOF&quot;, facilitar el acceso a la lista de eventos era más importante. Nos dimos cuenta de que los copies de la home funcionaban, y que el estilo claro y directo era acertado. Por otra parte, nadie se leía los textos del slide en la sección &quot;Qué es ROOOF&quot;, pero descubrimos que la fotografía comunicaba lo que queríamos, y aportaba mucha información al usuario.&lt;/p&gt;
+
+&lt;p&gt;Nos propusimos abordar en esta realise la parte móvil. Era muy importante que los usuarios pudieran acceder a la plataforma desde cualquier dispositivo, pues hasta ahora solo podían hacerlo desde desktop.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Historias de usuario&lt;/h2&gt;
+
+&lt;p&gt;Luego del test de usuario en laboratorio y analizar los objetivos, empezamos a definir que historias entrarían en esta release, y en esta coacción quedo organizado de la siguiente manera.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt; Mejora de historias anteriores:&lt;/li&gt; 
+	&lt;ul&gt;
+	&lt;li&gt; Reservar evento.&lt;/li&gt; 
+	&lt;li&gt; Crear evento.&lt;/li&gt; 
+    &lt;/ul&gt;
+	
+&lt;li&gt; Nuevas Historias de usuario.&lt;/li&gt;
+	&lt;ul&gt;
+	&lt;li&gt; Buscar evento (Móvil).&lt;/li&gt;
+	&lt;li&gt; Ver evento (Móvil).&lt;/li&gt;
+	&lt;li&gt; Reservar evento (Móvil).&lt;/li&gt;
+    &lt;/ul&gt;
+    
+   &lt;/ul&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Reserva y creación de evento&lt;/h2&gt;
+
+
+&lt;p&gt;El principal problema que arrastramos desde la primera release es que los usuario no perciben bien cuando han reservado o creado un evento. No les queda claro cuando finaliza el proceso.&lt;/p&gt;
+&lt;p&gt; Ya teníamos previsto la creación de mail en la segunda release pero todavía no lo habíamos hecho, así que tocaba finalizar esa parte.&lt;/p&gt;
+
+&lt;h3&gt; Mails al usuario&lt;/h3&gt;
+
+&lt;p&gt;Diseñamos un mail para confirmar al usuario que la reserva y la creación del evento se habían realizado. Para el proceso de reserva, la intención era también generar en el usuario sensación de seguridad. Incluimos una imagen de un ticket a modo “tienes tu entrada en el mail”, donde también explicamos como se realiza el pago y información acerca del evento.&lt;/p&gt;
+
+
+&lt;img src=&quot;/memoria/img/mail.jpg&quot; alt=&quot;mail&quot; /&gt;
+
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Versión móvil&lt;/h2&gt;
+
+&lt;p&gt;Comenzamos creando una versión móvil centrándonos sobre todo en la búsqueda y reserva del evento. La creación del evento en móvil la dejaríamos para más adelante, al considerarla menos importante.&lt;/p&gt;
+
+&lt;p&gt;Para ello se realizó &lt;a href=&quot;https://marvelapp.com/2ie4i7&quot; target=&quot;_blank&quot;&gt;un prototipo&lt;/a&gt; en Marvelapp el cual nos ayudo a generar algunos cambios respecto a la versión de ordenador, tanto como tamaños en los botones, tamaños de los copies, tamaño en las imágenes, la manera en como la arquitectura de la pagina influía al momento de cambiar el formato, esto nos ayudo a darle mas coherencia y orden a la plataforma web.
+&lt;/p&gt;
+
+&lt;img src=&quot;/memoria/img/tercera-rel-mobile.jpg&quot; alt=&quot;ROOOF móvil&quot; /&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Tras varias pruebas y cambios así es como quedó la versión móvil.
+.&lt;/span&gt;
+
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Solución tecnológica&lt;/h2&gt;
+&lt;p&gt;De cara al usuario en esta release los cambios no son muchos, y solo aportamos la parte responsive de nuestra plataforma.&lt;/p&gt;
+
+&lt;p&gt;Pero si que hubo un trabajo importante internamente. Al plantearnos hacer la web responsive propusimos hacer una revisión del código, e incluír aquellas herramientas y cononocimientos que fuimos aprendiendo en las clases y que no habíamos incluído hasta ahora. Así empezamos a usar &lt;a href=&quot;http://sass-lang.com/&quot; target=&quot;_blank&quot;&gt;Sass&lt;/a&gt;, y a plantear una &lt;a href=&quot;http://rooof-project.github.io/rooof-sass/example.html&quot; target=&quot;_blank&quot;&gt;guía de estilo css&lt;/a&gt; que nos ayudaría a lograr un mayor orden en el código. También empezamos a usar grids css valiendonos de frameworks como &lt;a href=&quot;http://foundation.zurb.com/&quot; target=&quot;_blank&quot;&gt;Foundation.&lt;/a&gt;&lt;/p&gt;
+
+&lt;/p&gt;
 </description>
         <pubDate>Tue, 14 Apr 2015 00:00:00 +0200</pubDate>
         <link>http://rooof-project.github.io/memoria/2015/04/14/Release-3/</link>
