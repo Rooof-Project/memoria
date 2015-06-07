@@ -214,7 +214,7 @@ published: true
 
 <h2 class="section-heading">Prototipo testeable</h2>
 
-El prototipo con el qué fuimos al laboratorío es <a href="http://rooof-project.github.io/rooof-html/" target="_blank">éste</a>. Aunque ya subido con algunas correcciones que hicimos posteriormente.
+El prototipo con el qué fuimos al laboratorio es <a href="http://rooof-project.github.io/rooof-html/" target="_blank">éste</a>. Aunque ya subido con algunas correcciones que hicimos posteriormente.
 
 Para hacer el prototipo continuamos usando html y css, cambiando los estilos que ya teníamos e incorporando nuevos.
 
