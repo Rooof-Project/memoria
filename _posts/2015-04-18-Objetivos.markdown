@@ -8,6 +8,7 @@ published: true
 
 
 
+
 <h2 class="section-heading">¿Qué es ROOOF?</h2>
 
 <p>Imaginaos un domingo de resaca. De repente el maldito vecino del 2ºB empieza tocar su piano. Joder que putada, lo odias y lo quieres matar.</p>
@@ -74,16 +75,3 @@ published: true
 <li>Falta de creadores: puede que no tengan un espacio para hacerlo.</li>
 <li>Falta de público por <strong>desconfianza</strong> a ir a espacios privados.</li>
 </ul>
-
-
-
-
-
-
-
-
-
-
-
-
-
