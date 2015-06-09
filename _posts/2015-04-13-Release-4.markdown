@@ -2,7 +2,7 @@
 layout: post
 title: Cuarta Release
 subtitle: Optimización y mejora de las historias.
-"header-img": "img/post-bg-01.jpg"
+"header-img": "img/post-bg-06.jpg"
 published: true
 ---
 

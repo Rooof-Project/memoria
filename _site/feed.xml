@@ -5,8 +5,8 @@
     <description>ROOOF Memoria proyecto final</description>
     <link>http://rooof-project.github.io/memoria/</link>
     <atom:link href="http://rooof-project.github.io/memoria/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 07 Jun 2015 16:00:14 +0200</pubDate>
-    <lastBuildDate>Sun, 07 Jun 2015 16:00:14 +0200</lastBuildDate>
+    <pubDate>Tue, 09 Jun 2015 12:58:57 +0200</pubDate>
+    <lastBuildDate>Tue, 09 Jun 2015 12:58:57 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -18,7 +18,7 @@
 
 &lt;p&gt;Nuestro equipo estaba montado y respondía a las exigencias del máster: debía ser mixto sexualmente, con miembros con experiencia laboral previa, y al menos uno debía ser de fuera. Además todo el equipo tenía un brief favorito: experiencias guiadas. Y uno menos favorito: Plataforma Cultural, que ocupaba el tercer puesto de cuatro.&lt;/p&gt;
 
-&lt;p&gt;Solo había un problema. Otro equipo había elegido ya el brief de experiencias guiadas. Se planteó un duelo de ideas, ganaría la idea mas original. Creo que todos pensamos que tendríamos mas posibilidades de ganar lanzando una moneda al aire. La lanzamos y perdimos.Tendríamos que haber escogido al rey.&lt;/p&gt;
+&lt;p&gt;Solo había un problema. Otro equipo había elegido ya el brief de experiencias guiadas. Se planteó un duelo de ideas, ganaría la idea mas original. Creo que todos pensamos que tendríamos mas posibilidades de ganar lanzando una moneda al aire. La lanzamos y perdimos.&lt;/p&gt;
 
 &lt;p&gt;Así que nuestro brief era este:&lt;/p&gt;
 &lt;blockquote&gt;Diseñar una plataforma para personas u organizaciones interesadas por la cultura donde puedan compartir de manera restringida o pública sus gustos y experiencias, y obtener recomendaciones a partir de los de otras personas afines. &lt;/blockquote&gt;
@@ -39,7 +39,6 @@
 
 &lt;p&gt;Consideramos que la web puede ofrecer y crear nuevos tipos de negocio en el ámbito de las artes. Con este proyecto queremos demostrarlo.
 &lt;/p&gt;
-
 </description>
         <pubDate>Mon, 20 Apr 2015 00:00:00 +0200</pubDate>
         <link>http://rooof-project.github.io/memoria/2015/04/20/como-empezo-todo/</link>
@@ -114,7 +113,6 @@
 &lt;li&gt;Falta de creadores: puede que no tengan un espacio para hacerlo.&lt;/li&gt;
 &lt;li&gt;Falta de público por &lt;strong&gt;desconfianza&lt;/strong&gt; a ir a espacios privados.&lt;/li&gt;
 &lt;/ul&gt;
-
 </description>
         <pubDate>Sat, 18 Apr 2015 00:00:00 +0200</pubDate>
         <link>http://rooof-project.github.io/memoria/2015/04/18/Objetivos/</link>
@@ -129,15 +127,15 @@
 
 &lt;p&gt;Para el desarrollo del proyecto hemos querido alejarnos de los tradicionales procesos en cascada e intentar involucrarnos con metodologías ágiles.&lt;/p&gt;
 
-&lt;p&gt;Pese a que el uso de métodos ágiles no era un requisito fundamental para el proyecto, despues de un par de clases nos vimos motivados y decicimos que era otra oportunidad para aprender, no solo diseño si no también diseño de trabajo.&lt;/p&gt;
+&lt;p&gt;Pese a que el uso de métodos ágiles no era un requisito fundamental para el proyecto, después de un par de clases nos vimos motivados y decicimos que era otra oportunidad para aprender, no solo diseño si no también diseño de trabajo.&lt;/p&gt;
 
-&lt;p&gt;Así, establecimos que no íbamos a hacer entregas secuenciales, donde primero haríamos toda la arquitectura para mas tarde pasar al diseño, y luego a la programación. Haríamos entregas inclementales. Establecimos que íbamos siempre a entregar un prototipo que fuesemos capaces de testear con los usuarios, usando html y css, siempre que fuese posible.&lt;/p&gt;
+&lt;p&gt;Así, establecimos que no íbamos a hacer entregas secuenciales, donde primero haríamos toda la arquitectura para mas tarde pasar al diseño, y luego a la programación. Haríamos entregas incrementales. Establecimos que íbamos siempre a entregar un prototipo que fuesemos capaces de testear con los usuarios, usando html y css, siempre que fuese posible.&lt;/p&gt;
 
 &lt;p&gt;Diseñamos nuestro proceso de trabajo así:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/memoria/img/metodo-agil-23.png&quot; alt=&quot;Post Sample Image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Primero planteamos las historias de usuario y los objetivos del proyecto. Desarrollamos las historias incluyendo todas aquellas facetas que consideramos necesarias: workflow, entrevistas, wireframes, diseño visual, y desarrollo del prototipo. Al final probamos el prototipo y con las conclusiones sacadas volvemos a plantear nuevas historias de usuario&lt;/p&gt;
+&lt;p&gt;Primero planteamos las historias de usuario y los objetivos del proyecto. Desarrollamos las historias incluyendo todas aquellas facetas que consideramos necesarias: workflow, entrevistas, wireframes, diseño visual, y desarrollo del prototipo. Al final probamos el prototipo y con las conclusiones sacadas volvemos a plantear nuevas historias de usuario.&lt;/p&gt;
 
 &lt;p&gt;Lo cierto es que no fué un círculo cerrado ni perfecto, y el proceso real se aleja del esquema. Hubo veces que no tuvimos tiempo a acabar las historias, por lo que empezábamos la siguiente release con el prototipo sin testear. O a veces nos costaba mucho esfuerzo hacer el planteamiento y teníamos un backlog lleno de tareas por hacer.&lt;/p&gt;
 
@@ -774,7 +772,7 @@ La estrategia podéis verla &lt;a href=&quot;http://issuu.com/rooof-project/docs
 &lt;p&gt;La identidad de la plataforma también la hemos planteado de manera incremental.
 Al trabajar por releases, y tener un tiempo limitado para abarcar todos los aspectos del proyecto (investigación con usuarios, modelo de negocio, arquitectura, soluciones tecnológicas...) nos dimos cuenta que no podíamos invertir desde el principio todo el tiempo que requiere crear una identidad sólida ya que lo primero era crear la plataforma, hacer un prototipo funcional y probarlo para saber qué caminos escoger. Por lo que en un primer momento decidimos hacer lo básico, una identidad mínima, que iría evolucionando a medida que avanzábamos con el proyecto.
 
-&lt;p&gt;En medio de entrevistas con usuarios, design thinking, y análisis de diferentes plataformas empezamos a sentar las bases de los elementos de la identidad: Tipografía, color, fotografía, Naming, logotipo y comunicación. &lt;/p&gt;
+&lt;p&gt;En medio de entrevistas con usuarios, design thinking, y análisis de diferentes plataformas empezamos a sentar las bases de los elementos de la identidad: tpografía, color, fotografía, Naming, logotipo y comunicación. &lt;/p&gt;
 
 &lt;h2 class=&quot;section-heading&quot;&gt;Teniendo en cuenta el target&lt;/h2&gt;
 
@@ -783,7 +781,7 @@ Al trabajar por releases, y tener un tiempo limitado para abarcar todos los aspe
 &lt;h2 class=&quot;section-heading&quot;&gt;Elementos de la identidad&lt;/h2&gt;
 
 
-&lt;img src=&quot;/memoria/img/layout-1.jpg&quot; alt=&quot;Pagina de Rooof&quot; /&gt;
+&lt;img src=&quot;/memoria/img/layout-1.jpg&quot; alt=&quot;Página de Rooof&quot; /&gt;
 
 &lt;span class=&quot;caption text-muted&quot;&gt;Rooof es un amigo que te recomienda nuevas formas de disfrutar de tu tiempo libre. Así es como fuimos definiendo el proyecto y la identidad debía reflejarlo.
 Con la combinación de tipografía, fotografía y color fuimos dando forma a la web.&lt;/span&gt;

@@ -2,7 +2,7 @@
 layout: post
 title: Segunda Release
 subtitle: Cómo aprendimos de los usuarios mediante test de guerrilla y mejoramos nuestra plataforma.
-"header-img": "img/post-bg-01.jpg"
+"header-img": "img/post-bg-14.jpg"
 published: true
 ---
 

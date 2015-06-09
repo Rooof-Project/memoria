@@ -2,7 +2,7 @@
 layout: post
 title: Cómo empezó todo
 subtitle: El brief que perdimos echando una moneda al aire
-"header-img": "img/background-party.jpg"
+"header-img": "img/post-bg-12.jpg"
 published: true
 ---
 

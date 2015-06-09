@@ -2,7 +2,7 @@
 layout: post
 title: Conclusiones finales
 subtitle: Qué hemos aprendido.
-"header-img": "img/post-bg-01.jpg"
+"header-img": "img/post-bg-13.jpg"
 published: true
 ---
 
