@@ -11,6 +11,7 @@ published: true
 
 
 
+
 <p>Una vez concluída la primera release lo primero que hicimos fue testearla con usuarios. Esta vez teníamos un prototipo funcional y podríamos descubrir y aprender más cosas acerca de como mejorar la web.</p>
 
 <h2 class="section-heading">Test UX</h2>
@@ -62,7 +63,7 @@ published: true
 
 <img src="{{ site.baseurl }}/img/workflow-r2.jpg" alt="workflow">
 
-<p>Nos planteamos añadir nuevas secciones: ¿qué es rooof?, y dar más protagonismo a la lista de eventos.</p>
+<p>Nos planteamos añadir nuevas secciones: ¿qué es ROOOF?, y dar más protagonismo a la lista de eventos.</p>
 
 
 <h2 class="section-heading">Wireframes</h2>
@@ -80,13 +81,13 @@ published: true
 <span class="caption text-muted">Con el wireframe, hicimos un prototipo muy simple con Marvelapp, para comprobar si nuestra estructura funcionaba a nivel de navegación.
 .</span>
 
-<p>Nuestra preocupación por hacer saber que era Rooof nos llevó a plantear una nueva página en la que el usuario podía informarse qué podía hacer en la plataforma "¿qué es rooof?", le daríamos el máximo protagonismo poniendo un botón en el header de la landing que llevara a los usuarios hasta esta sección.</p>
+<p>Nuestra preocupación por hacer saber que era ROOOF nos llevó a plantear una nueva página en la que el usuario podía informarse qué podía hacer en la plataforma "¿qué es ROOOF?", le daríamos el máximo protagonismo poniendo un botón en el header de la landing que llevara a los usuarios hasta esta sección.</p>
 
 <p>En esta página también mostramos otras funcionalidades que siempre deberían estar presentes: lista de eventos y como asistir a un evento.</p>
 
 <p><strong>Además con el wireframe sacamos estas conclusiones:</strong></p>
 <ul>
-<li> Tenemos que añadir un botón "qué es rooof” en el header, para que en todo momento se pueda acceder a esta información.</li>
+<li> Tenemos que añadir un botón "qué es ROOOF” en el header, para que en todo momento se pueda acceder a esta información.</li>
 
 <li> Ok a la nueva estructura de la landing:</li>
 
@@ -120,7 +121,7 @@ published: true
 </a>
 
 
-<p>También empezamos a probar con otros copies. Antes era “Rooof es una nueva forma de disfrutar de la cultura en casa” y ahora es “quedadas culturales en casas de Barcelona”.</p>
+<p>También empezamos a probar con otros copies. Antes era “ROOOF es una nueva forma de disfrutar de la cultura en casa” y ahora es “quedadas culturales en casas de Barcelona”.</p>
 
 
 <h3>Propuesta Gráfica</h3>
