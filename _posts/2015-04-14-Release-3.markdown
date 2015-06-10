@@ -8,9 +8,10 @@ published: true
 
 
 
+
 <h2 class="section-heading">Test UX en Laboratorio</h2>
 
-<p>En esta etapa teníamos la posibilidad de realizar unos test de usuario en laboratorio de UX y queríamos llegar con el proyecto lo más avanzado  posible. En este test podríamos a prueba la plataforma con usuarios que nunca la habían visto. Habíamos elaborado un guión para poner a prueba las siguientes cuestiones:</p>
+<p>En esta etapa teníamos la posibilidad de realizar unos test de usuario en laboratorio de UX y queríamos llegar con el proyecto lo más avanzado  posible. En este test pondríamos a prueba la plataforma con usuarios que nunca la habían visto. Habíamos elaborado un guión para poner a prueba las siguientes cuestiones:</p>
 
 <ul>
 <li>1. Evaluar si los usuarios reconocen de qué trata la web.</li>
@@ -121,4 +122,3 @@ published: true
 <p>De cara al usuario en esta release los cambios no son muchos, y solo aportamos la parte responsive de nuestra plataforma.</p>
 
 <p>Pero si que hubo un trabajo importante internamente. Al plantearnos hacer la web responsive propusimos hacer una revisión del código, e incluír aquellas herramientas y cononocimientos que fuimos aprendiendo en las clases y que no habíamos incluído hasta ahora. Así empezamos a usar <a href="http://sass-lang.com/" target="_blank">Sass</a>, y a plantear una <a href="http://rooof-project.github.io/rooof-sass/example.html" target="_blank">guía de estilo css</a> que nos ayudaría a lograr un mayor orden en el código. También empezamos a usar grids css valiendonos de frameworks como <a href="http://foundation.zurb.com/" target="_blank">Foundation.</a></p>
-
