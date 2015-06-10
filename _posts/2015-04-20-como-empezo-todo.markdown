@@ -9,6 +9,7 @@ published: true
 
 
 
+
 <h2 class="section-heading">Empezando bien</h2>
 <p>Habíamos estado trabajando en cuatro briefs diferentes y con distintos equipos durante dos semanas. Mientras nos íbamos conociendo y familiarizándonos con técnicas de design thinking, cada uno iba teniendo un brief favorito.</p>
 
@@ -28,9 +29,11 @@ published: true
 
 <p>Ahora tocaba volver a empezar con el nuevo brief y el nuevo equipo. Teníamos algunos materiales que nuestros compañeros (y nosotros mismos) habían hecho previamente para este brief, y nos vinieron de lujo como partida para seguir con la investigación.</p>
 
-<p>Desde un principio siempre rondaba una idea en nuestras cabezas: asistir a actos culturales de una forma más fácil, barata y comunitaria. Pensamos que teníamos que enlazarlo con los espacios privados de los usuarios: sus casas.</p>
+<p>Comenzamos analizando el material que ya teníamos y haciendo nuevas entrevistas. </p>
 
-<p>Nos impusimos esta máxima: sin espacio privado no hay proyecto. Temíamos que Rooof se convirtiese en una mera agenda cultural, de las que ya existen tantas como "le cool", "time out" etc... Agendas que enlazan negocios culturales con usuarios.</p>
+<p>Desde el primer contacto con posibles usuarios, siempre rondaba una idea en nuestras cabezas: asistir a actos culturales de una forma más fácil, barata y comunitaria. Pensamos que teníamos que enlazarlo con los espacios privados de los usuarios: sus casas.</p>
+
+<p>Nos impusimos esta máxima: sin espacio privado no hay proyecto. Temíamos que ROOOF se convirtiese en una mera agenda cultural, de las que ya existen tantas como "Le Cool", "Time Out" etc... Agendas que enlazan negocios culturales con usuarios.</p>
 
 <p>No queríamos estar relacionados con este circuito clásico del negocio, queríamos crear el nuestro, uno diferente creado por personas sin necesidad de infraestructura especial para su desarrollo.</p>
 
