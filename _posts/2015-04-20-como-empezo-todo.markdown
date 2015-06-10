@@ -8,6 +8,7 @@ published: true
 
 
 
+
 <h2 class="section-heading">Empezando bien</h2>
 <p>Habíamos estado trabajando en cuatro briefs diferentes y con distintos equipos durante dos semanas. Mientras nos íbamos conociendo y familiarizándonos con técnicas de design thinking, cada uno iba teniendo un brief favorito.</p>
 
@@ -20,7 +21,7 @@ published: true
 <p>Así que nuestro brief era este:</p>
 <blockquote>Diseñar una plataforma para personas u organizaciones interesadas por la cultura donde puedan compartir de manera restringida o pública sus gustos y experiencias, y obtener recomendaciones a partir de los de otras personas afines. </blockquote>
 
-<p>El brief que no queríamos, pero no pasaba nada, porque todavía no lo sabíamos pero teníamos un equipo de puta madre.</p>
+<p>El brief que no queríamos, pero no pasaba nada, porque todavía no lo sabíamos pero teníamos un equipo genial.</p>
 
 
 <h2 class="section-heading">Cuestionando el brief</h2>
