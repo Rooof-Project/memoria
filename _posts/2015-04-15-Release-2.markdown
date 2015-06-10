@@ -12,6 +12,7 @@ published: true
 
 
 
+
 <p>Una vez concluída la primera release lo primero que hicimos fue testearla con usuarios. Esta vez teníamos un prototipo funcional y podríamos descubrir y aprender más cosas acerca de como mejorar la web.</p>
 
 <h2 class="section-heading">Test UX</h2>
@@ -60,8 +61,9 @@ published: true
 
 <p>De nuevo necesitábamos un camino a seguir. El rediseño de la página, añadir las nuevas historias de usuarios y corregir las que ya teníamos suponía una gran tarea. Necesitábamos un esqueleto que nos mostrase qué podía hacer el usuario en cada lugar en el que se encontraba. Necesitábamos un mapa para no perdernos en el diseño, un mapa que se hizo mucho más complejo de lo que pensábamos al añadir la funcionalidad de registro/login de usuario.</p>
 
-
+<a href="https://www.dropbox.com/s/0yf6yt6bybjxuy5/02-workflow.png?dl=0" target="_blank">
 <img src="{{ site.baseurl }}/img/workflow-r2.jpg" alt="workflow">
+</a>
 
 <p>Nos planteamos añadir nuevas secciones: ¿qué es ROOOF?, y dar más protagonismo a la lista de eventos.</p>
 
