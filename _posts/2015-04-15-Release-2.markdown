@@ -158,7 +158,6 @@ published: true
 
 <p>Después:</p>
 
-
 <img src="{{ site.baseurl }}/img/Despues-r2.png" alt="copies">
 
 
