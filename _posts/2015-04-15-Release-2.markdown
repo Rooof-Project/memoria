@@ -13,6 +13,7 @@ published: true
 
 
 
+
 <p>Una vez concluída la primera release lo primero que hicimos fue testearla con usuarios. Esta vez teníamos un prototipo funcional y podríamos descubrir y aprender más cosas acerca de como mejorar la web.</p>
 
 <h2 class="section-heading">Test UX</h2>
@@ -157,9 +158,9 @@ published: true
 
 <p>Después:</p>
 
-<a href="#">
-    <img src="{{ site.baseurl }}/img/Despues-r2.png" alt="copies">
-</a>
+
+<img src="{{ site.baseurl }}/img/Despues-r2.png" alt="copies">
+
 
 <p>Además haríamos los copies más directos y claros. Los usuarios no sabían que los eventos eran en casas particulares y debíamos poner remedio. La frase del header, la que comunica qué es ROOOF, la cambiamos varias veces. Al final la que mejor funcionó fué esta:
 
