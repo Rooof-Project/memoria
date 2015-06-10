@@ -9,6 +9,7 @@ published: true
 
 
 
+
 <h2 class="section-heading">Design Thinking e Investigación</h2>
 
 <p>Una vez recibido el primer brief para la plataforma usamos varias herramientas de design thinking para generar ideas y buscar un camino para darle forma a nuestra propuesta.</p>
@@ -45,6 +46,8 @@ Al comienzo pensamos que el espacio dónde se realizaban los eventos no estaba r
 <p>Uno de los problemas que detectamos es la notable negativa por parte de los entrevistados a ofrecer su casa como lugar del evento. Somos conscientes de que esto puede ser uno de los mayores problemas a la hora hacer nuestra plataforma un proyecto real. Por otra parte, pensamos que nuestra idea no es tan descabellada ya que existen otras webs, como airbnb, donde desconocidos duermen bajo el mismo techo.</p>
 
 <p>En cuanto a los creadores del evento descubrimos que necesitaban ciertas funcionalidades que les hiciese sentir seguros y afines a la plataforma: deben poder decidir el lugar, la fecha, la hora el número de asistentes, el precio. Los creadores tenían que ser los usuarios "mimados", ofrecen su casa e invierten tiempo y preparación para realizar el evento. Pero no podíamos olvidar a los asistentes los cuales son mayor en número. Nos empezamos a percatar de que teníamos una posible complicación: tenemos dos tipos de usuarios muy distintos con diferentes necesidades y motivaciones. Teníamos que <strong>resolver las necesidades</strong> de cada uno y generar experiencias para ambos al mismo tiempo y a veces por separado.</p>
+
+<img src="{{ site.baseurl }}/img/pepe-daniela.jpg" alt="Mapa de Insights">
 
 <p>Estas primeras entrevistas también nos sirvieron para dejar de un lado nuestra ingeniudad y buscar una forma más eficaz de sacar información de valor al entrevistado mediante el uso de preguntas más elaboradas.</p>
 
@@ -155,6 +158,4 @@ Al comienzo pensamos que el espacio dónde se realizaban los eventos no estaba r
 
 <p>A la hora de crear el evento recurrimos a un typeform ya que consideramos que no era oportuno invertir tiempo en la creación de un formulario propio. Nos interesaba que lo que nos plateamos en las historias de usuario funcionase con el mínimo esfuerzo posible ya que sabíamos que todo podía cambiar.</p>
 
-<p>El resultado <a href="http://www.ivanbayo.com/rooof/" target="_blank">puede verse online</a>. Como prototipo nos ha servido para sacar mucha información y mejorar la plataforma en futuras releases.</p> 
-
-
+<p>El resultado <a href="http://www.ivanbayo.com/rooof/" target="_blank">puede verse online</a>. Como prototipo nos ha servido para sacar mucha información y mejorar la plataforma en futuras releases.</p>
