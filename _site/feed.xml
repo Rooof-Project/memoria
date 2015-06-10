@@ -5,8 +5,8 @@
     <description>ROOOF Memoria proyecto final</description>
     <link>http://rooof-project.github.io/memoria/</link>
     <atom:link href="http://rooof-project.github.io/memoria/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 09 Jun 2015 12:58:57 +0200</pubDate>
-    <lastBuildDate>Tue, 09 Jun 2015 12:58:57 +0200</lastBuildDate>
+    <pubDate>Wed, 10 Jun 2015 14:35:45 +0200</pubDate>
+    <lastBuildDate>Wed, 10 Jun 2015 14:35:45 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -23,15 +23,17 @@
 &lt;p&gt;Así que nuestro brief era este:&lt;/p&gt;
 &lt;blockquote&gt;Diseñar una plataforma para personas u organizaciones interesadas por la cultura donde puedan compartir de manera restringida o pública sus gustos y experiencias, y obtener recomendaciones a partir de los de otras personas afines. &lt;/blockquote&gt;
 
-&lt;p&gt;El brief que no queríamos, pero no pasaba nada, porque todavía no lo sabíamos pero teníamos un equipo de puta madre.&lt;/p&gt;
+&lt;p&gt;El brief que no queríamos, pero no pasaba nada, porque todavía no lo sabíamos pero teníamos un equipo genial.&lt;/p&gt;
 
 &lt;h2 class=&quot;section-heading&quot;&gt;Cuestionando el brief&lt;/h2&gt;
 
 &lt;p&gt;Ahora tocaba volver a empezar con el nuevo brief y el nuevo equipo. Teníamos algunos materiales que nuestros compañeros (y nosotros mismos) habían hecho previamente para este brief, y nos vinieron de lujo como partida para seguir con la investigación.&lt;/p&gt;
 
-&lt;p&gt;Desde un principio siempre rondaba una idea en nuestras cabezas: asistir a actos culturales de una forma más fácil, barata y comunitaria. Pensamos que teníamos que enlazarlo con los espacios privados de los usuarios: sus casas.&lt;/p&gt;
+&lt;p&gt;Comenzamos analizando el material que ya teníamos y haciendo nuevas entrevistas. &lt;/p&gt;
 
-&lt;p&gt;Nos impusimos esta máxima: sin espacio privado no hay proyecto. Temíamos que Rooof se convirtiese en una mera agenda cultural, de las que ya existen tantas como &quot;le cool&quot;, &quot;time out&quot; etc... Agendas que enlazan negocios culturales con usuarios.&lt;/p&gt;
+&lt;p&gt;Desde el primer contacto con posibles usuarios, siempre rondaba una idea en nuestras cabezas: asistir a actos culturales de una forma más fácil, barata y comunitaria. Pensamos que teníamos que enlazarlo con los espacios privados de los usuarios: sus casas.&lt;/p&gt;
+
+&lt;p&gt;Nos impusimos esta máxima: sin espacio privado no hay proyecto. Temíamos que ROOOF se convirtiese en una mera agenda cultural, de las que ya existen tantas como &quot;Le Cool&quot;, &quot;Time Out&quot; etc... Agendas que enlazan negocios culturales con usuarios.&lt;/p&gt;
 
 &lt;p&gt;No queríamos estar relacionados con este circuito clásico del negocio, queríamos crear el nuestro, uno diferente creado por personas sin necesidad de infraestructura especial para su desarrollo.&lt;/p&gt;
 
@@ -51,19 +53,14 @@
         <title>¿Qué es ROOOF?</title>
         <description>&lt;h2 class=&quot;section-heading&quot;&gt;¿Qué es ROOOF?&lt;/h2&gt;
 
-&lt;p&gt;Imaginaos un domingo de resaca. De repente el maldito vecino del 2ºB empieza tocar su piano. Joder que putada, lo odias y lo quieres matar.&lt;/p&gt;
-
-&lt;p&gt;Error, en Rooof queremos que la gente vaya a casa de su vecino y que descubra su talento musical. Y además el vecino prepara unas croquetas buenísimas y tiene un grupo de amigos que son la bomba. ¿Acaso hay algo mejor que unas croquetas cuando estás de resaca? &lt;/p&gt;
-
-&lt;p&gt;En ROOOF queremos dar la posibilidad de tener un tiempo de ocio diferente, distinto a lo que está marcado como un &quot;must do&quot;.&lt;/p&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;¿Qué puedes hacer en ROOOF?&lt;/h2&gt;
 &lt;p&gt; ROOOF es una plataforma cultural que sirve como enlace entre artistas locales y su público. A través de la plataforma los usuarios pueden asistir a eventos creados por otros usuarios, o pueden crear los suyos propios, en su propia casa o espacio privado.&lt;/p&gt;
 
 &lt;h3&gt; ¿Qué motivaciones tienen los usuarios?&lt;/h3&gt;
 
 &lt;p&gt; Los creadores (grupos de música o de teatro, ilustradores, fotógrafos, humoristas, chefs...) sacarán algo de dinero y ganarán público.&lt;/p&gt;
 &lt;p&gt; Los asistentes (personas consumidoras de cultura) verán una actuación en directo, sin aglomeraciones, ni colas.&lt;/p&gt;
+
+&lt;p&gt;En ROOOF queremos dar la posibilidad de tener un tiempo de ocio diferente, distinto a lo que está marcado como un &quot;must do&quot;.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/memoria/img/que-es.jpg&quot; alt=&quot;Evento con ROOOF&quot; /&gt;&lt;/p&gt;
 
@@ -195,6 +192,10 @@ Al comienzo pensamos que el espacio dónde se realizaban los eventos no estaba r
 
 &lt;p&gt;En cuanto a los creadores del evento descubrimos que necesitaban ciertas funcionalidades que les hiciese sentir seguros y afines a la plataforma: deben poder decidir el lugar, la fecha, la hora el número de asistentes, el precio. Los creadores tenían que ser los usuarios &quot;mimados&quot;, ofrecen su casa e invierten tiempo y preparación para realizar el evento. Pero no podíamos olvidar a los asistentes los cuales son mayor en número. Nos empezamos a percatar de que teníamos una posible complicación: tenemos dos tipos de usuarios muy distintos con diferentes necesidades y motivaciones. Teníamos que &lt;strong&gt;resolver las necesidades&lt;/strong&gt; de cada uno y generar experiencias para ambos al mismo tiempo y a veces por separado.&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;/memoria/img/insights.jpg&quot; alt=&quot;Mapa de Insights&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;caption text-muted&quot;&gt;Como herramienta de análisis de las entrevistas realizamos mapas de insights, para ayudarnos a digerir y entender la información recopilada.&lt;/span&gt;&lt;/p&gt;
+
 &lt;p&gt;Estas primeras entrevistas también nos sirvieron para dejar de un lado nuestra ingeniudad y buscar una forma más eficaz de sacar información de valor al entrevistado mediante el uso de preguntas más elaboradas.&lt;/p&gt;
 
 &lt;p&gt;A continuación, tras las entrevistas, desarrollamos unas &lt;strong&gt;&quot;personas&quot;&lt;/strong&gt; para tener siempre presentes a que tipo de usuario nos dirigíamos, sus necesidades, motivaciones, historia, comportamiento y funcionalidades que podrían necesitar.&lt;/p&gt;
@@ -206,8 +207,9 @@ Al comienzo pensamos que el espacio dónde se realizaban los eventos no estaba r
 &lt;p&gt;En un principio tan sólo observamos dos funcionalidades para cada uno. Pepe necesitaba un filtrador de eventos y un asistente de reserva. Por otro lado, Daniela, necesitaba crear un evento y categorizarlo.&lt;/p&gt;
 
 &lt;p&gt;Estas necesidades de ambos es lo que nos marcó el camino para desarrollar el &lt;strong&gt;primer Producto Mínimo Viable&lt;/strong&gt;. Un primer prototipo un tanto tosco en diseño pero que respondía a 2 premisas básicas para el funcionamiento de la plataforma: crear y reservar un evento. Posteriormente, dentro de esta release, nos pareció oportuno añadir un apartado de “que es” con el fin de asegurarnos que quedaba claro de qué trataba la página.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/memoria/img/pepe-daniela.jpg&quot; alt=&quot;Pepe y Daniela&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.dropbox.com/s/gmjsyhprcf5uqho/03-elevator-pitch.pdf?dl=0&quot; target=&quot;_blank&quot;&gt;
+&lt;img src=&quot;/memoria/img/pepe-daniela.jpg&quot; alt=&quot;Pepe y Daniela&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 class=&quot;section-heading&quot;&gt;Historias de Usuario&lt;/h2&gt;
 &lt;p&gt;Después de ordenar y digerir la información que habíamos recopilado y asimilar los insights encontrados era hora de construír la plataforma.
@@ -295,7 +297,6 @@ Al comienzo pensamos que el espacio dónde se realizaban los eventos no estaba r
 &lt;p&gt;A la hora de crear el evento recurrimos a un typeform ya que consideramos que no era oportuno invertir tiempo en la creación de un formulario propio. Nos interesaba que lo que nos plateamos en las historias de usuario funcionase con el mínimo esfuerzo posible ya que sabíamos que todo podía cambiar.&lt;/p&gt;
 
 &lt;p&gt;El resultado &lt;a href=&quot;http://www.ivanbayo.com/rooof/&quot; target=&quot;_blank&quot;&gt;puede verse online&lt;/a&gt;. Como prototipo nos ha servido para sacar mucha información y mejorar la plataforma en futuras releases.&lt;/p&gt;
-
 </description>
         <pubDate>Thu, 16 Apr 2015 00:00:00 +0200</pubDate>
         <link>http://rooof-project.github.io/memoria/2015/04/16/Release-1/</link>
@@ -354,10 +355,11 @@ Al comienzo pensamos que el espacio dónde se realizaban los eventos no estaba r
 
 &lt;p&gt;De nuevo necesitábamos un camino a seguir. El rediseño de la página, añadir las nuevas historias de usuarios y corregir las que ya teníamos suponía una gran tarea. Necesitábamos un esqueleto que nos mostrase qué podía hacer el usuario en cada lugar en el que se encontraba. Necesitábamos un mapa para no perdernos en el diseño, un mapa que se hizo mucho más complejo de lo que pensábamos al añadir la funcionalidad de registro/login de usuario.&lt;/p&gt;
 
-
+&lt;a href=&quot;https://www.dropbox.com/s/0yf6yt6bybjxuy5/02-workflow.png?dl=0&quot; target=&quot;_blank&quot;&gt;
 &lt;img src=&quot;/memoria/img/workflow-r2.jpg&quot; alt=&quot;workflow&quot; /&gt;
+&lt;/a&gt;
 
-&lt;p&gt;Nos planteamos añadir nuevas secciones: ¿qué es rooof?, y dar más protagonismo a la lista de eventos.&lt;/p&gt;
+&lt;p&gt;Nos planteamos añadir nuevas secciones: ¿qué es ROOOF?, y dar más protagonismo a la lista de eventos.&lt;/p&gt;
 
 
 &lt;h2 class=&quot;section-heading&quot;&gt;Wireframes&lt;/h2&gt;
@@ -375,30 +377,30 @@ Al comienzo pensamos que el espacio dónde se realizaban los eventos no estaba r
 &lt;span class=&quot;caption text-muted&quot;&gt;Con el wireframe, hicimos un prototipo muy simple con Marvelapp, para comprobar si nuestra estructura funcionaba a nivel de navegación.
 .&lt;/span&gt;
 
-&lt;p&gt;Nuestra preocupación por hacer saber que era Rooof nos llevó a plantear una nueva página en la que el usuario podía informarse qué podía hacer en la plataforma &quot;¿qué es rooof?, le daríamos el máximo protagonismo poniendo un botón en el header de la landing que llevara a los usuarios hasta esta sección.&lt;/p&gt;
+&lt;p&gt;Nuestra preocupación por hacer saber que era ROOOF nos llevó a plantear una nueva página en la que el usuario podía informarse qué podía hacer en la plataforma &quot;¿qué es ROOOF?&quot;, le daríamos el máximo protagonismo poniendo un botón en el header de la landing que llevara a los usuarios hasta esta sección.&lt;/p&gt;
 
 &lt;p&gt;En esta página también mostramos otras funcionalidades que siempre deberían estar presentes: lista de eventos y como asistir a un evento.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Además con el wireframe sacamos estas conclusiones:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt; Tenemos que añadir “botón qué es rooof” en el header, para que en todo momento se pueda acceder a esta información.&lt;/li&gt;
+&lt;li&gt; Tenemos que añadir un botón &quot;qué es ROOOF” en el header, para que en todo momento se pueda acceder a esta información.&lt;/li&gt;
 
 &lt;li&gt; Ok a la nueva estructura de la landing:&lt;/li&gt;
 
 &lt;ul&gt;
 	&lt;li&gt;Foto con copy y call to action.&lt;/li&gt;
-    &lt;li&gt;Sugerencia de eventos.&lt;/li&gt;
-    &lt;li&gt;Como asistir.&lt;/li&gt;
-    &lt;li&gt;Crear eventos.&lt;/li&gt;
+    &lt;li&gt;Sugerencia de eventos destacados.&lt;/li&gt;
+    &lt;li&gt;Como asistir a un evento.&lt;/li&gt;
+    &lt;li&gt;Call to action a &quot;Crear eventos&quot;.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;li&gt; Cambios al orden de información de la sección “que es”:&lt;/li&gt;
 
 &lt;ul&gt;
-	&lt;li&gt;Slide informativo.&lt;/li&gt;
-    &lt;li&gt;Sugerencia de eventos: cambiarlo por texto “que es”&lt;/li&gt;
-    &lt;li&gt;Como asistir.&lt;/li&gt;
-    &lt;li&gt;Crear eventos.&lt;/li&gt;
+	&lt;li&gt;Slide informativo, con imágenes y textos cortos.&lt;/li&gt;
+    &lt;li&gt;Explicación de qué es ROOOF.&lt;/li&gt;
+    &lt;li&gt;Como asistir a un evento.&lt;/li&gt;
+    &lt;li&gt;Call to action a &quot;Crear eventos&quot;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/ul&gt;
 
@@ -415,12 +417,12 @@ Al comienzo pensamos que el espacio dónde se realizaban los eventos no estaba r
 &lt;/a&gt;
 
 
-&lt;p&gt;También empezamos a probar con otros copies. Antes era “Rooof es una nueva forma de disfrutar de la cultura en casa” y ahora es “quedadas culturales en casas de Barcelona”.&lt;/p&gt;
+&lt;p&gt;También empezamos a probar con otros copies. Antes era “ROOOF es una nueva forma de disfrutar de la cultura en casa” y ahora es “quedadas culturales en casas de Barcelona”.&lt;/p&gt;
 
 
 &lt;h3&gt;Propuesta Gráfica&lt;/h3&gt;
 
-&lt;p&gt;En esta release cambiamos por completo el grafismo de la página por motivos anteriormente comentados. A partir del wireframe desarrollamos un nuevo layout, más simple con menos artificios y más claro. Estos fueron cambios más significativos que realizamos:&lt;/p&gt;
+&lt;p&gt;En esta release cambiamos el grafismo de la página por motivos anteriormente comentados. A partir del wireframe desarrollamos un nuevo layout, más simple con menos artificios y más claro. Estos fueron cambios más significativos que realizamos:&lt;/p&gt;
 
 &lt;ul&gt;
 	&lt;li&gt;Color: simplificamos color, ahora solo usamos grises, blanco y rosa.El rosa será nuestro color corporativo y ayudará al usuario a navegar a través de la página. Intercalando blanco, gris y fotos separamos secciones dentro de una misma página, y jugamos más con los módulos creando layouts diferentes. Con esto resolvemos el problema que se nos presentó en las entrevistas: los usuarios les costaba distinguir entre la home y las páginas interiores.&lt;/li&gt;
@@ -443,25 +445,24 @@ Al comienzo pensamos que el espacio dónde se realizaban los eventos no estaba r
 
 &lt;p&gt;Antes:&lt;/p&gt;
 
-&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/memoria/img/Antes-r2.png&quot; alt=&quot;copies&quot; /&gt;
-&lt;/a&gt;
+
+&lt;img src=&quot;/memoria/img/Antes-r2.png&quot; alt=&quot;copies&quot; /&gt;
+
 
 &lt;p&gt;Después:&lt;/p&gt;
 
-&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/memoria/img/Despues-r2.png&quot; alt=&quot;copies&quot; /&gt;
-&lt;/a&gt;
+&lt;img src=&quot;/memoria/img/Despues-r2.png&quot; alt=&quot;copies&quot; /&gt;
 
-&lt;p&gt;Además haríamos los copies más directos y claros. Los usuarios no sabían que los eventos eran en casas particulares y debíamos poner remedio. La frase del header, la que comunica qué es ROOOF, la cambiamos varias veces. Al final la que mejor funcionó fué esta:
+
+&lt;p&gt;Además hicimos los copies más directos y claros. Los usuarios no sabían que los eventos eran en casas particulares y debíamos poner remedio. La frase del header, la que comunica qué es ROOOF, la cambiamos varias veces. Al final la que mejor funcionó fué esta:
 
 &lt;blockquote&gt;&quot;Conciertos, teatro y gastronomía en casas de Barcelona&quot; &lt;/blockquote&gt;&lt;/p&gt;
 
 &lt;h2 class=&quot;section-heading&quot;&gt;Creación del evento&lt;/h2&gt;
 
-&lt;p&gt; El formulario para crear evento lo habíamos planteado a través de un typeform, y pese a que nos aportaba funcionalidad, se presentaban algunos problemas: el primero era que salias de la propia plataforma: otra gráfica y otra comunicación a nivel visual. También los usuarios se frustraban bastante, no sabían que información debian poner en cada caso. &lt;/p&gt;
+&lt;p&gt; El formulario para crear evento lo habíamos planteado a través de un typeform, y pese a que nos aportaba funcionalidad, se presentaban algunos problemas. El primero era que salias de la propia plataforma: otra gráfica y otra comunicación a nivel visual, y tiempo de carga. También los usuarios se frustraban bastante, no sabían que información debian poner en cada caso. &lt;/p&gt;
 
-&lt;p&gt;Decidimos crear un &lt;a href=&quot;http://marvl.in/3fij9c&quot; target=&quot;_blank&quot;&gt;formulario propio &lt;/a&gt; para crear un evento. Estamos de acuerdo con que el typeform ya cumplía en parte con su función y también estamos de acuerdo con que no era muy lógico dedicar tanto tiempo a estas alturas del proyecto a realizar el formulario. Además, nuestros conocimientos de programación backend hacían imposible tener totalmente operativa esta funcionalidad. Resumiendo iba contra los principios agile y seguro que íbamos a malgastar mucho tiempo haciéndolo. Pero, por otra parte, consideramos que estamos en un contexto académico y queríamos aprender, queríamos enfrentarnos al diseño de un formulario distinto y con una gráfica propia, no la que nos daba el typeform.
+&lt;p&gt;Decidimos crear un &lt;a href=&quot;http://marvl.in/3fij9c&quot; target=&quot;_blank&quot;&gt;formulario propio &lt;/a&gt; para crear un evento. Estamos de acuerdo con que el typeform ya cumplía en parte con su función y también estamos de acuerdo con que no era muy lógico dedicar tanto tiempo a estas alturas del proyecto a realizar el formulario. Además, nuestros conocimientos de programación backend hacían imposible tener totalmente operativa esta funcionalidad. Resumiendo iba contra los principios agile y seguro que íbamos a malgastar mucho tiempo haciéndolo. Pero, por otra parte, consideramos que estamos en un contexto académico y queríamos aprender, queríamos enfrentarnos al diseño de un formulario distinto y con una gráfica propia, y adpatarlo totalmente a las necesidades del usuario.
 &lt;/p&gt;
 
 &lt;p&gt;El resultado fue este:&lt;/p&gt;
@@ -472,14 +473,14 @@ Al comienzo pensamos que el espacio dónde se realizaban los eventos no estaba r
 
 &lt;h2 class=&quot;section-heading&quot;&gt;Reserva del evento&lt;/h2&gt;
 &lt;h3&gt; Etiquetas&lt;/h3&gt;
-&lt;p&gt; En esta release añadimos una categorización por etiquetas, de momento sin interacción, tan sólo las nombrábamos y las destacamos por registro de color. Este cambio respondía a las necesidades de algunos usuarios a los que les hicimos el text de ux. Y con ello aportábamos un filtro visual por categorías, necesario para muchos usuarios.&lt;/p&gt;
+&lt;p&gt; En esta release añadimos una categorización por etiquetas, de momento sin interacción, tan sólo las nombrábamos y las destacamos por registro de color. Este cambio respondía a las necesidades de algunos usuarios a los que les hicimos el test. Y con ello aportábamos un filtro visual por categorías, de fácil implementación para nosotros, y necesario para muchos usuarios.&lt;/p&gt;
 
 &lt;h3&gt; Casuísticas&lt;/h3&gt;
 &lt;p&gt;También habíamos previsto diferentes soluciones gráficas en caso de que el evento tuviese el aforo completo. En este caso consideramos oportuno ofrecerle al usuario la posibilidad de apuntarse a una lista en la que, si hubiese alguna vacante, podría acceder al evento.&lt;/p&gt;
 
-&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/memoria/img/Fichasev-r2.png&quot; alt=&quot;fichas evento&quot; /&gt;
-&lt;/a&gt;
+
+&lt;img src=&quot;/memoria/img/Fichasev-r2.png&quot; alt=&quot;fichas evento&quot; /&gt;
+
 
 
 &lt;p&gt;En general las fichas de los eventos cambiaron bastante, añadimos más espacio, destacamos el contenido de las mismas y a la vez las hicimos más simples y con más espacio. Y siempre con acceso a información acerca del creador y del precio.&lt;/p&gt;
@@ -487,9 +488,9 @@ Al comienzo pensamos que el espacio dónde se realizaban los eventos no estaba r
 &lt;h3&gt; Facilitando información al usuario&lt;/h3&gt;
 &lt;p&gt;Durante los test con el primer prototipo observamos que el usuario tenía problemas para saber si había conseguido reservar evento, o como se pagaba éste. Por ello, en la página donde está la ficha del evento, junto al botón de “reservar entrada” añadimos una información intentando solucionar este problema:&lt;/p&gt;
 
-&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/memoria/img/reservar-evento-r2.jpg&quot; alt=&quot;reservar evento&quot; /&gt;
-&lt;/a&gt;
+
+ &lt;img src=&quot;/memoria/img/reservar-evento-r2.jpg&quot; alt=&quot;reservar evento&quot; /&gt;
+
 
 &lt;p&gt;Más tarde nos daríamos cuenta de que no funcionaría del todo, y que la solución era bastante ineficaz.&lt;/p&gt;
 
@@ -498,8 +499,8 @@ Al comienzo pensamos que el espacio dónde se realizaban los eventos no estaba r
 &lt;p&gt;¿Porque +2 voy con un amigo y no +20?. Para responder a esta pregunta tenemos que hacerlo desde dos puntos de vista:&lt;/p&gt;
 
 &lt;ul&gt;
-	&lt;li&gt;Por el usuario creador: A través de las entrevistas con los usuarios entendemos que el creador del evento realiza un esfuerzo para preparar su espectáculo. Dedica tiempo a ensayar y deja de hacer otras cosas para que el día señalado su público vaya a su casa. Además, su casa no es un escenario donde haya un gran aforo. Por ello, si algún usuario pudiese reservar 20 plazas y , por cualquier motivo, no pudiese ir, el creador del evento se vería frustrado en su casa y sin público.&lt;/li&gt;
-    &lt;li&gt;2 Por la plataforma: Si el usuario que va a disfrutar del evento quiere ir con más amigos es necesario que estos se registren, tener más usuarios registrados es positivo para la plataforma.&lt;/li&gt;
+	&lt;li&gt; Por el usuario creador: A través de las entrevistas con los usuarios entendemos que el creador del evento realiza un esfuerzo para preparar su espectáculo. Dedica tiempo a ensayar y deja de hacer otras cosas para que el día señalado su público vaya a su casa. Además, su casa no es un escenario donde haya un gran aforo. Por ello, si algún usuario pudiese reservar 20 plazas y , por cualquier motivo, no pudiese ir, el creador del evento se vería frustrado en su casa y sin público.&lt;/li&gt;
+    &lt;li&gt; Por la plataforma: Si el usuario que va a disfrutar del evento quiere ir con más amigos es necesario que estos se registren, tener más usuarios registrados es positivo para la plataforma.&lt;/li&gt;
 &lt;/ul&gt;
 
 

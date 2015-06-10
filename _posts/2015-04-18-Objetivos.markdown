@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "¿Qué es ROOOF?"
-subtitle: Lo que nos salió después de muchas vueltas al brief.
+subtitle: Qué puedes hacer en la plataforma y cuáles son los objetivos.
 "header-img": "img/post-bg-10.jpg"
 published: true
 ---

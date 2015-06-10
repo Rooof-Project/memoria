@@ -2,7 +2,7 @@
 layout: post
 title: Primera Release
 subtitle: "Cómo empezamos a definir el proyecto, investigación, design thinking, y primer producto viable."
-"header-img": "img/post-bg-02.jpg"
+"header-img": "img/post-bg-03.jpg"
 published: true
 ---
 
@@ -157,7 +157,7 @@ Al comienzo pensamos que el espacio dónde se realizaban los eventos no estaba r
 
 <h2 class="section-heading">Solución tecnológica</h2>
 
-<p>El primer prototipo fue diseñado en illustrator y maquetado con HTML, CSS y un poco de Java Script en elementos como el header.</p> 
+<p>El primer prototipo fue diseñado en illustrator y maquetado con HTML, CSS y un poco de Java Script en elementos como el header.</p>
 
 <p>A la hora de crear el evento recurrimos a un typeform ya que consideramos que no era oportuno invertir tiempo en la creación de un formulario propio. Nos interesaba que lo que nos plateamos en las historias de usuario funcionase con el mínimo esfuerzo posible ya que sabíamos que todo podía cambiar.</p>
 
