@@ -9,6 +9,7 @@ published: true
 
 
 
+
 <h2 class="section-heading">Metodología de trabajo</h2>
 
 <p>Para el desarrollo del proyecto hemos querido alejarnos de los tradicionales procesos en cascada e intentar involucrarnos con metodologías ágiles.</p>
@@ -19,7 +20,7 @@ published: true
 
 <p>Diseñamos nuestro proceso de trabajo así:</p>
 
-<img src="{{ site.baseurl }}/img/metodo-agil-23.png" alt="Post Sample Image">
+<img src="{{ site.baseurl }}/img/metodo-agil-23b.png" alt="Post Sample Image">
 
 <p>Primero planteamos las historias de usuario y los objetivos del proyecto. Desarrollamos las historias incluyendo todas aquellas facetas que consideramos necesarias: workflow, entrevistas, wireframes, diseño visual, y desarrollo del prototipo. Al final probamos el prototipo y con las conclusiones sacadas volvemos a plantear nuevas historias de usuario.</p>
 
