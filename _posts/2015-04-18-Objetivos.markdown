@@ -9,21 +9,17 @@ published: true
 
 
 
+
 <h2 class="section-heading">¿Qué es ROOOF?</h2>
 
-<p>Imaginaos un domingo de resaca. De repente el maldito vecino del 2ºB empieza tocar su piano. Joder que putada, lo odias y lo quieres matar.</p>
-
-<p>Error, en Rooof queremos que la gente vaya a casa de su vecino y que descubra su talento musical. Y además el vecino prepara unas croquetas buenísimas y tiene un grupo de amigos que son la bomba. ¿Acaso hay algo mejor que unas croquetas cuando estás de resaca? </p>
-
-<p>En ROOOF queremos dar la posibilidad de tener un tiempo de ocio diferente, distinto a lo que está marcado como un "must do".</p>
-
-<h2 class="section-heading">¿Qué puedes hacer en ROOOF?</h2>
 <p> ROOOF es una plataforma cultural que sirve como enlace entre artistas locales y su público. A través de la plataforma los usuarios pueden asistir a eventos creados por otros usuarios, o pueden crear los suyos propios, en su propia casa o espacio privado.</p>
 
 <h3> ¿Qué motivaciones tienen los usuarios?</h3>
 
 <p> Los creadores (grupos de música o de teatro, ilustradores, fotógrafos, humoristas, chefs...) sacarán algo de dinero y ganarán público.</p>
 <p> Los asistentes (personas consumidoras de cultura) verán una actuación en directo, sin aglomeraciones, ni colas.</p>
+
+<p>En ROOOF queremos dar la posibilidad de tener un tiempo de ocio diferente, distinto a lo que está marcado como un "must do".</p>
 
  <img src="{{ site.baseurl }}/img/que-es.jpg" alt="Evento con ROOOF">
 
