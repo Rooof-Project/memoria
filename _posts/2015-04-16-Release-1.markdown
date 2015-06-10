@@ -10,6 +10,7 @@ published: true
 
 
 
+
 <h2 class="section-heading">Design Thinking e Investigación</h2>
 
 <p>Una vez recibido el primer brief para la plataforma usamos varias herramientas de design thinking para generar ideas y buscar un camino para darle forma a nuestra propuesta.</p>
@@ -47,7 +48,9 @@ Al comienzo pensamos que el espacio dónde se realizaban los eventos no estaba r
 
 <p>En cuanto a los creadores del evento descubrimos que necesitaban ciertas funcionalidades que les hiciese sentir seguros y afines a la plataforma: deben poder decidir el lugar, la fecha, la hora el número de asistentes, el precio. Los creadores tenían que ser los usuarios "mimados", ofrecen su casa e invierten tiempo y preparación para realizar el evento. Pero no podíamos olvidar a los asistentes los cuales son mayor en número. Nos empezamos a percatar de que teníamos una posible complicación: tenemos dos tipos de usuarios muy distintos con diferentes necesidades y motivaciones. Teníamos que <strong>resolver las necesidades</strong> de cada uno y generar experiencias para ambos al mismo tiempo y a veces por separado.</p>
 
-<img src="{{ site.baseurl }}/img/pepe-daniela.jpg" alt="Mapa de Insights">
+<img src="{{ site.baseurl }}/img/insights.jpg" alt="Mapa de Insights">
+
+<span class="caption text-muted">Como herramienta de análisis de las entrevistas realizamos mapas de insights, para ayudarnos a digerir y entender la información recopilada.</span>
 
 <p>Estas primeras entrevistas también nos sirvieron para dejar de un lado nuestra ingeniudad y buscar una forma más eficaz de sacar información de valor al entrevistado mediante el uso de preguntas más elaboradas.</p>
 
