@@ -65,13 +65,13 @@ published: true
 <h2 class="section-heading">Objetivos de la release</h2>
 <p>En esta release tuvimos un problema con el tiempo. El test se había alargado demasiado y nos quedaba muy poco margen de reacción. Analizamos los resultados del test y establecimos unos objetivos mínimos.</p>
 
-<p>Los objetivos no alcanzados fueron los primeros que empezamos a corregir antes de añadir nuevas funcionalidad a la plataforma. Para la creación y reserva de eventos se intervino en los formularios y se planteó la creación de mails que avisaran al usuario que los procesos de reserva y creación habían finalizado.</p>
+<p>Los objetivos no alcanzados fueron los primeros que empezamos a corregir antes de añadir nueva funcionalidad a la plataforma. Para la creación y reserva de eventos se intervino en los formularios y se planteó la creación de mails que avisaran al usuario que los procesos de reserva y creación habían finalizado.</p>
 
-<p>En el caso de creación de evento, en el momento del test, no estaba completo debido al alto nivel de programación que necesitaba, por lo cual nos llevo un tiempo en conseguir finalizarlo satisfactoriamente.</p>
+<p>En el caso de creación de evento, en el momento del test, no estaba completo debido al alto nivel de programación que necesitaba, por lo cual nos llevó un tiempo en conseguir finalizarlo satisfactoriamente.</p>
 
 <p>También hicimos algunos pequeños cambios en arquitectura valiéndonos de la información de los test. No debíamos dar tanta importancia al apartado "Qué es ROOOF", facilitar el acceso a la lista de eventos era más importante. Nos dimos cuenta de que los copies de la home funcionaban, y que el estilo claro y directo era acertado. Por otra parte, nadie se leía los textos del slide en la sección "Qué es ROOOF", pero descubrimos que la fotografía comunicaba lo que queríamos, y aportaba mucha información al usuario.</p>
 
-<p>Nos propusimos abordar en esta realise la parte móvil. Era muy importante que los usuarios pudieran acceder a la plataforma desde cualquier dispositivo, pues hasta ahora solo podían hacerlo desde desktop.</p>
+<p>Nos propusimos abordar en esta realise la parte móvil. Era muy importante que los usuarios pudieran acceder a la plataforma desde cualquier dispositivo, pues hasta ahora solo podían hacerlo desde el ordenador.</p>
 
 <h2 class="section-heading">Historias de usuario</h2>
 
@@ -95,12 +95,12 @@ published: true
 <h2 class="section-heading">Reserva y creación de evento</h2>
 
 
-<p>El principal problema que arrastramos desde la primera release es que los usuario no perciben bien cuando han reservado o creado un evento. No les queda claro cuando finaliza el proceso.</p>
+<p>El principal problema que arrastramos desde la primera release es que los usuarios no perciben bien cuando han reservado o creado un evento. No les queda claro cuando finaliza el proceso.</p>
 <p> Ya teníamos previsto la creación de mail en la segunda release pero todavía no lo habíamos hecho, así que tocaba finalizar esa parte.</p>
 
 <h3> Mails al usuario</h3>
 
-<p>Diseñamos un mail para confirmar al usuario que la reserva y la creación del evento se habían realizado. Para el proceso de reserva, la intención era también generar en el usuario sensación de seguridad. Incluimos una imagen de un ticket a modo “tienes tu entrada en el mail”, donde también explicamos como se realiza el pago y información acerca del evento.</p>
+<p>Diseñamos un mail para confirmar al usuario que la reserva y la creación del evento se habían realizado. Para el proceso de reserva, la intención era también generar en el usuario sensación de seguridad. Incluimos una imagen de un ticket a modo “tienes tu entrada en el mail”, donde también explicamos como se realiza el pago e información acerca del evento.</p>
 
 
 <img src="{{ site.baseurl }}/img/mail.jpg" alt="mail">
@@ -110,7 +110,7 @@ published: true
 
 <p>Comenzamos creando una versión móvil centrándonos sobre todo en la búsqueda y reserva del evento. La creación del evento en móvil la dejaríamos para más adelante, al considerarla menos importante.</p>
 
-<p>Para ello se realizó <a href="https://marvelapp.com/2ie4i7" target="_blank">un prototipo</a> en Marvelapp el cual nos ayudo a generar algunos cambios respecto a la versión de ordenador, tanto como tamaños en los botones, tamaños de los copies, tamaño en las imágenes, la manera en como la arquitectura de la pagina influía al momento de cambiar el formato, esto nos ayudo a darle mas coherencia y orden a la plataforma web.
+<p>Para ello se realizó <a href="https://marvelapp.com/2ie4i7" target="_blank">un prototipo</a> en Marvelapp el cual nos ayudó a generar algunos cambios respecto a la versión de ordenador, tanto como tamaños en los botones, tamaños de textos e imágenes, la manera en como la arquitectura de la pagina influía al momento de cambiar el formato, esto nos ayudó a darle mas coherencia y orden a la plataforma web.
 </p>
 
 <img src="{{ site.baseurl }}/img/tercera-rel-mobile.jpg" alt="ROOOF móvil">
