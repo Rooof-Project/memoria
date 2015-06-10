@@ -11,6 +11,7 @@ published: true
 
 
 
+
 <h2 class="section-heading">Design Thinking e Investigación</h2>
 
 <p>Una vez recibido el primer brief para la plataforma usamos varias herramientas de design thinking para generar ideas y buscar un camino para darle forma a nuestra propuesta.</p>
@@ -84,7 +85,7 @@ Al comienzo pensamos que el espacio dónde se realizaban los eventos no estaba r
     <li>Crear evento (básico).</li>
 </ul>
 
-<a href="#">
+<a href="https://www.dropbox.com/s/nbcbcz1yo8sznk4/historias-usuario.png?dl=0" target="_blank">
     <img src="{{ site.baseurl }}/img/Feature-mapr1.jpg" alt="Mapa historias de usuario">
 </a>
 
