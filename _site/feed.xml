@@ -5,8 +5,8 @@
     <description>ROOOF Memoria proyecto final</description>
     <link>http://rooof-project.github.io/memoria/</link>
     <atom:link href="http://rooof-project.github.io/memoria/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 10 Jun 2015 14:35:45 +0200</pubDate>
-    <lastBuildDate>Wed, 10 Jun 2015 14:35:45 +0200</lastBuildDate>
+    <pubDate>Wed, 10 Jun 2015 17:04:00 +0200</pubDate>
+    <lastBuildDate>Wed, 10 Jun 2015 17:04:00 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -130,7 +130,7 @@
 
 &lt;p&gt;Diseñamos nuestro proceso de trabajo así:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/memoria/img/metodo-agil-23.png&quot; alt=&quot;Post Sample Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/memoria/img/metodo-agil-23b.png&quot; alt=&quot;Post Sample Image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Primero planteamos las historias de usuario y los objetivos del proyecto. Desarrollamos las historias incluyendo todas aquellas facetas que consideramos necesarias: workflow, entrevistas, wireframes, diseño visual, y desarrollo del prototipo. Al final probamos el prototipo y con las conclusiones sacadas volvemos a plantear nuevas historias de usuario.&lt;/p&gt;
 
@@ -228,7 +228,7 @@ Al comienzo pensamos que el espacio dónde se realizaban los eventos no estaba r
     &lt;li&gt;Crear evento (básico).&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.dropbox.com/s/nbcbcz1yo8sznk4/historias-usuario.png?dl=0&quot; target=&quot;_blank&quot;&gt;
     &lt;img src=&quot;/memoria/img/Feature-mapr1.jpg&quot; alt=&quot;Mapa historias de usuario&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
@@ -529,7 +529,7 @@ Para hacer el prototipo continuamos usando html y css, cambiando los estilos que
         <title>Tercera Release</title>
         <description>&lt;h2 class=&quot;section-heading&quot;&gt;Test UX en Laboratorio&lt;/h2&gt;
 
-&lt;p&gt;En esta etapa teníamos la posibilidad de realizar unos test de usuario en laboratorio de UX y queríamos llegar con el proyecto lo más avanzado  posible. En este test podríamos a prueba la plataforma con usuarios que nunca la habían visto. Habíamos elaborado un guión para poner a prueba las siguientes cuestiones:&lt;/p&gt;
+&lt;p&gt;En esta etapa teníamos la posibilidad de realizar unos test de usuario en laboratorio de UX y queríamos llegar con el proyecto lo más avanzado  posible. En este test pondríamos a prueba la plataforma con usuarios que nunca la habían visto. Habíamos elaborado un guión para poner a prueba las siguientes cuestiones:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;1. Evaluar si los usuarios reconocen de qué trata la web.&lt;/li&gt;
@@ -582,13 +582,13 @@ Para hacer el prototipo continuamos usando html y css, cambiando los estilos que
 &lt;h2 class=&quot;section-heading&quot;&gt;Objetivos de la release&lt;/h2&gt;
 &lt;p&gt;En esta release tuvimos un problema con el tiempo. El test se había alargado demasiado y nos quedaba muy poco margen de reacción. Analizamos los resultados del test y establecimos unos objetivos mínimos.&lt;/p&gt;
 
-&lt;p&gt;Los objetivos no alcanzados fueron los primeros que empezamos a corregir antes de añadir nuevas funcionalidad a la plataforma. Para la creación y reserva de eventos se intervino en los formularios y se planteó la creación de mails que avisaran al usuario que los procesos de reserva y creación habían finalizado.&lt;/p&gt;
+&lt;p&gt;Los objetivos no alcanzados fueron los primeros que empezamos a corregir antes de añadir nueva funcionalidad a la plataforma. Para la creación y reserva de eventos se intervino en los formularios y se planteó la creación de mails que avisaran al usuario que los procesos de reserva y creación habían finalizado.&lt;/p&gt;
 
-&lt;p&gt;En el caso de creación de evento, en el momento del test, no estaba completo debido al alto nivel de programación que necesitaba, por lo cual nos llevo un tiempo en conseguir finalizarlo satisfactoriamente.&lt;/p&gt;
+&lt;p&gt;En el caso de creación de evento, en el momento del test, no estaba completo debido al alto nivel de programación que necesitaba, por lo cual nos llevó un tiempo en conseguir finalizarlo satisfactoriamente.&lt;/p&gt;
 
 &lt;p&gt;También hicimos algunos pequeños cambios en arquitectura valiéndonos de la información de los test. No debíamos dar tanta importancia al apartado &quot;Qué es ROOOF&quot;, facilitar el acceso a la lista de eventos era más importante. Nos dimos cuenta de que los copies de la home funcionaban, y que el estilo claro y directo era acertado. Por otra parte, nadie se leía los textos del slide en la sección &quot;Qué es ROOOF&quot;, pero descubrimos que la fotografía comunicaba lo que queríamos, y aportaba mucha información al usuario.&lt;/p&gt;
 
-&lt;p&gt;Nos propusimos abordar en esta realise la parte móvil. Era muy importante que los usuarios pudieran acceder a la plataforma desde cualquier dispositivo, pues hasta ahora solo podían hacerlo desde desktop.&lt;/p&gt;
+&lt;p&gt;Nos propusimos abordar en esta realise la parte móvil. Era muy importante que los usuarios pudieran acceder a la plataforma desde cualquier dispositivo, pues hasta ahora solo podían hacerlo desde el ordenador.&lt;/p&gt;
 
 &lt;h2 class=&quot;section-heading&quot;&gt;Historias de usuario&lt;/h2&gt;
 
@@ -612,12 +612,12 @@ Para hacer el prototipo continuamos usando html y css, cambiando los estilos que
 &lt;h2 class=&quot;section-heading&quot;&gt;Reserva y creación de evento&lt;/h2&gt;
 
 
-&lt;p&gt;El principal problema que arrastramos desde la primera release es que los usuario no perciben bien cuando han reservado o creado un evento. No les queda claro cuando finaliza el proceso.&lt;/p&gt;
+&lt;p&gt;El principal problema que arrastramos desde la primera release es que los usuarios no perciben bien cuando han reservado o creado un evento. No les queda claro cuando finaliza el proceso.&lt;/p&gt;
 &lt;p&gt; Ya teníamos previsto la creación de mail en la segunda release pero todavía no lo habíamos hecho, así que tocaba finalizar esa parte.&lt;/p&gt;
 
 &lt;h3&gt; Mails al usuario&lt;/h3&gt;
 
-&lt;p&gt;Diseñamos un mail para confirmar al usuario que la reserva y la creación del evento se habían realizado. Para el proceso de reserva, la intención era también generar en el usuario sensación de seguridad. Incluimos una imagen de un ticket a modo “tienes tu entrada en el mail”, donde también explicamos como se realiza el pago y información acerca del evento.&lt;/p&gt;
+&lt;p&gt;Diseñamos un mail para confirmar al usuario que la reserva y la creación del evento se habían realizado. Para el proceso de reserva, la intención era también generar en el usuario sensación de seguridad. Incluimos una imagen de un ticket a modo “tienes tu entrada en el mail”, donde también explicamos como se realiza el pago e información acerca del evento.&lt;/p&gt;
 
 
 &lt;img src=&quot;/memoria/img/mail.jpg&quot; alt=&quot;mail&quot; /&gt;
@@ -627,7 +627,7 @@ Para hacer el prototipo continuamos usando html y css, cambiando los estilos que
 
 &lt;p&gt;Comenzamos creando una versión móvil centrándonos sobre todo en la búsqueda y reserva del evento. La creación del evento en móvil la dejaríamos para más adelante, al considerarla menos importante.&lt;/p&gt;
 
-&lt;p&gt;Para ello se realizó &lt;a href=&quot;https://marvelapp.com/2ie4i7&quot; target=&quot;_blank&quot;&gt;un prototipo&lt;/a&gt; en Marvelapp el cual nos ayudo a generar algunos cambios respecto a la versión de ordenador, tanto como tamaños en los botones, tamaños de los copies, tamaño en las imágenes, la manera en como la arquitectura de la pagina influía al momento de cambiar el formato, esto nos ayudo a darle mas coherencia y orden a la plataforma web.
+&lt;p&gt;Para ello se realizó &lt;a href=&quot;https://marvelapp.com/2ie4i7&quot; target=&quot;_blank&quot;&gt;un prototipo&lt;/a&gt; en Marvelapp el cual nos ayudó a generar algunos cambios respecto a la versión de ordenador, tanto como tamaños en los botones, tamaños de textos e imágenes, la manera en como la arquitectura de la pagina influía al momento de cambiar el formato, esto nos ayudó a darle mas coherencia y orden a la plataforma web.
 &lt;/p&gt;
 
 &lt;img src=&quot;/memoria/img/tercera-rel-mobile.jpg&quot; alt=&quot;ROOOF móvil&quot; /&gt;
@@ -639,7 +639,6 @@ Para hacer el prototipo continuamos usando html y css, cambiando los estilos que
 &lt;p&gt;De cara al usuario en esta release los cambios no son muchos, y solo aportamos la parte responsive de nuestra plataforma.&lt;/p&gt;
 
 &lt;p&gt;Pero si que hubo un trabajo importante internamente. Al plantearnos hacer la web responsive propusimos hacer una revisión del código, e incluír aquellas herramientas y cononocimientos que fuimos aprendiendo en las clases y que no habíamos incluído hasta ahora. Así empezamos a usar &lt;a href=&quot;http://sass-lang.com/&quot; target=&quot;_blank&quot;&gt;Sass&lt;/a&gt;, y a plantear una &lt;a href=&quot;http://rooof-project.github.io/rooof-sass/example.html&quot; target=&quot;_blank&quot;&gt;guía de estilo css&lt;/a&gt; que nos ayudaría a lograr un mayor orden en el código. También empezamos a usar grids css valiendonos de frameworks como &lt;a href=&quot;http://foundation.zurb.com/&quot; target=&quot;_blank&quot;&gt;Foundation.&lt;/a&gt;&lt;/p&gt;
-
 &lt;/p&gt;
 </description>
         <pubDate>Tue, 14 Apr 2015 00:00:00 +0200</pubDate>
@@ -773,7 +772,7 @@ La estrategia podéis verla &lt;a href=&quot;http://issuu.com/rooof-project/docs
 &lt;p&gt;La identidad de la plataforma también la hemos planteado de manera incremental.
 Al trabajar por releases, y tener un tiempo limitado para abarcar todos los aspectos del proyecto (investigación con usuarios, modelo de negocio, arquitectura, soluciones tecnológicas...) nos dimos cuenta que no podíamos invertir desde el principio todo el tiempo que requiere crear una identidad sólida ya que lo primero era crear la plataforma, hacer un prototipo funcional y probarlo para saber qué caminos escoger. Por lo que en un primer momento decidimos hacer lo básico, una identidad mínima, que iría evolucionando a medida que avanzábamos con el proyecto.
 
-&lt;p&gt;En medio de entrevistas con usuarios, design thinking, y análisis de diferentes plataformas empezamos a sentar las bases de los elementos de la identidad: tpografía, color, fotografía, Naming, logotipo y comunicación. &lt;/p&gt;
+&lt;p&gt;En medio de entrevistas con usuarios, design thinking, y análisis de diferentes plataformas empezamos a sentar las bases de los elementos de la identidad: tipografía, color, fotografía, naming, logotipo y comunicación. &lt;/p&gt;
 
 &lt;h2 class=&quot;section-heading&quot;&gt;Teniendo en cuenta el target&lt;/h2&gt;
 
@@ -784,7 +783,7 @@ Al trabajar por releases, y tener un tiempo limitado para abarcar todos los aspe
 
 &lt;img src=&quot;/memoria/img/layout-1.jpg&quot; alt=&quot;Página de Rooof&quot; /&gt;
 
-&lt;span class=&quot;caption text-muted&quot;&gt;Rooof es un amigo que te recomienda nuevas formas de disfrutar de tu tiempo libre. Así es como fuimos definiendo el proyecto y la identidad debía reflejarlo.
+&lt;span class=&quot;caption text-muted&quot;&gt;ROOOF es un amigo que te recomienda nuevas formas de disfrutar de tu tiempo libre. Así es como fuimos definiendo el proyecto y la identidad debía reflejarlo.
 Con la combinación de tipografía, fotografía y color fuimos dando forma a la web.&lt;/span&gt;
 
 &lt;h3&gt;Tipografía&lt;/h3&gt;
@@ -808,12 +807,12 @@ Con la combinación de tipografía, fotografía y color fuimos dando forma a la 
 
 
 &lt;p&gt;&lt;strong&gt;Familia Dosis:&lt;/strong&gt; Aunque es la tipografía con más carácter y la que más personalidad aporta no es de fácil lectura por lo que fuimos delimitando su uso para titulares principales y secundarios, equilibrando identidad y legibilidad.
-Nos aporta los valores de desfenfado, diversión y juventud  que fuimos detectando en el target.&lt;/p&gt;
+Nos aporta los valores de desenfado, diversión y juventud  que fuimos detectando en el target.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Familia PT serif:&lt;/strong&gt; más humanística, nos aporta los valores culturales.  Además como es de fácil lectura la usamos para cuerpos de texto y todo párrafo relaccionado con el contenido que los usuarios irán generando.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Familia PT Sans:&lt;/strong&gt; Es una tipografía sin serifa, mucho más técnica y de fácil lectura. La usamos de apoyo con la tipografía principal Dosis, con la intención de crear contraste y ritmo.
-También la usamos para la comunicación de la plataforma con los usuarios: Formularios, alertas, mensajes de ayuda,  o datos puramente informativos como fechas, aforo, precios...&lt;/p&gt;
+También la usamos para la comunicación de la plataforma con los usuarios: Formularios, alertas, mensajes de ayuda, o datos puramente informativos como fechas, aforo, precios...&lt;/p&gt;
 
 &lt;blockquote&gt;Hubo un momento que teníamos demasiados pesos tipográficos, que fuimos depurando hasta usar solo tres para la Dosis, y uno para cada una de las PT, mas su versión bold.  Con esto conseguimos unidad en los estilos y eliminar peso inecesario en la web de ROOOF.&lt;/blockquote&gt;
 
@@ -924,14 +923,13 @@ Para ello, habitualmente uno de los lados es subvencionado, es decir, el servici
     
       <item>
         <title>Conclusiones finales</title>
-        <description>&lt;p&gt; Durante el transcurso del máster hemos aprendido conceptos que nos adentrado en el ámbito del diseño web. Hemos adquirido conocimientos de UX, programación, diseño web, prototipado, negocio... En definitiva, somos capaces de entender de forma holística un proyecto digital desde el negocio hasta la arquitectura técnica.&lt;/p&gt;
+        <description>&lt;p&gt; Durante el transcurso del máster hemos aprendido conceptos que nos han adentrado en el ámbito del diseño web. Hemos adquirido conocimientos de UX, programación, diseño web, prototipado, negocio... En definitiva, somos capaces de entender de forma holística un proyecto digital, desde el negocio hasta la arquitectura técnica.&lt;/p&gt;
 
 &lt;p&gt;Además hemos sabido implementar, con mayor o menor acierto, nuestro bagaje académico y profesional en este nuevo reto que ha sido este proyecto que presentamos.&lt;/p&gt;
 
-&lt;p&gt;Ahora somos capaces de entender el proceso de trabajo iterativo incremental y estamos familiarizado con los valores de las metodologías Agile y Lean. Y es más, incluso lo defendemos y lo intentamos aplicar en nuestras actuales profesiones y seguro que en el futuro próximo.&lt;/p&gt;
+&lt;p&gt;Ahora somos capaces de entender el proceso de trabajo iterativo incremental y estamos familiarizados con los valores de las metodologías Agile y Lean. Y es más, incluso lo defendemos y lo intentamos aplicar en nuestras actuales profesiones y seguro que en el futuro próximo.&lt;/p&gt;
 
-&lt;p&gt;A través de este proyecto, hemos podido aplicar todos los nuevos conocimientos que íbamos aprendiendo, o casi todos.&lt;/p&gt;
-
+&lt;p&gt;A través de este proyecto, hemos podido aplicar todos los nuevos conocimientos que íbamos aprendiendo.&lt;/p&gt;
 </description>
         <pubDate>Fri, 10 Apr 2015 00:00:00 +0200</pubDate>
         <link>http://rooof-project.github.io/memoria/2015/04/10/Conclusiones/</link>
